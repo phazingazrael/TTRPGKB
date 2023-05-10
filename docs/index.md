@@ -1,11 +1,7 @@
-# Obsidian Notes
-
-Publish your public notes with MkDocs
-
 ## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Welcome to the knowledgebase!
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+All information revealed to players will be available here.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Check the left side navigation for additional pages and information.
