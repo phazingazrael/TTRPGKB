@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Guilds/Trader's Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Guilds/Trader's Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Guilds/Trader's Guild.md"
+              }
             }
           }
         ],
@@ -142,53 +146,90 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "057a00a263ff6751",
+  "floating": {
+    "id": "a2a91df4ac619d0a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f5ddd0125453b164",
+        "type": "window",
+        "children": [
+          {
+            "id": "a3c7176c74097363",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "258c7c7ac52ea7e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Factions/Guilds/Trader's Guild.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 467,
+        "y": 149,
+        "width": 601,
+        "height": 302,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "258c7c7ac52ea7e3",
   "lastOpenFiles": [
-    "Factions/Guilds/Trader's Guild.md",
-    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
+    "docs/__attachments/emblems/city/qajaria/ralankalala.svg",
+    "docs/__attachments/emblems/city/qajaria/rakka.svg",
+    "docs/__attachments/emblems/city/qajaria/raupun.svg",
+    "docs/__attachments/emblems/city/qajaria/reykseynes.svg",
+    "docs/__attachments/emblems/city/qajaria/rouvrery.svg",
+    "docs/__attachments/emblems/city/qajaria/rozotska.svg",
+    "docs/__attachments/emblems/city/qajaria/rozoy.svg",
+    "docs/__attachments/emblems/city/qajaria/sanneaulivet.svg",
+    "docs/__attachments/emblems/city/qajaria/shifton.svg",
+    "docs/__attachments/emblems/city/qajaria/siglain.svg",
+    "docs/__attachments/emblems/city/qajaria/sigran.svg",
+    "docs/__attachments/emblems/city/qajaria",
+    "docs/__attachments/emblems/city",
+    "docs/__attachments/emblems/country",
+    "docs/__attachments/emblems",
+    "docs/__attachments/game-icons.net/lorc",
+    "docs/__attachments/game-icons.net",
+    "docs/__attachments",
+    "docs/lib/scripts/webpage.js",
+    "docs/lib/scripts",
+    "docs/lib/styles/snippets.css",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
+    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
     "Factions/ReligiousGroups/Angshire Faith.md",
     "Factions/ReligiousGroups/Astellianism.md",
     "Factions/ReligiousGroups/Elladan Deities.md",
-    "Factions/ReligiousGroups/Euskati Shamanism.md",
     "Factions/ReligiousGroups/Iconoclasm of the Disturbing Guardian.md",
-    "Factions/ReligiousGroups/Keltan Forefathers.md",
     "Factions/ReligiousGroups/Iurorumian Circle.md",
+    "Factions/ReligiousGroups/Euskati Shamanism.md",
     "Factions/ReligiousGroups/Luari Beliefs.md",
+    "Factions/ReligiousGroups/Keltan Forefathers.md",
     "Factions/ReligiousGroups/Minetesmo Deities.md",
     "Factions/ReligiousGroups/Nagymamoszomian Cult.md",
+    "Factions/ReligiousGroups/Norse Ancestors.md",
     "Factions/ReligiousGroups/No religion.md",
     "Factions/ReligiousGroups/Old Astellian Deities.md",
     "Factions/ReligiousGroups/Old Turchian Faith.md",
-    "Factions/ReligiousGroups/Romian Beliefs.md",
     "Factions/ReligiousGroups/Portuzian Beliefs.md",
+    "Factions/ReligiousGroups/Romian Beliefs.md",
     "Factions/ReligiousGroups/Schism of the Three.md",
     "Factions/ReligiousGroups/Shwazen Beliefs.md",
     "Factions/ReligiousGroups/Slovan Pantheon.md",
     "Factions/ReligiousGroups/Soumi Beliefs.md",
     "Factions/ReligiousGroups/Tallian Forefathers.md",
-    "Factions/ReligiousGroups/Vengrian Forefathers.md",
     "Factions/ReligiousGroups/Turchian Deities.md",
-    "Factions/ReligiousGroups/Norse Ancestors.md",
-    "docs/factions/guilds/trader's-guild.html",
-    "docs/factions/guilds",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/factions/militarygroups/qajaria/kuopioki",
-    "docs/factions/militarygroups/qajaria",
-    "docs/factions/militarygroups",
-    "docs/factions/religiousgroups/angshire-faith.html",
-    "docs/__attachments/emblems/city/qajaria/Tulpio.svg",
-    "docs/__attachments/emblems/city/qajaria/Thiviers.svg",
-    "docs/__attachments/emblems/city/qajaria/Syrve.svg",
-    "docs/__attachments/emblems/city/qajaria/Sundyrdur.svg",
-    "docs/__attachments/emblems/city/qajaria/Rouvrery.svg",
-    "docs/__attachments/emblems/city/qajaria/Reykseynes.svg",
-    "docs/__attachments/emblems/city/qajaria/Raupun.svg",
-    "docs/__attachments/emblems/city/qajaria/Latille.svg",
-    "docs/__attachments/emblems/city/qajaria/Lajarhokia.svg",
-    "docs/__attachments/emblems/city/qajaria/Laisa.svg"
+    "Factions/ReligiousGroups/Vengrian Forefathers.md"
   ]
 }
