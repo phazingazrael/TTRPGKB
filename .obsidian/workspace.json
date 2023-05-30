@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84255fd6237b632b",
+        "id": "4072fd5c429a6a60",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc1b413dbb09517",
+            "id": "db3616e1ef633170",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Eatheria/Index.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eatheria/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Eatheria/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Eatheria/Index.md"
+              }
             }
           },
           {
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,51 +162,51 @@
   },
   "active": "4154fe45ff49e790",
   "lastOpenFiles": [
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
+    "docs/__attachments/emblems/city/qajaria/Tulpio.svg",
+    "docs/__attachments/emblems/city/qajaria/Thiviers.svg",
+    "docs/__attachments/emblems/city/qajaria/Syrve.svg",
+    "docs/__attachments/emblems/city/qajaria/Sundyrdur.svg",
     "docs/__attachments/emblems/city/qajaria/Rouvrery.svg",
-    "docs/__attachments/emblems/city/qajaria/Stordi.svg",
-    "docs/__attachments/emblems/city/qajaria/Yvasajola.svg",
-    "docs/__attachments/emblems/city/qajaria/Vrigny.svg",
-    "docs/__attachments/emblems/city/qajaria/Visis.svg",
-    "docs/__attachments/emblems/city/qajaria/Viohja.svg",
-    "docs/__attachments/emblems/city/qajaria/Vilpsa.svg",
-    "docs/__attachments/emblems/city/qajaria/Villiers.svg",
-    "docs/__attachments/emblems/city/qajaria/Vienvilleaux.svg",
-    "docs/__attachments/emblems/city/qajaria/Vampssas.svg",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/__attachments/emblems/city/qajaria",
-    "docs/locations/cities/qajaria/yvasajola.html",
-    "docs/locations/cities/qajaria/vrigny.html",
-    "docs/locations/cities/qajaria/visis.html",
-    "docs/locations/cities/qajaria/vilpsa.html",
-    "docs/locations/cities/qajaria/viohja.html",
-    "docs/locations/cities/qajaria/villiers.html",
+    "docs/__attachments/emblems/city/qajaria/Reykseynes.svg",
+    "docs/__attachments/emblems/city/qajaria/Raupun.svg",
+    "docs/__attachments/emblems/city/qajaria/Latille.svg",
+    "docs/__attachments/emblems/city/qajaria/Lajarhokia.svg",
+    "docs/__attachments/emblems/city/qajaria/Laisa.svg",
+    "docs/__attachments/emblems/city/qajaria/Kylosaajo.svg",
+    "README.md",
+    "__attachments/emblems/City/Topoco",
+    "__attachments/emblems/City/Tarda",
+    "__attachments/emblems/City/Qajaria",
+    "__attachments/emblems/City/Pithudia",
+    "__attachments/emblems/City/Menut",
+    "__attachments/emblems/City/Kovamstan",
+    "__attachments/emblems/City/Gande",
+    "__attachments/emblems/City/Garland",
+    "__attachments/emblems/City/Chaves",
+    "__attachments/emblems/City/Berdia",
+    "Eatheria/Recordings/Session1/Session 1.md",
+    "Eatheria/Recordings/Session2/Session 2.md",
+    "Eatheria/Lore/Resurgence.md",
+    "Eatheria/Lore/Decimation.md",
+    "Eatheria/Players/Slade/Celesenia.md",
+    "Eatheria/Players/Slade/Celesenia (Slade)StatblockBase.md",
+    "Eatheria/Players/Todd/Null.md",
+    "Eatheria/Players/Todd/Null (Todd)StatBlockBase.md",
+    "Eatheria/Players/Deniz/Cor Tacetoffa.md",
+    "Eatheria/Players/Deniz/Cor Tacetoffa (Deniz)StatblockBase.md",
+    "Eatheria/Players/Sam/Austallica Torvi.md",
+    "Eatheria/Players/Sam/Austallica Torvi (Sam)StatblockBase.md",
+    "Eatheria/Players/Anna/Hut-Hut.md",
+    "Eatheria/Players/Chad/Moss.md",
+    "Eatheria/Players/Chad/Moss (Chad)StatblockBase.md",
+    "Eatheria/Players/Armin/Broonsbane.md",
     "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-    "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
     "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
-    "Eatheria/Locations/Countries/Tarda/Grand Duchy of Tarda.md",
-    "Eatheria/Locations/Countries/Topoco/Topocan Kingdom.md",
-    "Eatheria/Locations/Countries/Qajaria/United Provinces of Qajaria.md",
-    "Eatheria/Locations/Countries/Neutrals/undefined.md",
-    "Eatheria/Locations/Countries/Pithudia/Federation of Pithudia.md",
-    "Eatheria/Locations/Countries/Menut/Menut Most Serene Republic.md",
-    "Eatheria/Locations/Countries/Garland/Duchy of Garland.md",
-    "Eatheria/Locations/Countries/Kovamstan/Kovam Principality.md",
-    "Eatheria/Locations/Countries/Chaves/Chavian Divine Principality.md",
-    "Eatheria/Locations/Countries/Berdia/Principality of Berdia.md",
-    "Eatheria/Locations/Countries/Gande/Gandean Tsardom.md",
-    "Eatheria/Locations/Cities/Topoco/Yvaskogsund.md",
-    "Eatheria/Locations/Cities/Topoco/Ylapirttala.md",
-    "Eatheria/Locations/Cities/Topoco/Vences.md",
-    "Eatheria/Locations/Cities/Topoco/Vildiski.md",
-    "Eatheria/Locations/Cities/Topoco/Vieilleroy.md",
-    "Eatheria/Locations/Cities/Topoco/Valvaku.md",
-    "Eatheria/Locations/Cities/Topoco/Tuukka.md",
-    "Eatheria/Locations/Cities/Topoco/Tuusjarja.md",
-    "Eatheria/Locations/Cities/Topoco/Tulpuren.md",
-    "Eatheria/Locations/Cities/Topoco/Turan.md",
-    "Eatheria/Locations/Cities/Topoco/Tottalisuo.md"
+    "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
+    "Eatheria/Factions/ReligiousGroups/Turchian Deities.md",
+    "Eatheria/Factions/ReligiousGroups/Vengrian Forefathers.md",
+    "Eatheria/Factions/ReligiousGroups/Shwazen Beliefs.md",
+    "Eatheria/Factions/ReligiousGroups/Tallian Forefathers.md",
+    "Eatheria/Factions/ReligiousGroups/Iurorumian Circle.md"
   ]
 }
