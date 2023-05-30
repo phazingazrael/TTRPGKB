@@ -160,19 +160,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "db3616e1ef633170",
+  "active": "4154fe45ff49e790",
   "lastOpenFiles": [
+    "docs/__attachments/emblems/city/qajaria/Tulpio.svg",
+    "docs/__attachments/emblems/city/qajaria/Thiviers.svg",
+    "docs/__attachments/emblems/city/qajaria/Syrve.svg",
+    "docs/__attachments/emblems/city/qajaria/Sundyrdur.svg",
+    "docs/__attachments/emblems/city/qajaria/Rouvrery.svg",
+    "docs/__attachments/emblems/city/qajaria/Reykseynes.svg",
+    "docs/__attachments/emblems/city/qajaria/Raupun.svg",
+    "docs/__attachments/emblems/city/qajaria/Latille.svg",
+    "docs/__attachments/emblems/city/qajaria/Lajarhokia.svg",
+    "docs/__attachments/emblems/city/qajaria/Laisa.svg",
+    "docs/__attachments/emblems/city/qajaria/Kylosaajo.svg",
     "README.md",
-    "__attachments/emblems/City/Topoco/Ylapirttala.svg",
-    "__attachments/emblems/City/Topoco/Yvaskogsund.svg",
-    "__attachments/emblems/City/Topoco/Vildiski.svg",
-    "__attachments/emblems/City/Topoco/Vieilleroy.svg",
-    "__attachments/emblems/City/Topoco/Vences.svg",
-    "__attachments/emblems/City/Topoco/Valvaku.svg",
-    "__attachments/emblems/City/Topoco/Tuusjarja.svg",
-    "__attachments/emblems/City/Topoco/Tuukka.svg",
-    "__attachments/emblems/City/Topoco/Turan.svg",
-    "__attachments/emblems/City/Topoco/Tulpuren.svg",
     "__attachments/emblems/City/Topoco",
     "__attachments/emblems/City/Tarda",
     "__attachments/emblems/City/Qajaria",
@@ -206,7 +207,6 @@
     "Eatheria/Factions/ReligiousGroups/Vengrian Forefathers.md",
     "Eatheria/Factions/ReligiousGroups/Shwazen Beliefs.md",
     "Eatheria/Factions/ReligiousGroups/Tallian Forefathers.md",
-    "Eatheria/Factions/ReligiousGroups/Iurorumian Circle.md",
-    "Eatheria/Factions/ReligiousGroups/Soumi Beliefs.md"
+    "Eatheria/Factions/ReligiousGroups/Iurorumian Circle.md"
   ]
 }
