@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Eatheria/Index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Eatheria/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Eatheria/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Eatheria/Index.md"
               }
             }
           },
@@ -162,27 +162,27 @@
   },
   "active": "db3616e1ef633170",
   "lastOpenFiles": [
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
-    "docs/__attachments/emblems/city/qajaria/yvasajola.svg",
-    "docs/__attachments/emblems/city/qajaria/vrigny.svg",
-    "docs/__attachments/emblems/city/qajaria/visis.svg",
-    "docs/__attachments/emblems/city/qajaria/viohja.svg",
-    "docs/__attachments/emblems/city/qajaria/vilpsa.svg",
-    "docs/__attachments/emblems/city/qajaria/villiers.svg",
-    "docs/__attachments/emblems/city/qajaria/vampssas.svg",
-    "docs/__attachments/emblems/city/qajaria/vienvilleaux.svg",
-    "docs/__attachments/emblems/city/qajaria/valga.svg",
-    "docs/__attachments/emblems/city/qajaria/vehtikyla.svg",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/__attachments/emblems/city/qajaria",
-    "docs/locations/countries/tarda/grand-duchy-of-tarda.html",
-    "docs/locations/countries/topoco/topocan-kingdom.html",
-    "docs/locations/countries/qajaria/united-provinces-of-qajaria.html",
-    "docs/locations/countries/pithudia/federation-of-pithudia.html",
-    "docs/locations/countries/neutrals/undefined.html",
-    "docs/locations/countries/kovamstan/kovam-principality.html",
+    "README.md",
+    "__attachments/emblems/City/Topoco/Ylapirttala.svg",
+    "__attachments/emblems/City/Topoco/Yvaskogsund.svg",
+    "__attachments/emblems/City/Topoco/Vildiski.svg",
+    "__attachments/emblems/City/Topoco/Vieilleroy.svg",
+    "__attachments/emblems/City/Topoco/Vences.svg",
+    "__attachments/emblems/City/Topoco/Valvaku.svg",
+    "__attachments/emblems/City/Topoco/Tuusjarja.svg",
+    "__attachments/emblems/City/Topoco/Tuukka.svg",
+    "__attachments/emblems/City/Topoco/Turan.svg",
+    "__attachments/emblems/City/Topoco/Tulpuren.svg",
+    "__attachments/emblems/City/Topoco",
+    "__attachments/emblems/City/Tarda",
+    "__attachments/emblems/City/Qajaria",
+    "__attachments/emblems/City/Pithudia",
+    "__attachments/emblems/City/Menut",
+    "__attachments/emblems/City/Kovamstan",
+    "__attachments/emblems/City/Gande",
+    "__attachments/emblems/City/Garland",
+    "__attachments/emblems/City/Chaves",
+    "__attachments/emblems/City/Berdia",
     "Eatheria/Recordings/Session1/Session 1.md",
     "Eatheria/Recordings/Session2/Session 2.md",
     "Eatheria/Lore/Resurgence.md",
