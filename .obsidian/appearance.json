@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "InfoBox",
+    "ITS-Theme-All-Alternate-Themes",
+    "Pathfinder2E-TTRPG-Statblock-v1.3",
+    "PF2e-Actions-Font"
+  ],
+  "nativeMenus": false,
+  "translucency": false
+}

@@ -1,0 +1,20 @@
+{
+  "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-kingmaker",
+  "pathfinder-2e-statblocks@@layout-theme-action": "pathfinder-2e-action-layout-theme-kingmaker",
+  "pathfinder-2e-statblocks@@layout-theme-hazard": "pathfinder-2e-hazard-layout-theme-kingmaker",
+  "pathfinder-2e-statblocks@@layout-theme-influence": "pathfinder-2e-influence-layout-theme-kingmaker",
+  "pathfinder-2e-statblocks@@layout-theme-misc": "pathfinder-2e-misc-layout-theme-kingmaker",
+  "pathfinder-2e-statblocks@@layout-theme-quest": "pathfinder-2e-quest-layout-theme-kingmaker",
+  "ITS-AT@@select": "none",
+  "ITS-AT@@t-d": false,
+  "ITS-AT@@nord": false,
+  "ITS-AT@@notion": false,
+  "ITS-AT@@mini": false,
+  "ITS-AT@@its-d": false,
+  "ITS-AT@@s-d": false,
+  "ITS-AT@@slrvb-g": false,
+  "ITS-AT@@slrvb-b": false,
+  "ITS-AT@@paper": false,
+  "pathfinder-2e-statblocks@@layout-theme-settlement": "pathfinder-2e-settlement-layout-theme-kingmaker",
+  "path2eblock@@statblock-theme": "path2eblock-theme-kingmaker"
+}
