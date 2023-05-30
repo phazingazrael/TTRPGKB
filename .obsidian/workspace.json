@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "447b3dcba9c464f4",
+        "id": "4072fd5c429a6a60",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4ddc80f4db9e05",
+            "id": "db3616e1ef633170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eatheria/Index.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eatheria/Locations/Cities/Topoco/Coully.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eatheria/Locations/Cities/Topoco/Coully.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eatheria/Locations/Cities/Topoco/Coully.md"
+                "file": "README.md"
               }
             }
           },
           {
-            "id": "2b896ac466e095ec",
+            "id": "b5b43279b9e26584",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -146,6 +146,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -154,89 +157,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "2c7bbcbcc316a17a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "398beba95f44df54",
-        "type": "window",
-        "children": [
-          {
-            "id": "575ab957639689e0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35168c2afcb711eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Eatheria/Locations/Cities/Topoco/Coully.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "35168c2afcb711eb",
+  "active": "db3616e1ef633170",
   "lastOpenFiles": [
-    "Eatheria/Locations/Cities/Topoco/Anteau.md",
-    "Eatheria/Locations/Cities/Topoco/Arelpalcan.md",
-    "Eatheria/Locations/Cities/Topoco/Elhobyloke.md",
-    "Eatheria/Locations/Cities/Topoco/Boigny.md",
-    "Eatheria/Locations/Cities/Topoco/Eskog.md",
-    "Eatheria/Locations/Cities/Topoco/Esmukkoria.md",
-    "Eatheria/Locations/Cities/Topoco/Feins.md",
-    "Eatheria/Locations/Cities/Topoco/Funho.md",
-    "Eatheria/Locations/Cities/Topoco/Flecheima.md",
-    "Eatheria/Locations/Cities/Topoco/Guille.md",
-    "Eatheria/Locations/Cities/Topoco/Hahaiiolaki.md",
-    "Eatheria/Locations/Cities/Topoco/Jampaa.md",
-    "Eatheria/Locations/Cities/Topoco/Kilmajo.md",
-    "Eatheria/Locations/Cities/Topoco/Kilvakara.md",
-    "Eatheria/Locations/Cities/Topoco/Kanasta.md",
-    "Eatheria/Locations/Cities/Topoco/Kasla.md",
-    "Eatheria/Locations/Cities/Topoco/Kolvalanvaa.md",
-    "Eatheria/Locations/Cities/Topoco/Lahka.md",
-    "Eatheria/Locations/Cities/Topoco/Liepo.md",
-    "Eatheria/Locations/Cities/Topoco/Mepoy.md",
-    "Eatheria/Locations/Cities/Topoco/Liekka.md",
-    "Eatheria/Locations/Cities/Topoco/Lokia.md",
-    "Eatheria/Locations/Cities/Topoco/Malma.md",
-    "Eatheria/Locations/Cities/Topoco/Merais.md",
-    "Eatheria/Locations/Cities/Topoco/Nildiski.md",
-    "Eatheria/Locations/Cities/Topoco/Piolttame.md",
-    "docs/eatheria/factions/militarygroups/topoco/esmukkoria/radiant-legion/radiant-legion.html",
-    "docs/eatheria/factions/militarygroups/topoco/esmukkoria/radiant-legion/emblem-edit-link.html",
-    "docs/eatheria/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/eatheria/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/eatheria/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
-    "docs/eatheria/factions/militarygroups/topoco/esmukkoria/radiant-legion",
-    "docs/eatheria/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/eatheria/factions/militarygroups/topoco/esmukkoria",
-    "docs/eatheria/factions/militarygroups/qajaria/kuopioki",
-    "docs/eatheria/factions/militarygroups/topoco",
-    "Eatheria/Players/Slade/Celesenia (Slade).jpeg",
-    "Eatheria/Players/Chad/Moss (Chad).jpg",
-    "Eatheria/Players/Anna/Hut-Hut (Anna).jpg"
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
+    "docs/__attachments/emblems/city/qajaria/yvasajola.svg",
+    "docs/__attachments/emblems/city/qajaria/vrigny.svg",
+    "docs/__attachments/emblems/city/qajaria/visis.svg",
+    "docs/__attachments/emblems/city/qajaria/viohja.svg",
+    "docs/__attachments/emblems/city/qajaria/vilpsa.svg",
+    "docs/__attachments/emblems/city/qajaria/villiers.svg",
+    "docs/__attachments/emblems/city/qajaria/vampssas.svg",
+    "docs/__attachments/emblems/city/qajaria/vienvilleaux.svg",
+    "docs/__attachments/emblems/city/qajaria/valga.svg",
+    "docs/__attachments/emblems/city/qajaria/vehtikyla.svg",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
+    "docs/__attachments/emblems/city/qajaria",
+    "docs/locations/countries/tarda/grand-duchy-of-tarda.html",
+    "docs/locations/countries/topoco/topocan-kingdom.html",
+    "docs/locations/countries/qajaria/united-provinces-of-qajaria.html",
+    "docs/locations/countries/pithudia/federation-of-pithudia.html",
+    "docs/locations/countries/neutrals/undefined.html",
+    "docs/locations/countries/kovamstan/kovam-principality.html",
+    "Eatheria/Recordings/Session1/Session 1.md",
+    "Eatheria/Recordings/Session2/Session 2.md",
+    "Eatheria/Lore/Resurgence.md",
+    "Eatheria/Lore/Decimation.md",
+    "Eatheria/Players/Slade/Celesenia.md",
+    "Eatheria/Players/Slade/Celesenia (Slade)StatblockBase.md",
+    "Eatheria/Players/Todd/Null.md",
+    "Eatheria/Players/Todd/Null (Todd)StatBlockBase.md",
+    "Eatheria/Players/Deniz/Cor Tacetoffa.md",
+    "Eatheria/Players/Deniz/Cor Tacetoffa (Deniz)StatblockBase.md",
+    "Eatheria/Players/Sam/Austallica Torvi.md",
+    "Eatheria/Players/Sam/Austallica Torvi (Sam)StatblockBase.md",
+    "Eatheria/Players/Anna/Hut-Hut.md",
+    "Eatheria/Players/Chad/Moss.md",
+    "Eatheria/Players/Chad/Moss (Chad)StatblockBase.md",
+    "Eatheria/Players/Armin/Broonsbane.md",
+    "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
+    "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
+    "Eatheria/Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
+    "Eatheria/Factions/ReligiousGroups/Turchian Deities.md",
+    "Eatheria/Factions/ReligiousGroups/Vengrian Forefathers.md",
+    "Eatheria/Factions/ReligiousGroups/Shwazen Beliefs.md",
+    "Eatheria/Factions/ReligiousGroups/Tallian Forefathers.md",
+    "Eatheria/Factions/ReligiousGroups/Iurorumian Circle.md",
+    "Eatheria/Factions/ReligiousGroups/Soumi Beliefs.md"
   ]
 }
