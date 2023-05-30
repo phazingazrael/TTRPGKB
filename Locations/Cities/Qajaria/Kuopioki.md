@@ -49,7 +49,11 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
 
 
 
+
+
 --- end-column ---
+
+
 <html>
     <div class="infobox">
         <div class="heading">
@@ -200,4 +204,4 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
 </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

@@ -26,7 +26,11 @@ Work In Progress
 
 ## Character Sheet
 ![](NULL%20(Todd).pdf)
+
+
 --- end-column ---
+
+
 <html>
 <div class="infobox">
     <div class="heading">
@@ -34,8 +38,8 @@ Work In Progress
     </div>
 </div>
 </html>
-![[DefaultPicture.svg|250]]
 
+![[../../__attachments/defaultpicture.svg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">
@@ -242,4 +246,4 @@ Work In Progress
     </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

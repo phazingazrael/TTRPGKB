@@ -81,7 +81,11 @@ attacks:
 ## Character Sheet
 ![](Broonsbane%20(Armin).pdf)
 
+
+
 --- end-column ---
+
+
 <html>
 <div class="infobox">
     <div class="heading">
@@ -90,7 +94,7 @@ attacks:
 </div>
 </html>
 
-![[Moss (Chad).jpg|250]]
+![[__attachments/defaultpicture.svg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">
@@ -297,4 +301,4 @@ attacks:
     </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

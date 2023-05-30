@@ -25,8 +25,14 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](Moss%20(Chad).pdf)
+![[Moss (Chad).pdf]]
+
+
+
 --- end-column ---
+
+
+
 <html>
 <div class="infobox">
     <div class="heading">
@@ -34,7 +40,8 @@ Work In Progress
     </div>
 </div>
 </html>
-![[DefaultPicture.svg|250]]
+
+![[Moss (Chad).jpg|250]]
 
 <html>
     <div class="infobox">
@@ -242,4 +249,4 @@ Work In Progress
     </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

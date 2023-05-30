@@ -37,7 +37,11 @@ shadow: off
 
 
 
+
+
 --- end-column ---
+
+
 <html>
     <div class="infobox">
         <div class="heading">
@@ -188,4 +192,4 @@ shadow: off
 </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

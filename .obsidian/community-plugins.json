@@ -1,18 +1,10 @@
 [
-  "table-editor-obsidian",
   "dataview",
-  "obsidian-kanban",
-  "fantasy-calendar",
   "obsidian-5e-statblocks",
-  "markdown-attributes",
   "obsidian-style-settings",
   "various-complements",
   "obsidian-admonition",
-  "obsidian-link-embed",
-  "consistent-attachments-and-links",
-  "templater-obsidian",
   "multi-column-markdown",
   "webpage-html-export",
-  "metaedit",
-  "metadata-menu"
+  "obsidian-link-embed"
 ]

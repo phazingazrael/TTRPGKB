@@ -26,7 +26,11 @@ Work In Progress
 
 ## Character Sheet
 ![](Celesenia%20(Slade).pdf)
+
+
 --- end-column ---
+
+
 <html>
 <div class="infobox">
     <div class="heading">
@@ -34,8 +38,8 @@ Work In Progress
     </div>
 </div>
 </html>
-![[Players/Slade/Celesenia (Slade).jpeg|250]]
 
+![[Celesenia (Slade).jpeg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">
@@ -242,4 +246,4 @@ Work In Progress
     </div>
 </html>
 
-=== end-multi-column
+--- end-multi-column

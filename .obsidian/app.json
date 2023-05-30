@@ -2,9 +2,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "__attachments/",
-  "showFrontmatter": true,
-  "livePreview": false
+  "showFrontmatter": false,
+  "livePreview": false,
+  "foldHeading": false,
+  "newLinkFormat": "relative"
 }
