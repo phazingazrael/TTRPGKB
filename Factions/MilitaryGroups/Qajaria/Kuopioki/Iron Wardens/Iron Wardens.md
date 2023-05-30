@@ -12,7 +12,7 @@ modification date: 5/29/2023
 # **Iron Wardens**
 
 **Emblem:** 
-![[Iron Wardens.svg|350]]
+![[../../../../../__attachments/emblems/faction/Iron Wardens.svg|350]]
 
 **Color Scheme:**
 
@@ -49,12 +49,6 @@ While the Iron Wardens are focused on maintaining order and security, their stri
 -   Preventing corruption or abuse of power within the faction's ranks.
 -   Building trust and positive relationships with the diverse inhabitants of Qajaria.
 
-**Relationship with Other Factions:**
-
--   Radiant Legion: Hostile relationship due to conflicting ideologies and opposing approaches to governance and security.
--   The Seekers: Tenuous relationship, as the Iron Wardens may view the Seekers' pursuit of knowledge as secondary to maintaining order.
--   Scavengers Guild: Neutral relationship, as the Wardens may rely on the guild's resources for maintaining their equipment.
--   The Scholars' Council: Respectful relationship, as the Wardens value the council's preservation of history and knowledge.
 
 **Interactions with Players:** 
 Players may encounter the Iron Wardens in various situations, such as seeking their assistance, interacting with them during patrols, or navigating the faction's regulations. The Wardens provide opportunities for players to explore the complexities of maintaining order in a post-apocalyptic world and to engage in quests related to crime-solving, conflict resolution, and investigations within the city.
@@ -83,40 +77,40 @@ The leadership structure of the Iron Wardens emphasizes discipline, hierarchy, a
 
 
 1. **Captain Valeria**
-   - Role: Leader of the Iron Wardens
-   - Background: Valeria is a seasoned warrior with a strong sense of duty. As the captain of the Iron Wardens, she leads with wisdom, strategic thinking, and unwavering dedication to protecting Qajaria and its inhabitants.
+- Role: Leader of the Iron Wardens
+- Background: Valeria is a seasoned warrior with a strong sense of duty. As the captain of the Iron Wardens, she leads with wisdom, strategic thinking, and unwavering dedication to protecting Qajaria and its inhabitants.
 
 2. **Lieutenant Malik**
-   - Role: Second-in-command of the Iron Wardens
-   - Background: Malik is a disciplined and loyal officer who assists Captain Valeria in overseeing the operations of the Iron Wardens. Known for his tactical thinking and resourcefulness, he plays a key role in planning and executing missions.
+- Role: Second-in-command of the Iron Wardens
+- Background: Malik is a disciplined and loyal officer who assists Captain Valeria in overseeing the operations of the Iron Wardens. Known for his tactical thinking and resourcefulness, he plays a key role in planning and executing missions.
 
 3. **Councilor Eveline**
-   - Role: Elder stateswoman within the Iron Wardens' council
-   - Background: Eveline is a respected member of the council and provides valuable insights into the history and traditions of Qajaria. With her extensive knowledge and calm demeanor, she acts as a voice of reason within the faction.
+- Role: Elder stateswoman within the Iron Wardens' council
+- Background: Eveline is a respected member of the council and provides valuable insights into the history and traditions of Qajaria. With her extensive knowledge and calm demeanor, she acts as a voice of reason within the faction.
 
 4. **Sergeant Renard**
-   - Role: Trainer and leader of Iron Wardens' combat units
-   - Background: Renard is a tough and experienced veteran who is responsible for training and leading the Iron Wardens in combat. His combat skills and leadership qualities are highly valued within the faction.
+- Role: Trainer and leader of Iron Wardens' combat units
+- Background: Renard is a tough and experienced veteran who is responsible for training and leading the Iron Wardens in combat. His combat skills and leadership qualities are highly valued within the faction.
 
 5. **Marissa "Ironfist"**
-   - Role: Expert blacksmith of the Iron Wardens
-   - Background: Marissa, nicknamed "Ironfist," is a renowned blacksmith within the faction. She possesses exceptional skills in forging and repairing weapons and armor, ensuring that the Iron Wardens are well-equipped for their missions.
+- Role: Expert blacksmith of the Iron Wardens
+- Background: Marissa, nicknamed "Ironfist," is a renowned blacksmith within the faction. She possesses exceptional skills in forging and repairing weapons and armor, ensuring that the Iron Wardens are well-equipped for their missions.
 
 6. **Sentry Alaric**
-   - Role: Vigilant sentinel of the Iron Wardens
-   - Background: Alaric is known for his exceptional situational awareness and keen observation skills. As a sentry, he is responsible for maintaining the security of key locations and detecting potential threats.
+ - Role: Vigilant sentinel of the Iron Wardens
+- Background: Alaric is known for his exceptional situational awareness and keen observation skills. As a sentry, he is responsible for maintaining the security of key locations and detecting potential threats.
 
 7. **Scout Anya**
-   - Role: Skilled scout and reconnaissance expert
-   - Background: Anya is a highly agile and stealthy scout, tasked with gathering intelligence and providing valuable information to the Iron Wardens. Her proficiency in infiltration and survival skills allows her to navigate hazardous environments.
+- Role: Skilled scout and reconnaissance expert
+- Background: Anya is a highly agile and stealthy scout, tasked with gathering intelligence and providing valuable information to the Iron Wardens. Her proficiency in infiltration and survival skills allows her to navigate hazardous environments.
 
 8. **Corporal Finn**
-   - Role: Seasoned non-commissioned officer of the Iron Wardens
-   - Background: Finn is a respected and experienced soldier who leads a squad of soldiers in combat. He ensures their readiness and discipline, serving as a role model for the younger members of the Iron Wardens.
+- Role: Seasoned non-commissioned officer of the Iron Wardens
+- Background: Finn is a respected and experienced soldier who leads a squad of soldiers in combat. He ensures their readiness and discipline, serving as a role model for the younger members of the Iron Wardens.
 
 9. **Medic Elara**
-   - Role: Skilled healer and medic of the Iron Wardens
-   - Background: Elara is a compassionate and talented healer who provides medical aid to injured Iron Wardens and civilians alike. Her dedication to preserving life and relieving suffering is widely respected.
+- Role: Skilled healer and medic of the Iron Wardens
+- Background: Elara is a compassionate and talented healer who provides medical aid to injured Iron Wardens and civilians alike. Her dedication to preserving life and relieving suffering is widely respected.
 
 10. **Quartermaster Thorne**
  - Role: Responsible for supply management and logistics
@@ -128,9 +122,7 @@ The leadership structure of the Iron Wardens emphasizes discipline, hierarchy, a
 
 12. **Archivist Jonas**
  - Role: Keeper of historical records and lore
- - Background: Jonas is responsible for preserving the history and culture of Qajaria within the Iron
-
- Wardens. Their meticulous documentation of significant events and artifacts ensures the faction's heritage is not forgotten.
+ - Background: Jonas is responsible for preserving the history and culture of Qajaria within the Iron Wardens. Their meticulous documentation of significant events and artifacts ensures the faction's heritage is not forgotten.
 
 13. **Sentinel Petra**
  - Role: Tower guard and lookout
