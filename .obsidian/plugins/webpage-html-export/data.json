@@ -5,17 +5,17 @@
   "includePluginCSS": "multi-column-markdown\nobsidian-5e-statblocks\nobsidian-admonition\nobsidian-link-embed\nvarious-complements",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
-  "allowFoldingHeadings": true,
+  "allowFoldingHeadings": false,
   "addFilenameTitle": true,
-  "beautifyHTML": true,
+  "beautifyHTML": false,
   "customLineWidth": "",
   "contentWidth": "",
   "sidebarWidth": "",
   "startOutlineCollapsed": true,
-  "dataviewBlockWaitTime": 7000,
+  "dataviewBlockWaitTime": 700,
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
-  "includeOutline": true,
+  "includeOutline": false,
   "includeGraphView": false,
   "includeFileTree": true,
   "exportPreset": "website",
@@ -27,5 +27,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "C:\\Users\\desse\\Documents\\GitHub\\TTRPGKB\\docs\\Export"
+  "lastExportPath": "C:\\Users\\desse\\Documents\\GitHub\\TTRPGKB\\docs"
 }
