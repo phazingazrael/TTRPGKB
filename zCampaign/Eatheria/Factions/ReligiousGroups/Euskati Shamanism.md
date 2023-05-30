@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Euskati Shamanism"
 aliases: "Euskati Shamanism"
 tags: [infoBox, Religion, Euskati Shamanism, Faction]

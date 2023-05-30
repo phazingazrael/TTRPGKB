@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Nagymamoszomian Cult"
 aliases: "Nagymamoszomian Cult"
 tags: [infoBox, Religion, Nagymamoszomian Cult, Faction]

@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Astellianism"
 aliases: "Astellianism"
 tags: [infoBox, Religion, Astellianism, Faction]

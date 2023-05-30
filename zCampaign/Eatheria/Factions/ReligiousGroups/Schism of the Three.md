@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Schism of the Three"
 aliases: "Schism of the Three"
 tags: [infoBox, Religion, Schism of the Three, Faction]

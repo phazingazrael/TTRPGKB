@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "No religion"
 aliases: "No religion"
 tags: [infoBox, Religion, No religion, Faction]

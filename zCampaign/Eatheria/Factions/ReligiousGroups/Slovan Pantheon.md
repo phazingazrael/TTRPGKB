@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Slovan Pantheon"
 aliases: "Slovan Pantheon"
 tags: [infoBox, Religion, Slovan Pantheon, Faction]

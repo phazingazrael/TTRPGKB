@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Iron Wardens"
 aliases: "Iron Wardens"
 type: [Faction, City Guard, MilitaryGroup]

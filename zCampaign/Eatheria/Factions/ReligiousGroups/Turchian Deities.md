@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Turchian Deities"
 aliases: "Turchian Deities"
 tags: [infoBox, Religion, Turchian Deities, Faction]

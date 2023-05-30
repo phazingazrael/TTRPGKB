@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Iurorumian Circle"
 aliases: "Iurorumian Circle"
 tags: [infoBox, Religion, Iurorumian Circle, Faction]

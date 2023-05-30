@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Minetesmo Deities"
 aliases: "Minetesmo Deities"
 tags: [infoBox, Religion, Minetesmo Deities, Faction]

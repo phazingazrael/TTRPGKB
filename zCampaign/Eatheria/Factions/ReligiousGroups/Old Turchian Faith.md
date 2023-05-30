@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Old Turchian Faith"
 aliases: "Old Turchian Faith"
 tags: [infoBox, Religion, Old Turchian Faith, Faction]

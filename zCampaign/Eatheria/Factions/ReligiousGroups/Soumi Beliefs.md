@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Soumi Beliefs"
 aliases: "Soumi Beliefs"
 tags: [infoBox, Religion, Soumi Beliefs, Faction]

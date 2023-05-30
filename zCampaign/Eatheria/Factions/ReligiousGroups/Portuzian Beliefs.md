@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Portuzian Beliefs"
 aliases: "Portuzian Beliefs"
 tags: [infoBox, Religion, Portuzian Beliefs, Faction]

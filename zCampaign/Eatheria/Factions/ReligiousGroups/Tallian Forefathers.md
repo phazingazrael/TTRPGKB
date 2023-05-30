@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Tallian Forefathers"
 aliases: "Tallian Forefathers"
 tags: [infoBox, Religion, Tallian Forefathers, Faction]

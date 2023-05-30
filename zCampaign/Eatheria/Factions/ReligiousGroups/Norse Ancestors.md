@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Norse Ancestors"
 aliases: "Norse Ancestors"
 tags: [infoBox, Religion, Norse Ancestors, Faction]

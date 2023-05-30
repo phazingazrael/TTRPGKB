@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Luari Beliefs"
 aliases: "Luari Beliefs"
 tags: [infoBox, Religion, Luari Beliefs, Faction]

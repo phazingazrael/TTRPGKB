@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Shwazen Beliefs"
 aliases: "Shwazen Beliefs"
 tags: [infoBox, Religion, Shwazen Beliefs, Faction]

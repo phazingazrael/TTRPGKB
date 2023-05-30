@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Angshire Faith"
 aliases: "Angshire Faith"
 tags: [infoBox, Religion, Angshire Faith, Faction]

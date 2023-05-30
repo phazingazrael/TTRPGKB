@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Eatheria"
 aliases: "Eatheria"
 type: [World]

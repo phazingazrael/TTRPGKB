@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Radiant Legion"
 aliases: "Radiant Legion"
 type: [Faction, Stratocracy, MilitaryGroup]

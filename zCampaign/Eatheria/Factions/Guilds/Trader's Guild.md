@@ -1,3 +1,6 @@
+---
+author: Cameren D
+---
 **Trader's Guild**
 
 

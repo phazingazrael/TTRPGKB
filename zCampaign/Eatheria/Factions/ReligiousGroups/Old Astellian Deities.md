@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Old Astellian Deities"
 aliases: "Old Astellian Deities"
 tags: [infoBox, Religion, Old Astellian Deities, Faction]

@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Elladan Deities"
 aliases: "Elladan Deities"
 tags: [infoBox, Religion, Elladan Deities, Faction]

@@ -1,4 +1,5 @@
 ---
+author: Cameren D
 title: "Iconoclasm of the Disturbing Guardian"
 aliases: "Iconoclasm of the Disturbing Guardian"
 tags: [infoBox, Religion, Iconoclasm of the Disturbing Guardian, Faction]
