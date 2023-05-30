@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Guilds/Trader's Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Guilds/Trader's Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/Guilds/Trader's Guild.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,45 +142,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "975a2c93cda45b18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6f867cf332d60ad2",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0a6a06e7ebdb503",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3d09c6cf1b2a9506",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factions/Guilds/Trader's Guild.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 338,
-        "width": 602,
-        "height": 302,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3d09c6cf1b2a9506",
+  "active": "057a00a263ff6751",
   "lastOpenFiles": [
+    "Factions/Guilds/Trader's Guild.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
     "Factions/ReligiousGroups/Angshire Faith.md",
@@ -210,7 +170,6 @@
     "Factions/ReligiousGroups/Vengrian Forefathers.md",
     "Factions/ReligiousGroups/Turchian Deities.md",
     "Factions/ReligiousGroups/Norse Ancestors.md",
-    "Index.md",
     "docs/factions/guilds/trader's-guild.html",
     "docs/factions/guilds",
     "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
