@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eatheria/Index.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eatheria/Index.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eatheria/Index.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eatheria/Index.md"
+                "file": "Index.md"
               }
             }
           },
@@ -160,8 +160,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4154fe45ff49e790",
+  "active": "db3616e1ef633170",
   "lastOpenFiles": [
+    "README.md",
     "docs/__attachments/emblems/city/qajaria/Tulpio.svg",
     "docs/__attachments/emblems/city/qajaria/Thiviers.svg",
     "docs/__attachments/emblems/city/qajaria/Syrve.svg",
@@ -172,8 +173,6 @@
     "docs/__attachments/emblems/city/qajaria/Latille.svg",
     "docs/__attachments/emblems/city/qajaria/Lajarhokia.svg",
     "docs/__attachments/emblems/city/qajaria/Laisa.svg",
-    "docs/__attachments/emblems/city/qajaria/Kylosaajo.svg",
-    "README.md",
     "__attachments/emblems/City/Topoco",
     "__attachments/emblems/City/Tarda",
     "__attachments/emblems/City/Qajaria",
