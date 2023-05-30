@@ -59,7 +59,7 @@ Cities
 *  [[Zizmapech]] 
 *  [[Deben]] 
 *  [[Prolorodni]] 
-*  [[Kursk]] 
+*  [[Eatheria/Locations/Cities/Gande/Kursk]] 
 *  [[Rodbesk]] 
 *  [[Nerov]] 
 *  [[Kurskiv]] 

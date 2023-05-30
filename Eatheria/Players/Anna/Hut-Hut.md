@@ -95,7 +95,7 @@ Notes: Peach, asparagus, sleep tincture, mania potion
 </div>
 </html>
 
-![[Players/Anna/Hut-Hut (Anna).jpg|250]]
+![[Hut-Hut (Anna).jpg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">

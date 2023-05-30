@@ -34,7 +34,7 @@ Cities
 
 *  [[Allora]] - ![[capitol.svg|25]]
 *  [[Olori]] 
-*  [[Kursk]] 
+*  [[Eatheria/Locations/Cities/Gande/Kursk]] 
 *  [[Lobyl]] 
 *  [[Tororobo]] 
 *  [[Bargos]] 

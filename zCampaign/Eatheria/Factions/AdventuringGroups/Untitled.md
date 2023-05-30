@@ -1,3 +1,0 @@
----
-author: Cameren D
----

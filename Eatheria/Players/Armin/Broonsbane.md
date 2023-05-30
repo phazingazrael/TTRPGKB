@@ -90,7 +90,7 @@ attacks:
 </div>
 </html>
 
-![[Players/Chad/Moss (Chad).jpg|250]]
+![[Moss (Chad).jpg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">
