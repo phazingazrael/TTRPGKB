@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb515bfd22e62fe7",
+        "id": "6c1c93a98e5ac86a",
         "type": "tabs",
         "children": [
           {
-            "id": "057a00a263ff6751",
+            "id": "acf89239e0c7488f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,8 +142,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "057a00a263ff6751",
+  "active": "acf89239e0c7488f",
   "lastOpenFiles": [
+    "__attachments/defaultpicture.svg",
     "docs/__attachments/emblems/faction/iron-wardens.svg",
     "docs/__attachments/emblems/faction",
     "docs/__attachments/emblems/city/qajaria/aasaredakka.svg",
@@ -155,7 +156,6 @@
     "docs/__attachments/emblems/city/qajaria/bauvy.svg",
     "docs/__attachments/emblems/city/qajaria/benkama.svg",
     "docs/__attachments/emblems/city/qajaria/bentama.svg",
-    "docs/__attachments/emblems/city/qajaria/berham.svg",
     "Factions/Guilds/Trader's Guild.md",
     "docs/__attachments/emblems/city/qajaria",
     "docs/__attachments/emblems/city",
