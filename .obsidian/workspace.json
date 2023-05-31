@@ -11,8 +11,12 @@
             "id": "acf89239e0c7488f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Players/Sam/Austallica Torvi.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/Sam/Austallica Torvi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Players/Sam/Austallica Torvi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Players/Sam/Austallica Torvi.md"
+              }
             }
           }
         ],
@@ -144,6 +152,10 @@
   },
   "active": "acf89239e0c7488f",
   "lastOpenFiles": [
+    "Players/Deniz/Cor Tacetoffa.md",
+    "Players/Chad/Moss.md",
+    "Players/Armin/Broonsbane.md",
+    "Players/Anna/Hut-Hut.md",
     "__attachments/defaultpicture.svg",
     "docs/__attachments/emblems/faction/iron-wardens.svg",
     "docs/__attachments/emblems/faction",
@@ -155,7 +167,6 @@
     "docs/__attachments/emblems/city/qajaria/bacray.svg",
     "docs/__attachments/emblems/city/qajaria/bauvy.svg",
     "docs/__attachments/emblems/city/qajaria/benkama.svg",
-    "docs/__attachments/emblems/city/qajaria/bentama.svg",
     "Factions/Guilds/Trader's Guild.md",
     "docs/__attachments/emblems/city/qajaria",
     "docs/__attachments/emblems/city",
@@ -186,9 +197,6 @@
     "Factions/ReligiousGroups/Romian Beliefs.md",
     "Factions/ReligiousGroups/Schism of the Three.md",
     "Factions/ReligiousGroups/Shwazen Beliefs.md",
-    "Factions/ReligiousGroups/Slovan Pantheon.md",
-    "Factions/ReligiousGroups/Soumi Beliefs.md",
-    "Factions/ReligiousGroups/Tallian Forefathers.md",
-    "Factions/ReligiousGroups/Turchian Deities.md"
+    "Factions/ReligiousGroups/Slovan Pantheon.md"
   ]
 }
