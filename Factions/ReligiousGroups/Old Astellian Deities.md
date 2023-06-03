@@ -34,13 +34,7 @@ shadow: off
         <div class="heading">
             <h2>Old Astellian Deities</h2>
         </div>
-    </div>
-</html>
 
-![[.svg|250]]
-
-<html>
-    <div class="infobox">
         <div class="infobox-group">
             <div class="heading">
                 <h3>Old Astellian Deities</h3>

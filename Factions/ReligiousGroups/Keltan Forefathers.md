@@ -34,13 +34,7 @@ shadow: off
         <div class="heading">
             <h2>Keltan Forefathers</h2>
         </div>
-    </div>
-</html>
 
-![[.svg|250]]
-
-<html>
-    <div class="infobox">
         <div class="infobox-group">
             <div class="heading">
                 <h3>Keltan Forefathers</h3>

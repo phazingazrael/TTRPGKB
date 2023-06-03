@@ -4,16 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "6c1c93a98e5ac86a",
+        "id": "b54d61ceb917fe0c",
         "type": "tabs",
         "children": [
           {
-            "id": "acf89239e0c7488f",
+            "id": "0cc7ed5ce0869957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Sam/Austallica Torvi.md",
+                "file": "Eatheria.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "625a9f4eeed02604",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__attachments/DefaultPicture.svg"
+              }
+            }
+          },
+          {
+            "id": "73082a2115140367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Sam/Austallica Torvi.md",
+                "file": "Eatheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Sam/Austallica Torvi.md",
+                "file": "Eatheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Sam/Austallica Torvi.md"
+                "file": "Eatheria.md"
               }
             }
           }
@@ -147,56 +169,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "acf89239e0c7488f",
+  "active": "0cc7ed5ce0869957",
   "lastOpenFiles": [
-    "Players/Deniz/Cor Tacetoffa.md",
-    "Players/Chad/Moss.md",
-    "Players/Armin/Broonsbane.md",
-    "Players/Anna/Hut-Hut.md",
-    "__attachments/defaultpicture.svg",
+    "docs/eatheria.html",
     "docs/__attachments/emblems/faction/iron-wardens.svg",
     "docs/__attachments/emblems/faction",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
+    "docs/factions/militarygroups/qajaria/kuopioki",
+    "docs/factions/religiousgroups/vengrian-forefathers.html",
+    "docs/factions/religiousgroups/turchian-deities.html",
+    "docs/factions/religiousgroups/tallian-forefathers.html",
+    "docs/factions/religiousgroups/soumi-beliefs.html",
+    "docs/factions/religiousgroups/slovan-pantheon.html",
     "docs/__attachments/emblems/city/qajaria/aasaredakka.svg",
     "docs/__attachments/emblems/city/qajaria/aschevillevan.svg",
     "docs/__attachments/emblems/city/qajaria/aschevoy.svg",
     "docs/__attachments/emblems/city/qajaria/aucourtevil.svg",
     "docs/__attachments/emblems/city/qajaria/austrandra.svg",
-    "docs/__attachments/emblems/city/qajaria/bacray.svg",
     "docs/__attachments/emblems/city/qajaria/bauvy.svg",
     "docs/__attachments/emblems/city/qajaria/benkama.svg",
+    "docs/__attachments/emblems/city/qajaria/bentama.svg",
+    "docs/__attachments/emblems/city/qajaria/berham.svg",
     "Factions/Guilds/Trader's Guild.md",
-    "docs/__attachments/emblems/city/qajaria",
-    "docs/__attachments/emblems/city",
-    "docs/__attachments/emblems/country",
-    "docs/__attachments/emblems",
-    "docs/__attachments/game-icons.net/lorc",
-    "docs/__attachments/game-icons.net",
-    "docs/__attachments",
-    "docs/lib/scripts/webpage.js",
-    "docs/lib/scripts",
-    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
+    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
     "Factions/ReligiousGroups/Angshire Faith.md",
     "Factions/ReligiousGroups/Astellianism.md",
     "Factions/ReligiousGroups/Elladan Deities.md",
+    "Factions/ReligiousGroups/Euskati Shamanism.md",
     "Factions/ReligiousGroups/Iconoclasm of the Disturbing Guardian.md",
     "Factions/ReligiousGroups/Iurorumian Circle.md",
-    "Factions/ReligiousGroups/Euskati Shamanism.md",
-    "Factions/ReligiousGroups/Luari Beliefs.md",
     "Factions/ReligiousGroups/Keltan Forefathers.md",
     "Factions/ReligiousGroups/Minetesmo Deities.md",
+    "Factions/ReligiousGroups/Luari Beliefs.md",
     "Factions/ReligiousGroups/Nagymamoszomian Cult.md",
-    "Factions/ReligiousGroups/Norse Ancestors.md",
     "Factions/ReligiousGroups/No religion.md",
     "Factions/ReligiousGroups/Old Astellian Deities.md",
+    "Factions/ReligiousGroups/Norse Ancestors.md",
     "Factions/ReligiousGroups/Old Turchian Faith.md",
     "Factions/ReligiousGroups/Portuzian Beliefs.md",
     "Factions/ReligiousGroups/Romian Beliefs.md",
     "Factions/ReligiousGroups/Schism of the Three.md",
     "Factions/ReligiousGroups/Shwazen Beliefs.md",
-    "Factions/ReligiousGroups/Slovan Pantheon.md"
+    "Factions/ReligiousGroups/Slovan Pantheon.md",
+    "Factions/ReligiousGroups/Soumi Beliefs.md",
+    "Factions/ReligiousGroups/Tallian Forefathers.md",
+    "Factions/ReligiousGroups/Turchian Deities.md"
   ]
 }

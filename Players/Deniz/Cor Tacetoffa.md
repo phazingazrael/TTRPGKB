@@ -39,7 +39,7 @@ Work In Progress
 </div>
 </html>
 
-![[../../__attachments/defaultpicture.svg|250]]
+![[../../../__attachments/DefaultPicture.svg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">

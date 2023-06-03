@@ -32,25 +32,25 @@ shadow: off
 
 Cities
 
-*  [[Allora]] - ![[capitol.svg|25]]
-*  [[Olori]] 
-*  [[Eatheria/Locations/Cities/Gande/Kursk]] 
-*  [[Lobyl]] 
-*  [[Tororobo]] 
-*  [[Bargos]] 
-*  [[Testololye]] 
-*  [[Pohogida]] 
-*  [[Mezutsk]] 
-*  [[Bratsk]] 
-*  [[Orechevsk]] 
-*  [[Rzhev]] 
-*  [[Berechev]] 
-*  [[Bererenets]] 
-*  [[Mesch]] 
-*  [[Rosla]] 
-*  [[Smenicha]] 
-*  [[Opylgogo]] 
-*  [[Rechi]] 
+*  Allora - ![[capitol.svg|25]]
+*  Olori 
+*  Eatheria/Locations/Cities/Gande/Kursk 
+*  Lobyl 
+*  Tororobo 
+*  Bargos 
+*  Testololye 
+*  Pohogida 
+*  Mezutsk 
+*  Bratsk 
+*  Orechevsk 
+*  Rzhev 
+*  Berechev 
+*  Bererenets 
+*  Mesch 
+*  Rosla 
+*  Smenicha 
+*  Opylgogo 
+*  Rechi 
 
 
 Military Overview

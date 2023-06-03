@@ -16,7 +16,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[../../Countries/Qajaria/United Provinces of Qajaria]]
 
 #### Population: 244
 

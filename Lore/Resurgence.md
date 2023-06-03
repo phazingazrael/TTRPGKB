@@ -3,6 +3,8 @@ title: "Resurgence"
 aliases: "Resurgence"
 tags: [Event, Resurgence, Lore]
 ---
+**Lore Entry: Resurgence**
+
 Resurgence, a pivotal day in the chronicles of Eatheria, occurred on April 16th, 3100. It marked the long-awaited moment when the first bunkers, long sealed to protect their inhabitants from the devastating aftermath of nuclear war, opened their doors, allowing the survivors to venture out into the changed world. This event sparked the beginning of a new era, one characterized by exploration, adaptation, and the emergence of fantastical races.
 
 For over two centuries, the residents of the bunkers had lived in isolation, cut off from the ravages of the post-apocalyptic landscape that had once been their home. Within the confines of these underground sanctuaries, generations passed, and the human inhabitants gradually underwent remarkable changes. Evolutionary forces, combined with the harsh environment and exposure to residual radiation, gave rise to new and diverse races, each with their unique characteristics and abilities.

@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "multi-column-markdown\nobsidian-5e-statblocks\nobsidian-admonition\nobsidian-link-embed\nvarious-complements",
+  "includePluginCSS": "obsidian-5e-statblocks\nvarious-complements\nobsidian-admonition\nmulti-column-markdown\nobsidian-link-embed\nfantasy-calendar",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": false,

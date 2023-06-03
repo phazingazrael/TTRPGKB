@@ -12,7 +12,7 @@ modification date: 5/29/2023
 # **Iron Wardens**
 
 **Emblem:** 
-![[../../../../../__attachments/emblems/faction/Iron Wardens.svg|350]]
+![[../../../../../../__attachments/Emblems/Faction/Iron Wardens.svg|350]]
 
 **Color Scheme:**
 

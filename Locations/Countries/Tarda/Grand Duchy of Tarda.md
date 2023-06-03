@@ -32,37 +32,37 @@ shadow: off
 
 Cities
 
-*  [[Shuryevya]] - ![[capitol.svg|25]]
-*  [[Ikubech]] 
-*  [[Veteya]] 
-*  [[Alsaz]] 
-*  [[Orodnilov]] 
-*  [[Sterzhyemi]] 
-*  [[Vyslarorec]] 
-*  [[Mezetsk]] 
-*  [[Goposla]] 
-*  [[Roblanona]] 
-*  [[Promiyvan]] 
-*  [[Gorochu]] 
-*  [[Yaropolch]] 
-*  [[Zverelecha]] 
-*  [[Valmendral]] 
-*  [[Yurov]] 
-*  [[Rylsk]] 
-*  [[Sernik]] 
-*  [[Kavin]] 
-*  [[Idychenets]] 
-*  [[Svilov]] 
-*  [[Mstishino]] 
-*  [[Galforriola]] 
-*  [[Glebolorod]] 
-*  [[Bulatsk]] 
-*  [[Vokov]] 
-*  [[Desovgo]] 
-*  [[Vruche]] 
-*  [[Gororovsk]] 
-*  [[Vereresk]] 
-*  [[Drozelsk]] 
+*  Shuryevya - ![[capitol.svg|25]]
+*  Ikubech 
+*  Veteya 
+*  Alsaz 
+*  Orodnilov 
+*  Sterzhyemi 
+*  Vyslarorec 
+*  Mezetsk 
+*  Goposla 
+*  Roblanona 
+*  Promiyvan 
+*  Gorochu 
+*  Yaropolch 
+*  Zverelecha 
+*  Valmendral 
+*  Yurov 
+*  Rylsk 
+*  Sernik 
+*  Kavin 
+*  Idychenets 
+*  Svilov 
+*  Mstishino 
+*  Galforriola 
+*  Glebolorod 
+*  Bulatsk 
+*  Vokov 
+*  Desovgo 
+*  Vruche 
+*  Gororovsk 
+*  Vereresk 
+*  Drozelsk 
 
 
 Military Overview
