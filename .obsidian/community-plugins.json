@@ -15,5 +15,6 @@
   "templater-obsidian",
   "obsidian-timelines",
   "obsidian-pandoc",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-linter"
 ]

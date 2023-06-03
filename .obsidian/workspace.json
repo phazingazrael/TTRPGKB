@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md"
               }
             }
           }
@@ -176,51 +176,51 @@
   },
   "active": "0cc7ed5ce0869957",
   "lastOpenFiles": [
-    "Factions/Guilds/Trader's Guild.md",
-    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
-    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-    "Factions/ReligiousGroups/Angshire Faith.md",
-    "Factions/ReligiousGroups/Astellianism.md",
-    "Factions/ReligiousGroups/Elladan Deities.md",
-    "Factions/ReligiousGroups/Euskati Shamanism.md",
-    "Factions/ReligiousGroups/Iconoclasm of the Disturbing Guardian.md",
-    "Factions/ReligiousGroups/Iurorumian Circle.md",
-    "Factions/ReligiousGroups/Keltan Forefathers.md",
-    "Factions/ReligiousGroups/Minetesmo Deities.md",
-    "Factions/ReligiousGroups/Luari Beliefs.md",
-    "Factions/ReligiousGroups/Nagymamoszomian Cult.md",
-    "Factions/ReligiousGroups/No religion.md",
-    "Factions/ReligiousGroups/Old Astellian Deities.md",
-    "Factions/ReligiousGroups/Norse Ancestors.md",
-    "Factions/ReligiousGroups/Old Turchian Faith.md",
-    "Factions/ReligiousGroups/Portuzian Beliefs.md",
-    "Factions/ReligiousGroups/Romian Beliefs.md",
-    "Factions/ReligiousGroups/Schism of the Three.md",
-    "Factions/ReligiousGroups/Shwazen Beliefs.md",
-    "Factions/ReligiousGroups/Slovan Pantheon.md",
-    "Factions/ReligiousGroups/Soumi Beliefs.md",
-    "Factions/ReligiousGroups/Tallian Forefathers.md",
-    "Factions/ReligiousGroups/Turchian Deities.md",
-    "Factions/ReligiousGroups/Vengrian Forefathers.md",
-    "docs/index.html",
-    "docs/eatheria.html",
-    "docs/__attachments/emblems/faction/iron-wardens.svg",
-    "docs/__attachments/emblems/faction",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/factions/militarygroups/qajaria/kuopioki",
-    "docs/factions/religiousgroups/vengrian-forefathers.html",
-    "docs/factions/religiousgroups/turchian-deities.html",
-    "docs/factions/religiousgroups/tallian-forefathers.html",
-    "docs/__attachments/emblems/city/qajaria/aasaredakka.svg",
-    "docs/__attachments/emblems/city/qajaria/aschevillevan.svg",
-    "docs/__attachments/emblems/city/qajaria/aschevoy.svg",
-    "docs/__attachments/emblems/city/qajaria/aucourtevil.svg",
-    "docs/__attachments/emblems/city/qajaria/austrandra.svg",
-    "docs/__attachments/emblems/city/qajaria/bauvy.svg",
-    "docs/__attachments/emblems/city/qajaria/benkama.svg",
-    "docs/__attachments/emblems/city/qajaria/bentama.svg",
-    "docs/__attachments/emblems/city/qajaria/berham.svg"
+    "Locations/Countries/Chaves/Chavian Divine Principality.md",
+    "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+    "Locations/Cities/Qajaria/Kuopioki.md",
+    "docs/recordings/recordings.html",
+    "docs/players/todd/null.html",
+    "docs/players/slade/celesenia.html",
+    "docs/players/chad/moss.html",
+    "docs/players/armin/broonsbane.html",
+    "docs/players/anna/hut-hut.html",
+    "docs/lore/resurgence.html",
+    "docs/locations/cities/qajaria/kuhlaivies.html",
+    "docs/locations/cities/qajaria/koksylota.html",
+    "docs/locations/cities/qajaria/klovspovii.html",
+    "Players/Armin/Broonsbane.md",
+    "docs/__attachments/game-icons.net/quoting/field-gun.svg",
+    "docs/__attachments/game-icons.net/quoting/trench-assault.svg",
+    "docs/__attachments/game-icons.net/quoting/lost-limb.svg",
+    "docs/__attachments/game-icons.net/quoting/military-ambulance.svg",
+    "docs/__attachments/game-icons.net/quoting/poppy.svg",
+    "docs/__attachments/game-icons.net/quoting/damaged-house.svg",
+    "docs/__attachments/game-icons.net/quoting/card-play.svg",
+    "docs/__attachments/game-icons.net/quoting/card-pickup.svg",
+    "docs/__attachments/game-icons.net/quoting/bunker.svg",
+    "docs/__attachments/game-icons.net/quoting/biplane.svg",
+    "input/Index.md",
+    "input/Recordings/Session2/Session 2.md",
+    "input/Recordings/Session1/Session 1.md",
+    "input/Recordings/Recordings.md",
+    "input/Players/Todd/Null.md",
+    "input/Players/Slade/Celesenia.md",
+    "input/Players/Sam/Austallica Torvi.md",
+    "input/Players/Deniz/Cor Tacetoffa.md",
+    "input/Players/Armin/Broonsbane.md",
+    "input/Players/Chad/Moss.md",
+    "input/Players/Anna/Hut-Hut.md",
+    "input/Other/House Rules.md",
+    "input/Lore/Resurgence.md",
+    "input/Lore/Decimation.md",
+    "input/Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+    "input/Locations/Countries/Topoco/Topocan Kingdom.md",
+    "input/Locations/Countries/Tarda/Grand Duchy of Tarda.md",
+    "input/Locations/Countries/Pithudia/Federation of Pithudia.md",
+    "input/Locations/Countries/Neutrals/undefined.md",
+    "input/Locations/Countries/Menut/Menut Most Serene Republic.md",
+    "input/Locations/Countries/Kovamstan/Kovam Principality.md",
+    "input/Locations/Countries/Garland/Duchy of Garland.md"
   ]
 }
