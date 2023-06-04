@@ -1,10 +1,12 @@
 ---
-title: "United Provinces of Qajaria"
-aliases: "Qajaria"
-tags: [infoBox, Location, Country, Qajaria, United Provinces of Qajaria]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [United Provinces of Qajaria, "Qajaria"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: United Provinces of Qajaria
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Qajaria, United Provinces of Qajaria, 66c2a5]
+title: United Provinces of Qajaria
 ---
+# United Provinces of Qajaria
 
 
 ```start-multi-column  
@@ -32,152 +34,152 @@ shadow: off
 
 Cities
 
-*  [[../../Cities/Qajaria/Kuopioki]] - ![[capitol.svg|25]]
-*  [[../../Cities/Qajaria/Tuukve]] 
-*  [[../../Cities/Qajaria/Nikkapirttu]] 
-*  [[../../Cities/Qajaria/Visis]] 
-*  [[../../Cities/Qajaria/Cherin]] 
-*  [[../../Cities/Qajaria/Thiviers]] 
-*  [[../../Cities/Qajaria/Sigran]] 
-*  [[../../Cities/Qajaria/Hyvina]] 
-*  [[../../Cities/Qajaria/Klauksa]] 
-*  [[../../Cities/Qajaria/Liekvemi]] 
-*  [[../../Cities/Qajaria/Bjorvi]] 
-*  [[../../Cities/Qajaria/Djufargar]] 
-*  [[../../Cities/Qajaria/Muurikmori]] 
-*  [[../../Cities/Qajaria/Neulonvilly]] 
-*  [[../../Cities/Qajaria/Ormshamber]] 
-*  [[../../Cities/Qajaria/Piekmotanki]] 
-*  [[../../Cities/Qajaria/Lokmokioi]] 
-*  [[../../Cities/Qajaria/Soulise]] 
-*  [[../../Cities/Qajaria/Chatilles]] 
-*  [[../../Cities/Qajaria/Lajarhokia]] 
-*  [[../../Cities/Qajaria/Onstad]] 
-*  [[../../Cities/Qajaria/Djugager]] 
-*  [[../../Cities/Qajaria/Briatelleurs]] 
-*  [[../../Cities/Qajaria/Sompaa]] 
-*  [[../../Cities/Qajaria/Rozoy]] 
-*  [[../../Cities/Qajaria/Rakka]] 
-*  [[../../Cities/Qajaria/Menevik]] 
-*  [[../../Cities/Qajaria/Kehja]] 
-*  [[../../Cities/Qajaria/Bentama]] 
-*  [[../../Cities/Qajaria/Huitti]] 
-*  [[../../Cities/Qajaria/Bauvy]] 
-*  [[../../Cities/Qajaria/Sundyrdur]] 
-*  [[../../Cities/Qajaria/Helmendoya]] 
-*  [[../../Cities/Qajaria/Vampssas]] 
-*  [[../../Cities/Qajaria/Huistouy]] 
-*  [[../../Cities/Qajaria/Uttavepaa]] 
-*  [[../../Cities/Qajaria/Kunisanepo]] 
-*  [[../../Cities/Qajaria/Parai]] 
-*  [[../../Cities/Qajaria/Dunsmoutham]] 
-*  [[../../Cities/Qajaria/Bonte]] 
-*  [[../../Cities/Qajaria/Penksey]] 
-*  [[../../Cities/Qajaria/Raupun]] 
-*  [[../../Cities/Qajaria/Paarai]] 
-*  [[../../Cities/Qajaria/Dalboliton]] 
-*  [[../../Cities/Qajaria/Jarceville]] 
-*  [[../../Cities/Qajaria/Kuhlaivies]] 
-*  [[../../Cities/Qajaria/Bevandillevoy]] 
-*  [[../../Cities/Qajaria/Orandre]] 
-*  [[../../Cities/Qajaria/Kaulasesima]] 
-*  [[../../Cities/Qajaria/Vilpsa]] 
-*  [[../../Cities/Qajaria/Valga]] 
-*  [[../../Cities/Qajaria/Nilvivijapa]] 
-*  [[../../Cities/Qajaria/Villiers]] 
-*  [[../../Cities/Qajaria/Litla]] 
-*  [[../../Cities/Qajaria/Latille]] 
-*  [[../../Cities/Qajaria/Pertti]] 
-*  [[../../Cities/Qajaria/Aucourtevil]] 
-*  [[../../Cities/Qajaria/Chevraimouy]] 
-*  [[../../Cities/Qajaria/Felvik]] 
-*  [[../../Cities/Qajaria/Laula]] 
-*  [[../../Cities/Qajaria/Ellisbak]] 
-*  [[../../Cities/Qajaria/Harvijarvi]] 
-*  [[../../Cities/Qajaria/Heikylapa]] 
-*  [[../../Cities/Qajaria/Reykseynes]] 
-*  [[../../Cities/Qajaria/Syrve]] 
-*  [[../../Cities/Qajaria/Charce]] 
-*  [[../../Cities/Qajaria/Laisa]] 
-*  [[../../Cities/Qajaria/Shifton]] 
-*  [[../../Cities/Qajaria/Burmouth]] 
-*  [[../../Cities/Qajaria/Kylosaajo]] 
-*  [[../../Cities/Qajaria/Eresseaux]] 
-*  [[../../Cities/Qajaria/Brotierreau]] 
-*  [[../../Cities/Qajaria/Rozotska]] 
-*  [[../../Cities/Qajaria/Yvasajola]] 
-*  [[../../Cities/Qajaria/Benkama]] 
-*  [[../../Cities/Qajaria/Klovspovii]] 
-*  [[../../Cities/Qajaria/Morgis]] 
-*  [[../../Cities/Qajaria/Junnesvog]] 
-*  [[../../Cities/Qajaria/Channes]] 
-*  [[../../Cities/Qajaria/Rouvrery]] 
-*  [[../../Cities/Qajaria/Grepoy]] 
-*  [[../../Cities/Qajaria/Hogarten]] 
-*  [[../../Cities/Qajaria/Puinouve]] 
-*  [[../../Cities/Qajaria/Vehtikyla]] 
-*  [[../../Cities/Qajaria/Pohti]] 
-*  [[../../Cities/Qajaria/Meungnes]] 
-*  [[../../Cities/Qajaria/Aasaredakka]] 
-*  [[../../Cities/Qajaria/Monthinete]] 
-*  [[../../Cities/Qajaria/Briarieuilles]] 
-*  [[../../Cities/Qajaria/Croteres]] 
-*  [[../../Cities/Qajaria/Brerevillevil]] 
-*  [[../../Cities/Qajaria/Turenjo]] 
-*  [[../../Cities/Qajaria/Lohtiio]] 
-*  [[../../Cities/Qajaria/Desherce]] 
-*  [[../../Cities/Qajaria/Ogstad]] 
-*  [[../../Cities/Qajaria/Jamsa]] 
-*  [[../../Cities/Qajaria/Rakimatti]] 
-*  [[../../Cities/Qajaria/Vienvilleaux]] 
-*  [[../../Cities/Qajaria/Oisonnetevil]] 
-*  [[../../Cities/Qajaria/Kasvaanijar]] 
-*  [[../../Cities/Qajaria/Solles]] 
-*  [[../../Cities/Qajaria/Humenmoen]] 
-*  [[../../Cities/Qajaria/Vrigny]] 
-*  [[../../Cities/Qajaria/Kaula]] 
-*  [[../../Cities/Qajaria/Jiori]] 
-*  [[../../Cities/Qajaria/Leaux]] 
-*  [[../../Cities/Qajaria/Montes]] 
-*  [[../../Cities/Qajaria/Kausu]] 
-*  [[../../Cities/Qajaria/Oittinijar]] 
-*  [[../../Cities/Qajaria/Siglain]] 
-*  [[../../Cities/Qajaria/Viohja]] 
-*  [[../../Cities/Qajaria/Hovira]] 
-*  [[../../Cities/Qajaria/Austrandra]] 
-*  [[../../Cities/Qajaria/Aschevoy]] 
-*  [[../../Cities/Qajaria/Jouernoicy]] 
-*  [[../../Cities/Qajaria/Leighton]] 
-*  [[../../Cities/Qajaria/Lemsa]] 
-*  [[../../Cities/Qajaria/Lautio]] 
-*  [[../../Cities/Qajaria/Greres]] 
-*  [[../../Cities/Qajaria/Kaski]] 
-*  [[../../Cities/Qajaria/Bosting]] 
-*  [[../../Cities/Qajaria/Falescoux]] 
-*  [[../../Cities/Qajaria/Cheres]] 
-*  [[../../Cities/Qajaria/Parvi]] 
-*  [[../../Cities/Qajaria/Fjellvikho]] 
-*  [[../../Cities/Qajaria/Ralankalala]] 
-*  [[../../Cities/Qajaria/Tuuskuepaa]] 
-*  [[../../Cities/Qajaria/Koksylota]] 
-*  [[../../Cities/Qajaria/Oittumaja]] 
-*  [[../../Cities/Qajaria/Joenpaari]] 
-*  [[../../Cities/Qajaria/Marde]] 
-*  [[../../Cities/Qajaria/Kinentavala]] 
-*  [[../../Cities/Qajaria/Mamoutardon]] 
-*  [[../../Cities/Qajaria/Aschevillevan]] 
-*  [[../../Cities/Qajaria/Grigy]] 
-*  [[../../Cities/Qajaria/Cournoinaynes]] 
-*  [[../../Cities/Qajaria/Kusumava]] 
-*  [[../../Cities/Qajaria/Nines]] 
-*  [[../../Cities/Qajaria/Harvimio]] 
-*  [[../../Cities/Qajaria/Berham]] 
-*  [[../../Cities/Qajaria/Brory]] 
-*  [[../../Cities/Qajaria/Tulpio]] 
-*  [[../../Cities/Qajaria/Stordi]] 
-*  [[../../Cities/Qajaria/Bacray]] 
-*  [[../../Cities/Qajaria/Sanneaulivet]] 
-*  [[../../Cities/Qajaria/Lohlai]] 
+*  [[Kuopioki]] - ![[capitol.svg|20]]
+*  [[Tuukve]] 
+*  [[Nikkapirttu]] 
+*  [[Visis]] 
+*  [[Cherin]] 
+*  [[Thiviers]] 
+*  [[Sigran]] 
+*  [[Hyvina]] 
+*  [[Klauksa]] 
+*  [[Liekvemi]] 
+*  [[Bjorvi]] 
+*  [[Djufargar]] 
+*  [[Muurikmori]] 
+*  [[Neulonvilly]] 
+*  [[Ormshamber]] 
+*  [[Piekmotanki]] 
+*  [[Lokmokioi]] 
+*  [[Soulise]] 
+*  [[Chatilles]] 
+*  [[Lajarhokia]] 
+*  [[Onstad]] 
+*  [[Djugager]] 
+*  [[Briatelleurs]] 
+*  [[Sompaa]] 
+*  [[Rozoy]] 
+*  [[Rakka]] 
+*  [[Menevik]] 
+*  [[Kehja]] 
+*  [[Bentama]] 
+*  [[Huitti]] 
+*  [[Bauvy]] 
+*  [[Sundyrdur]] 
+*  [[Helmendoya]] 
+*  [[Vampssas]] 
+*  [[Huistouy]] 
+*  [[Uttavepaa]] 
+*  [[Kunisanepo]] 
+*  [[Parai]] 
+*  [[Dunsmoutham]] 
+*  [[Bonte]] 
+*  [[Penksey]] 
+*  [[Raupun]] 
+*  [[Paarai]] 
+*  [[Dalboliton]] 
+*  [[Jarceville]] 
+*  [[Kuhlaivies]] 
+*  [[Bevandillevoy]] 
+*  [[Orandre]] 
+*  [[Kaulasesima]] 
+*  [[Vilpsa]] 
+*  [[Valga]] 
+*  [[Nilvivijapa]] 
+*  [[Villiers]] 
+*  [[Litla]] 
+*  [[Latille]] 
+*  [[Pertti]] 
+*  [[Aucourtevil]] 
+*  [[Chevraimouy]] 
+*  [[Felvik]] 
+*  [[Laula]] 
+*  [[Ellisbak]] 
+*  [[Harvijarvi]] 
+*  [[Heikylapa]] 
+*  [[Reykseynes]] 
+*  [[Syrve]] 
+*  [[Charce]] 
+*  [[Laisa]] 
+*  [[Shifton]] 
+*  [[Burmouth]] 
+*  [[Kylosaajo]] 
+*  [[Eresseaux]] 
+*  [[Brotierreau]] 
+*  [[Rozotska]] 
+*  [[Yvasajola]] 
+*  [[Benkama]] 
+*  [[Klovspovii]] 
+*  [[Morgis]] 
+*  [[Junnesvog]] 
+*  [[Channes]] 
+*  [[Rouvrery]] 
+*  [[Grepoy]] 
+*  [[Hogarten]] 
+*  [[Puinouve]] 
+*  [[Vehtikyla]] 
+*  [[Pohti]] 
+*  [[Meungnes]] 
+*  [[Aasaredakka]] 
+*  [[Monthinete]] 
+*  [[Briarieuilles]] 
+*  [[Croteres]] 
+*  [[Brerevillevil]] 
+*  [[Turenjo]] 
+*  [[Lohtiio]] 
+*  [[Desherce]] 
+*  [[Ogstad]] 
+*  [[Jamsa]] 
+*  [[Rakimatti]] 
+*  [[Vienvilleaux]] 
+*  [[Oisonnetevil]] 
+*  [[Kasvaanijar]] 
+*  [[Solles]] 
+*  [[Humenmoen]] 
+*  [[Vrigny]] 
+*  [[Kaula]] 
+*  [[Jiori]] 
+*  [[Leaux]] 
+*  [[Montes]] 
+*  [[Kausu]] 
+*  [[Oittinijar]] 
+*  [[Siglain]] 
+*  [[Viohja]] 
+*  [[Hovira]] 
+*  [[Austrandra]] 
+*  [[Aschevoy]] 
+*  [[Jouernoicy]] 
+*  [[Leighton]] 
+*  [[Lemsa]] 
+*  [[Lautio]] 
+*  [[Greres]] 
+*  [[Kaski]] 
+*  [[Bosting]] 
+*  [[Falescoux]] 
+*  [[Cheres]] 
+*  [[Parvi]] 
+*  [[Fjellvikho]] 
+*  [[Ralankalala]] 
+*  [[Tuuskuepaa]] 
+*  [[Koksylota]] 
+*  [[Oittumaja]] 
+*  [[Joenpaari]] 
+*  [[Marde]] 
+*  [[Kinentavala]] 
+*  [[Mamoutardon]] 
+*  [[Aschevillevan]] 
+*  [[Grigy]] 
+*  [[Cournoinaynes]] 
+*  [[Kusumava]] 
+*  [[Nines]] 
+*  [[Harvimio]] 
+*  [[Berham]] 
+*  [[Brory]] 
+*  [[Tulpio]] 
+*  [[Stordi]] 
+*  [[Bacray]] 
+*  [[Sanneaulivet]] 
+*  [[Lohlai]] 
 
 
 Military Overview
@@ -301,11 +303,7 @@ Campaigns
 | Sarkerencs Invasion | 99 | 102 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -314,7 +312,7 @@ Campaigns
     </div>
 </html>
 
-![[United Provinces of Qajaria.svg|250]]
+![[./United Provinces of Qajaria.svg|250]]
 
 <html>
     <div class="infobox">
@@ -337,7 +335,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Qajaria</li>
+                    <li>United Provinces of Qajaria</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -452,9 +451,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

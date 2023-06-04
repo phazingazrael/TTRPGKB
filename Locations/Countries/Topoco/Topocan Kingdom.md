@@ -1,10 +1,12 @@
 ---
-title: "Topocan Kingdom"
-aliases: "Topoco"
-tags: [infoBox, Location, Country, Topoco, Topocan Kingdom]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Topocan Kingdom, "Topoco"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Topocan Kingdom
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Topoco, Topocan Kingdom, e78ac3]
+title: Topocan Kingdom
 ---
+# Topocan Kingdom
 
 
 ```start-multi-column  
@@ -32,63 +34,63 @@ shadow: off
 
 Cities
 
-*  Esmukkoria - ![[capitol.svg|25]]
-*  Piolttame 
-*  Nildiski 
-*  Porvo 
-*  Lokia 
-*  Elhobyloke 
-*  Sakanta 
-*  Tulpuren 
-*  Sanhagoin 
-*  Ridiro 
-*  Ponho 
-*  Funho 
-*  Tavel 
-*  Hahaiiolaki 
-*  Arelpalcan 
-*  Lahka 
-*  Mepoy 
-*  Merais 
-*  Soulemaux 
-*  Coully 
-*  Vences 
-*  Ropio 
-*  Liepo 
-*  Rotan 
-*  Tuukka 
-*  Alheiras 
-*  Kilvakara 
-*  Kasla 
-*  Vildiski 
-*  Eskog 
-*  Rakkasenky 
-*  Malma 
-*  Yvaskogsund 
-*  Puinay 
-*  Vieilleroy 
-*  Boigny 
-*  Rakiviese 
-*  Pupunta 
-*  Tottalisuo 
-*  Sila 
-*  Jampaa 
-*  Flecheima 
-*  Turan 
-*  Feins 
-*  Kolvalanvaa 
-*  Tuusjarja 
-*  Pylahai 
-*  Rezelamal 
-*  Ylapirttala 
-*  Ahjanie 
-*  Valvaku 
-*  Guille 
-*  Liekka 
-*  Kilmajo 
-*  Anteau 
-*  Kanasta 
-*  Tiormu 
+*  [[Esmukkoria]] - ![[capitol.svg|20]]
+*  [[Piolttame]] 
+*  [[Nildiski]] 
+*  [[Porvo]] 
+*  [[Lokia]] 
+*  [[Elhobyloke]] 
+*  [[Sakanta]] 
+*  [[Tulpuren]] 
+*  [[Sanhagoin]] 
+*  [[Ridiro]] 
+*  [[Ponho]] 
+*  [[Funho]] 
+*  [[Tavel]] 
+*  [[Hahaiiolaki]] 
+*  [[Arelpalcan]] 
+*  [[Lahka]] 
+*  [[Mepoy]] 
+*  [[Merais]] 
+*  [[Soulemaux]] 
+*  [[Coully]] 
+*  [[Vences]] 
+*  [[Ropio]] 
+*  [[Liepo]] 
+*  [[Rotan]] 
+*  [[Tuukka]] 
+*  [[Alheiras]] 
+*  [[Kilvakara]] 
+*  [[Kasla]] 
+*  [[Vildiski]] 
+*  [[Eskog]] 
+*  [[Rakkasenky]] 
+*  [[Malma]] 
+*  [[Yvaskogsund]] 
+*  [[Puinay]] 
+*  [[Vieilleroy]] 
+*  [[Boigny]] 
+*  [[Rakiviese]] 
+*  [[Pupunta]] 
+*  [[Tottalisuo]] 
+*  [[Sila]] 
+*  [[Jampaa]] 
+*  [[Flecheima]] 
+*  [[Turan]] 
+*  [[Feins]] 
+*  [[Kolvalanvaa]] 
+*  [[Tuusjarja]] 
+*  [[Pylahai]] 
+*  [[Rezelamal]] 
+*  [[Ylapirttala]] 
+*  [[Ahjanie]] 
+*  [[Valvaku]] 
+*  [[Guille]] 
+*  [[Liekka]] 
+*  [[Kilmajo]] 
+*  [[Anteau]] 
+*  [[Kanasta]] 
+*  [[Tiormu]] 
 
 
 Military Overview
@@ -177,11 +179,7 @@ Campaigns
 | Oeirarian Campaign | 1 | 2 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -190,7 +188,7 @@ Campaigns
     </div>
 </html>
 
-![[Topocan Kingdom.svg|250]]
+![[./Topocan Kingdom.svg|250]]
 
 <html>
     <div class="infobox">
@@ -213,7 +211,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Topoco</li>
+                    <li>Topocan Kingdom</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -328,9 +327,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

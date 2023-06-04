@@ -1,10 +1,12 @@
 ---
-title: "Menut Most Serene Republic"
-aliases: "Menut"
-tags: [infoBox, Location, Country, Menut, Menut Most Serene Republic]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Menut Most Serene Republic, "Menut"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Menut Most Serene Republic
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Menut, Menut Most Serene Republic, a6d854]
+title: Menut Most Serene Republic
 ---
+# Menut Most Serene Republic
 
 
 ```start-multi-column  
@@ -32,109 +34,109 @@ shadow: off
 
 Cities
 
-*  Paguilmo - ![[capitol.svg|25]]
-*  Pigoscosa 
-*  Nobla 
-*  Sytos 
-*  Saudeca 
-*  Ainon 
-*  Hijos 
-*  Megana 
-*  Hesmossos 
-*  Manes 
-*  Orizizi 
-*  Aldeca 
-*  Urgaz 
-*  Nobraquegas 
-*  Umatillos 
-*  Molea 
-*  Estable 
-*  Esplena 
-*  Valla 
-*  Burtuejas 
-*  Skylcis 
-*  Pesos 
-*  Cornapon 
-*  Fontequeda 
-*  Tierninches 
-*  Casterastil 
-*  Areta 
-*  Olluranillo 
-*  Riofrio 
-*  Carrevojo 
-*  Citasenanil 
-*  Talote 
-*  Pocetecada 
-*  Ugeca 
-*  Laomega 
-*  Zardos 
-*  Aldecillo 
-*  Tiergos 
-*  Piniescana 
-*  Estriena 
-*  Drieguman 
-*  Viagantes 
-*  Artue 
-*  Vallana 
-*  Fuentando 
-*  Lavas 
-*  Lilco 
-*  Pramurzona 
-*  Almadra 
-*  Pebestilca 
-*  Torcos 
-*  Orinthon 
-*  Muroniacos 
-*  Crolymnos 
-*  Rhitros 
-*  Gourma 
-*  Phais 
-*  Soniara 
-*  Soporinthi 
-*  Ruena 
-*  Hurontella 
-*  Monala 
-*  Horges 
-*  Sopesera 
-*  Numabueras 
-*  Dikon 
-*  Suron 
-*  Rolis 
-*  Melioseicos 
-*  Histhekion 
-*  Honta 
-*  Seranarme 
-*  Torban 
-*  Lekros 
-*  Omanes 
-*  Robledabue 
-*  Poranquerin 
-*  Escatanca 
-*  Ocenta 
-*  Noblant 
-*  Byblos 
-*  Trita 
-*  Eurondos 
-*  Almeguzon 
-*  Sejos 
-*  Sanzajofrin 
-*  Cosoralota 
-*  Mados 
-*  Santa 
-*  Gallanes 
-*  Alzamur 
-*  Gyrian 
-*  Pyrgos 
-*  Medrola 
-*  Hedanconta 
-*  Fuenta 
-*  Puebles 
-*  Calla 
-*  Ontatilpita 
-*  Ondina 
-*  Herronsase 
-*  Nobraga 
-*  Phacamos 
+*  [[Paguilmo]] - ![[capitol.svg|20]]
+*  [[Pigoscosa]] 
+*  [[Nobla]] 
+*  [[Sytos]] 
+*  [[Saudeca]] 
+*  [[Ainon]] 
+*  [[Hijos]] 
+*  [[Megana]] 
+*  [[Hesmossos]] 
+*  [[Manes]] 
+*  [[Orizizi]] 
+*  [[Aldeca]] 
+*  [[Urgaz]] 
+*  [[Nobraquegas]] 
+*  [[Umatillos]] 
+*  [[Molea]] 
+*  [[Estable]] 
+*  [[Esplena]] 
+*  [[Valla]] 
+*  [[Burtuejas]] 
+*  [[Skylcis]] 
+*  [[Pesos]] 
+*  [[Cornapon]] 
+*  [[Fontequeda]] 
+*  [[Tierninches]] 
+*  [[Casterastil]] 
+*  [[Areta]] 
+*  [[Olluranillo]] 
+*  [[Riofrio]] 
+*  [[Carrevojo]] 
+*  [[Citasenanil]] 
+*  [[Talote]] 
+*  [[Pocetecada]] 
+*  [[Ugeca]] 
+*  [[Laomega]] 
+*  [[Zardos]] 
+*  [[Aldecillo]] 
+*  [[Tiergos]] 
+*  [[Piniescana]] 
+*  [[Estriena]] 
+*  [[Drieguman]] 
+*  [[Viagantes]] 
+*  [[Artue]] 
+*  [[Vallana]] 
+*  [[Fuentando]] 
+*  [[Lavas]] 
+*  [[Lilco]] 
+*  [[Pramurzona]] 
+*  [[Almadra]] 
+*  [[Pebestilca]] 
+*  [[Torcos]] 
+*  [[Orinthon]] 
+*  [[Muroniacos]] 
+*  [[Crolymnos]] 
+*  [[Rhitros]] 
+*  [[Gourma]] 
+*  [[Phais]] 
+*  [[Soniara]] 
+*  [[Soporinthi]] 
+*  [[Ruena]] 
+*  [[Hurontella]] 
+*  [[Monala]] 
+*  [[Horges]] 
+*  [[Sopesera]] 
+*  [[Numabueras]] 
+*  [[Dikon]] 
+*  [[Suron]] 
+*  [[Rolis]] 
+*  [[Melioseicos]] 
+*  [[Histhekion]] 
+*  [[Honta]] 
+*  [[Seranarme]] 
+*  [[Torban]] 
+*  [[Lekros]] 
+*  [[Omanes]] 
+*  [[Robledabue]] 
+*  [[Poranquerin]] 
+*  [[Escatanca]] 
+*  [[Ocenta]] 
+*  [[Noblant]] 
+*  [[Byblos]] 
+*  [[Trita]] 
+*  [[Eurondos]] 
+*  [[Almeguzon]] 
+*  [[Sejos]] 
+*  [[Sanzajofrin]] 
+*  [[Cosoralota]] 
+*  [[Mados]] 
+*  [[Santa]] 
+*  [[Gallanes]] 
+*  [[Alzamur]] 
+*  [[Gyrian]] 
+*  [[Pyrgos]] 
+*  [[Medrola]] 
+*  [[Hedanconta]] 
+*  [[Fuenta]] 
+*  [[Puebles]] 
+*  [[Calla]] 
+*  [[Ontatilpita]] 
+*  [[Ondina]] 
+*  [[Herronsase]] 
+*  [[Nobraga]] 
+*  [[Phacamos]] 
 
 
 Military Overview
@@ -217,11 +219,7 @@ Campaigns
 | Marc Crusade | 120 | 123 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -230,7 +228,7 @@ Campaigns
     </div>
 </html>
 
-![[Menut Most Serene Republic.svg|250]]
+![[./Menut Most Serene Republic.svg|250]]
 
 <html>
     <div class="infobox">
@@ -253,7 +251,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Menut</li>
+                    <li>Menut Most Serene Republic</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -368,9 +367,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

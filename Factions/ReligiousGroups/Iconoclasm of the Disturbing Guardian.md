@@ -1,13 +1,16 @@
 ---
-author: Cameren D
-title: "Iconoclasm of the Disturbing Guardian"
-aliases: "Iconoclasm of the Disturbing Guardian"
-tags: [infoBox, Religion, Iconoclasm of the Disturbing Guardian, Faction]
-type: [ReligiousGroup, Religious Faction]
 affilliation: 
-creation date:  
-modification date: 
+aliases: [Iconoclasm of the Disturbing Guardian, "Iconoclasm of the Disturbing Guardian"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Iconoclasm of the Disturbing Guardian
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Religion, Iconoclasm of the Disturbing Guardian, Faction, c6a3bc]
+title: Iconoclasm of the Disturbing Guardian
+type:
+  - ReligiousGroup
+  - Religious Faction
 ---
+# Iconoclasm of the Disturbing Guardian
 
 
 ```start-multi-column  
@@ -28,13 +31,12 @@ shadow: off
 
 #### **Color:** #c6a3bc
 
---- end-multi-column
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
             <h2>Iconoclasm of the Disturbing Guardian</h2>
         </div>
-
         <div class="infobox-group">
             <div class="heading">
                 <h3>Iconoclasm of the Disturbing Guardian</h3>
@@ -71,9 +73,24 @@ shadow: off
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

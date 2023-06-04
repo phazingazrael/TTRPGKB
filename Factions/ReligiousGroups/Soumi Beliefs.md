@@ -1,13 +1,16 @@
 ---
-author: Cameren D
-title: "Soumi Beliefs"
-aliases: "Soumi Beliefs"
-tags: [infoBox, Religion, Soumi Beliefs, Faction]
-type: [ReligiousGroup, Religious Faction]
 affilliation: 
-creation date:  
-modification date: 
+aliases: [Soumi Beliefs, "Soumi Beliefs"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Soumi Beliefs
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Religion, Soumi Beliefs, Faction, d692e4]
+title: Soumi Beliefs
+type:
+  - ReligiousGroup
+  - Religious Faction
 ---
+# Soumi Beliefs
 
 
 ```start-multi-column  
@@ -28,13 +31,12 @@ shadow: off
 
 #### **Color:** #d692e4
 
---- end-multi-column
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
             <h2>Soumi Beliefs</h2>
         </div>
-
         <div class="infobox-group">
             <div class="heading">
                 <h3>Soumi Beliefs</h3>
@@ -71,9 +73,24 @@ shadow: off
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

@@ -1,13 +1,16 @@
 ---
-author: Cameren D
-title: "Slovan Pantheon"
-aliases: "Slovan Pantheon"
-tags: [infoBox, Religion, Slovan Pantheon, Faction]
-type: [ReligiousGroup, Religious Faction]
 affilliation: 
-creation date:  
-modification date: 
+aliases: [Slovan Pantheon, "Slovan Pantheon"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Slovan Pantheon
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Religion, Slovan Pantheon, Faction, c1dcc5]
+title: Slovan Pantheon
+type:
+  - ReligiousGroup
+  - Religious Faction
 ---
+# Slovan Pantheon
 
 
 ```start-multi-column  
@@ -28,13 +31,12 @@ shadow: off
 
 #### **Color:** #c1dcc5
 
---- end-multi-column
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
             <h2>Slovan Pantheon</h2>
         </div>
-
         <div class="infobox-group">
             <div class="heading">
                 <h3>Slovan Pantheon</h3>
@@ -71,9 +73,24 @@ shadow: off
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

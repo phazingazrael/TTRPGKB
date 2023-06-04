@@ -1,10 +1,12 @@
 ---
-title: "Gandean Tsardom"
-aliases: "Gande"
-tags: [infoBox, Location, Country, Gande, Gandean Tsardom]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Gandean Tsardom, "Gande"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Gandean Tsardom
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Gande, Gandean Tsardom, af9dd9]
+title: Gandean Tsardom
 ---
+# Gandean Tsardom
 
 
 ```start-multi-column  
@@ -32,103 +34,103 @@ shadow: off
 
 Cities
 
-*  Lurov - ![[capitol.svg|25]]
-*  Llan 
-*  Gorovsk 
-*  Themidea 
-*  Dichi 
-*  Lochilorha 
-*  Svisvya 
-*  Pomel 
-*  Lolechevsk 
-*  Avonning 
-*  Aberlerefen 
-*  Inve 
-*  Inverkuaislo 
-*  Modubkigov 
-*  Abergeallan 
-*  Rzhis 
-*  Tuzasil 
-*  Gozyr 
-*  Smebovlnik 
-*  Doresk 
-*  Minsk 
-*  Empianena 
-*  Vemyshlno 
-*  Mescht 
-*  Zizmapech 
-*  Deben 
-*  Prolorodni 
-*  Eatheria/Locations/Cities/Gande/Kursk 
-*  Rodbesk 
-*  Nerov 
-*  Kurskiv 
-*  Chernase 
-*  Cherdedin 
-*  Slorod 
-*  Avonvegyn 
-*  Beiganthing 
-*  Sendiryart 
-*  Insere 
-*  Dvererez 
-*  Cherni 
-*  Teshesk 
-*  Staroditin 
-*  Plesk 
-*  Golec 
-*  Nabelta 
-*  Infarthin 
-*  Trimerlen 
-*  Gosalsk 
-*  Alaw 
-*  Fhlai 
-*  Moschersk 
-*  Veremyshl 
-*  Shiloshek 
-*  Torzhok 
-*  Goboresk 
-*  Abergow 
-*  Aber 
-*  Durie 
-*  Druts 
-*  Golotsk 
-*  Sizidamega 
-*  Tedev 
-*  Sitin 
-*  Kirk 
-*  Abertaber 
-*  Aberkeita 
-*  Aber 
-*  Pinsk 
-*  Kornitvert 
-*  Bogodub 
-*  Torzhets 
-*  Chernobesk 
-*  Vruchilosk 
-*  Naber 
-*  Invewedhek 
-*  Voreloga 
-*  Opolec 
-*  Sinia 
-*  Asktos 
-*  Nicha 
-*  Gogilologa 
-*  Lubkin 
-*  Snovshev 
-*  Dmitlitsk 
-*  Eurionti 
-*  Kukoml 
-*  Prokodok 
-*  Dubech 
-*  Novensk 
-*  Dutivl 
-*  Betebovlgo 
-*  Minonok 
-*  Migozyrval 
-*  Aberviewed 
-*  Boslynhafraw 
-*  Izborsk 
-*  Dveres 
+*  [[Lurov]] - ![[capitol.svg|20]]
+*  [[Llan]] 
+*  [[Gorovsk]] 
+*  [[Themidea]] 
+*  [[Dichi]] 
+*  [[Lochilorha]] 
+*  [[Svisvya]] 
+*  [[Pomel]] 
+*  [[Lolechevsk]] 
+*  [[Avonning]] 
+*  [[Aberlerefen]] 
+*  [[Inve]] 
+*  [[Inverkuaislo]] 
+*  [[Modubkigov]] 
+*  [[Abergeallan]] 
+*  [[Rzhis]] 
+*  [[Tuzasil]] 
+*  [[Gozyr]] 
+*  [[Smebovlnik]] 
+*  [[Doresk]] 
+*  [[Minsk]] 
+*  [[Empianena]] 
+*  [[Vemyshlno]] 
+*  [[Mescht]] 
+*  [[Zizmapech]] 
+*  [[Deben]] 
+*  [[Prolorodni]] 
+*  [[Kursk]] 
+*  [[Rodbesk]] 
+*  [[Nerov]] 
+*  [[Kurskiv]] 
+*  [[Chernase]] 
+*  [[Cherdedin]] 
+*  [[Slorod]] 
+*  [[Avonvegyn]] 
+*  [[Beiganthing]] 
+*  [[Sendiryart]] 
+*  [[Insere]] 
+*  [[Dvererez]] 
+*  [[Cherni]] 
+*  [[Teshesk]] 
+*  [[Staroditin]] 
+*  [[Plesk]] 
+*  [[Golec]] 
+*  [[Nabelta]] 
+*  [[Infarthin]] 
+*  [[Trimerlen]] 
+*  [[Gosalsk]] 
+*  [[Alaw]] 
+*  [[Fhlai]] 
+*  [[Moschersk]] 
+*  [[Veremyshl]] 
+*  [[Shiloshek]] 
+*  [[Torzhok]] 
+*  [[Goboresk]] 
+*  [[Abergow]] 
+*  [[Aber]] 
+*  [[Durie]] 
+*  [[Druts]] 
+*  [[Golotsk]] 
+*  [[Sizidamega]] 
+*  [[Tedev]] 
+*  [[Sitin]] 
+*  [[Kirk]] 
+*  [[Abertaber]] 
+*  [[Aberkeita]] 
+*  [[Aber]] 
+*  [[Pinsk]] 
+*  [[Kornitvert]] 
+*  [[Bogodub]] 
+*  [[Torzhets]] 
+*  [[Chernobesk]] 
+*  [[Vruchilosk]] 
+*  [[Naber]] 
+*  [[Invewedhek]] 
+*  [[Voreloga]] 
+*  [[Opolec]] 
+*  [[Sinia]] 
+*  [[Asktos]] 
+*  [[Nicha]] 
+*  [[Gogilologa]] 
+*  [[Lubkin]] 
+*  [[Snovshev]] 
+*  [[Dmitlitsk]] 
+*  [[Eurionti]] 
+*  [[Kukoml]] 
+*  [[Prokodok]] 
+*  [[Dubech]] 
+*  [[Novensk]] 
+*  [[Dutivl]] 
+*  [[Betebovlgo]] 
+*  [[Minonok]] 
+*  [[Migozyrval]] 
+*  [[Aberviewed]] 
+*  [[Boslynhafraw]] 
+*  [[Izborsk]] 
+*  [[Dveres]] 
 
 
 Military Overview
@@ -271,11 +273,7 @@ Campaigns
 | Inverynolian Expedition | 120 | 121 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -284,7 +282,7 @@ Campaigns
     </div>
 </html>
 
-![[Gandean Tsardom.svg|250]]
+![[./Gandean Tsardom.svg|250]]
 
 <html>
     <div class="infobox">
@@ -307,7 +305,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Gande</li>
+                    <li>Gandean Tsardom</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -422,9 +421,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

@@ -1,8 +1,12 @@
 ---
-title: "Decimation"
-aliases: "Decimation"
+aliases: [Decimation, "Decimation"]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
+linter-yaml-title-alias: Decimation
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 tags: [Event, Decimation, Lore]
+title: Decimation
 ---
+# Decimation
 **Lore Entry: Decimation**
 
 Decimation, the fateful day of April 26, 1986, marked a turning point in human history, forever altering the course of civilization. It was the day when the Chernobyl Nuclear Power Plant, located in the Soviet Union, was deliberately sabotaged, triggering a catastrophic event that led to global devastation and the outbreak of nuclear war. This dark chapter in mankind's legacy is etched into the annals of history as a symbol of the destructive potential of human actions.
@@ -19,6 +23,6 @@ Yet, amidst the despair, a glimmer of hope emerged. Small pockets of survivors b
 
 The Decimation serves as a haunting reminder of the catastrophic consequences of human greed, ambition, and the devastating power of nuclear weapons. It stands as a testament to the resilience of humanity, as survivors fight to rebuild their shattered world and confront the challenges that arise in the aftermath of the nuclear holocaust.
 
-The scars of The Decimation run deep, shaping the very fabric of Eatheria and serving as a cautionary tale for future generations. The remnants of the pre-war world serve as both a reminder of the heights of human achievement and a somber testament to the destructive forces that can be unleashed when ambition goes unchecked.
+The scars of The Decimation run deep, shaping the very fabric of Eatheria and serving as a cautionary tale for future generations. The remnants of the Pre-Decimation world serve as both a reminder of the heights of human achievement and a somber testament to the destructive forces that can be unleashed when ambition goes unchecked.
 
-As the survivors navigate the treacherous landscapes and grapple with the remnants of pre-war technology, the specter of The Decimation looms large, reminding them of the need for unity, resilience, and the constant pursuit of a better future. It is a day forever etched in history, forever altering the destiny of mankind and shaping the post-apocalyptic world of Eatheria.
+As the survivors navigate the treacherous landscapes and grapple with the remnants of Pre-Decimation technology, the specter of The Decimation looms large, reminding them of the need for unity, resilience, and the constant pursuit of a better future. It is a day forever etched in history, forever altering the destiny of mankind and shaping the post-apocalyptic world of Eatheria.

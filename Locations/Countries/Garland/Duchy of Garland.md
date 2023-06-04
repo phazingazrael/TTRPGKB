@@ -1,10 +1,12 @@
 ---
-title: "Duchy of Garland"
-aliases: "Garland"
-tags: [infoBox, Location, Country, Garland, Duchy of Garland]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Duchy of Garland, "Garland"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Duchy of Garland
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Garland, Duchy of Garland, f69083]
+title: Duchy of Garland
 ---
+# Duchy of Garland
 
 
 ```start-multi-column  
@@ -32,59 +34,59 @@ shadow: off
 
 Cities
 
-*  Lubkinobor - ![[capitol.svg|25]]
-*  Ostmyzhs 
-*  Kopolch 
-*  Korod 
-*  Gorochukin 
-*  Pemevan 
-*  Voiversk 
-*  Mstis 
-*  Zhinyvan 
-*  Vystonich 
-*  Oryesk 
-*  Beyanov 
-*  Mstishin 
-*  Orogodisch 
-*  Yaraysk 
-*  Dmitniasil 
-*  Romny 
-*  Glins 
-*  Sneverech 
-*  Luyatin 
-*  Mstishere 
-*  Lulatsk 
-*  Luzborsk 
-*  Chereniki 
-*  Mglin 
-*  Gokovgorod 
-*  Luchin 
-*  Trubc 
-*  Kogorodno 
-*  Ruteshvost 
-*  Terezetsk 
-*  Leretsk 
-*  Votel 
-*  Zizhok 
-*  Merensk 
-*  Midychelo 
-*  Chelai 
-*  Rshavin 
-*  Duravets 
-*  Bozhesk 
-*  Temosh 
-*  Lutsk 
-*  Gomiy 
-*  Mukilev 
-*  Shilov 
-*  Vilev 
-*  Teskoedev 
-*  Loshon 
-*  Pronslavl 
-*  Hotmyzhs 
-*  Berevemil 
-*  Rotel 
-*  Trigovopos 
+*  [[Lubkinobor]] - ![[capitol.svg|20]]
+*  [[Ostmyzhs]] 
+*  [[Kopolch]] 
+*  [[Korod]] 
+*  [[Gorochukin]] 
+*  [[Pemevan]] 
+*  [[Voiversk]] 
+*  [[Mstis]] 
+*  [[Zhinyvan]] 
+*  [[Vystonich]] 
+*  [[Oryesk]] 
+*  [[Beyanov]] 
+*  [[Mstishin]] 
+*  [[Orogodisch]] 
+*  [[Yaraysk]] 
+*  [[Dmitniasil]] 
+*  [[Romny]] 
+*  [[Glins]] 
+*  [[Sneverech]] 
+*  [[Luyatin]] 
+*  [[Mstishere]] 
+*  [[Lulatsk]] 
+*  [[Luzborsk]] 
+*  [[Chereniki]] 
+*  [[Mglin]] 
+*  [[Gokovgorod]] 
+*  [[Luchin]] 
+*  [[Trubc]] 
+*  [[Kogorodno]] 
+*  [[Ruteshvost]] 
+*  [[Terezetsk]] 
+*  [[Leretsk]] 
+*  [[Votel]] 
+*  [[Zizhok]] 
+*  [[Merensk]] 
+*  [[Midychelo]] 
+*  [[Chelai]] 
+*  [[Rshavin]] 
+*  [[Duravets]] 
+*  [[Bozhesk]] 
+*  [[Temosh]] 
+*  [[Lutsk]] 
+*  [[Gomiy]] 
+*  [[Mukilev]] 
+*  [[Shilov]] 
+*  [[Vilev]] 
+*  [[Teskoedev]] 
+*  [[Loshon]] 
+*  [[Pronslavl]] 
+*  [[Hotmyzhs]] 
+*  [[Berevemil]] 
+*  [[Rotel]] 
+*  [[Trigovopos]] 
 
 
 Military Overview
@@ -159,11 +161,7 @@ Campaigns
 | Bernizpian War | 124 | 126 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -172,7 +170,7 @@ Campaigns
     </div>
 </html>
 
-![[Duchy of Garland.svg|250]]
+![[./Duchy of Garland.svg|250]]
 
 <html>
     <div class="infobox">
@@ -195,7 +193,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Garland</li>
+                    <li>Duchy of Garland</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -310,9 +309,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

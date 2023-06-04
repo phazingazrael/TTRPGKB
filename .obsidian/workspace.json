@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Topoco/Tavel.md",
+                "file": "Locations/Cities/Topoco/Piolttame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Topoco/Tavel.md",
+                "file": "Locations/Cities/Topoco/Piolttame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Topoco/Tavel.md"
+                "file": "Locations/Cities/Topoco/Piolttame.md"
               }
             }
           }
@@ -170,7 +170,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Cities/Topoco/Tavel.md",
+                    "file": "Locations/Cities/Topoco/Nildiski.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -191,6 +191,22 @@
   },
   "active": "18703f53eab5844f",
   "lastOpenFiles": [
+    "Locations/Cities/Topoco/Ponho.md",
+    "Locations/Cities/Topoco/Porvo.md",
+    "Locations/Cities/Topoco/Puinay.md",
+    "Locations/Cities/Topoco/Pupunta.md",
+    "Locations/Cities/Topoco/Pylahai.md",
+    "Locations/Cities/Topoco/Rakiviese.md",
+    "Locations/Cities/Topoco/Rakkasenky.md",
+    "Locations/Cities/Topoco/Rezelamal.md",
+    "Locations/Cities/Topoco/Ridiro.md",
+    "Locations/Cities/Topoco/Ropio.md",
+    "Locations/Cities/Topoco/Rotan.md",
+    "Locations/Cities/Topoco/Sakanta.md",
+    "Locations/Cities/Topoco/Sanhagoin.md",
+    "Locations/Cities/Topoco/Sila.md",
+    "Locations/Cities/Topoco/Soulemaux.md",
+    "Locations/Cities/Topoco/Tavel.md",
     "Locations/Cities/Topoco/Tiormu.md",
     "Locations/Cities/Topoco/Tottalisuo.md",
     "Locations/Cities/Topoco/Tulpuren.md",
@@ -201,23 +217,7 @@
     "Locations/Cities/Topoco/Vences.md",
     "Locations/Cities/Topoco/Vieilleroy.md",
     "Locations/Cities/Topoco/Vildiski.md",
-    "Locations/Cities/Topoco/Ylapirttala.md",
-    "Locations/Cities/Topoco/Yvaskogsund.md",
-    "Locations/Countries/Berdia/Principality of Berdia.md",
-    "Locations/Countries/Chaves/Chavian Divine Principality.md",
-    "Locations/Countries/Gande/Gandean Tsardom.md",
-    "Locations/Countries/Garland/Duchy of Garland.md",
-    "Players/Slade/Celesenia StatblockBase.md",
-    "Players/Slade/Celesenia.md",
-    "Players/Todd/Null StatBlockBase.md",
-    "Players/Todd/NULL.md",
-    "Session Notes & Recordings/Session1/Session 1.md",
-    "Session Notes & Recordings/Session2/Session 2.md",
-    "__templates/Session Template.md",
-    "Factions/AdventuringGroups/The Party.md",
     "docs",
-    "Locations/Cities/Qajaria/Latille.md",
-    "Locations/Cities/Qajaria/Laula.md",
     "Lore/Radiant Legion",
     "Lore/Alliance of Sentinels",
     "Locations/Cities/Topoco/Yvaskogsund.svg",

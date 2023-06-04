@@ -1,0 +1,98 @@
+---
+title: "Hut-Hut"
+aliases: "Hut-Hut"
+tags: [infoBox, Player, Hut-Hut]
+---
+
+```start-multi-column  
+ID: ExampleRegion1  
+number of columns: 2  
+largest column: left
+border: off
+shadow: off
+```
+
+Text Column 1
+
+
+--- end-column ---
+<html>
+<div class="infobox">
+    <div class="heading">
+      <h2>Hut-Hut</h2>
+    </div>
+</div>
+</html>
+
+![[Players/Anna/Hut-Hut (Anna).jpg|245]]
+<html>
+    <div class="infobox">
+        <div class="infobox-group">
+            <div class="heading">
+                <h3>Biographical Information</h3>
+            </div>
+            <div class="infobox-data">
+                <div class="infobox-datarow">
+                    <p class="data-heading">Bio Info</p>
+                    <ul class="data-content">
+                        <li>Info</li>
+                    </ul>
+                </div>
+                <div class="infobox-datarow">
+                    <p class="data-heading">Relatives</p>
+                    <ul class="data-content">
+                        <li>Grandfather Wilhem</li>
+                        <li>Mother</li>
+                        <li>Wife</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="infobox-group">
+            <div class="heading">
+                <h3>Physical Description</h3>
+            </div>
+            <div class="infobox-data">
+                <div class="infobox-datarow">
+                    <p class="data-heading">Hair Color</p>
+                    <ul class="data-content">
+                        <li>Brown</li>
+                    </ul>
+                </div>
+                <div class="infobox-datarow">
+                    <p class="data-heading">Eye Color</p>
+                    <ul class="data-content">
+                        <li>Brown</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="infobox-group">
+            <div class="heading">
+                <h3>Social Information</h3>
+            </div>
+            <div class="infobox-data">
+                <div class="infobox-datarow">
+                    <p class="data-heading">Nation</p>
+                    <ul class="data-content">
+                        <li>Country</li>
+                    </ul>
+                </div>
+                <div class="infobox-datarow">
+                    <p class="data-heading">Occupation</p>
+                    <ul class="data-content">
+                        <li>Fisher</li>
+                    </ul>
+                </div>
+                <div class="infobox-datarow">
+                    <p class="data-heading">Family</p>
+                    <ul class="data-content">
+                        <li>Royal House of Anhalt</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</html>
+
+=== end-multi-column

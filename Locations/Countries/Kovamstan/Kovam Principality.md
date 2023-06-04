@@ -1,10 +1,12 @@
 ---
-title: "Kovam Principality"
-aliases: "Kovamstan"
-tags: [infoBox, Location, Country, Kovamstan, Kovam Principality]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Kovam Principality, "Kovamstan"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Kovam Principality
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Kovamstan, Kovam Principality, fc8d62]
+title: Kovam Principality
 ---
+# Kovam Principality
 
 
 ```start-multi-column  
@@ -32,77 +34,77 @@ shadow: off
 
 Cities
 
-*  Thessanama - ![[capitol.svg|25]]
-*  Vyatrov 
-*  Theramos 
-*  Taion 
-*  Cythos 
-*  Amphos 
-*  Peraclea 
-*  Ampha 
-*  Akros 
-*  Nexandros 
-*  Nararatros 
-*  Kysatis 
-*  Teracrakou 
-*  Scidnaion 
-*  Myraiontira 
-*  Ronia 
-*  Byretospon 
-*  Pithos 
-*  Petapa 
-*  Ricea 
-*  Bydontinia 
-*  Troniara 
-*  Imbros 
-*  Egeala 
-*  Vemil 
-*  Lutesk 
-*  Chalesant 
-*  Sypebai 
-*  Vruch 
-*  Harathumnos 
-*  Thaphidna 
-*  Pizizepha 
-*  Magra 
-*  Braukeracra 
-*  Leinona 
-*  Cronapolcis 
-*  Pylalia 
-*  Zakha 
-*  Straion 
-*  Rhamera 
-*  Thastias 
-*  Trida 
-*  Sparmaselo 
-*  Euros 
-*  Nympsos 
-*  Athon 
-*  Pylaca 
-*  Psychmolis 
-*  Arnegaloti 
-*  Hyera 
-*  Paphara 
-*  Muroreos 
-*  Nelailo 
-*  Athre 
-*  Orchoreos 
-*  Segidolis 
-*  Methotipat 
-*  Lektas 
-*  Cysos 
-*  Opemaion 
-*  Euron 
-*  Rhyzantido 
-*  Nymphi 
-*  Haion 
-*  Orcholis 
-*  Magnegica 
-*  Pemeamos 
-*  Kyrorintho 
-*  Omebemeatos 
-*  Zalydon 
-*  Pytion 
+*  [[Thessanama]] - ![[capitol.svg|20]]
+*  [[Vyatrov]] 
+*  [[Theramos]] 
+*  [[Taion]] 
+*  [[Cythos]] 
+*  [[Amphos]] 
+*  [[Peraclea]] 
+*  [[Ampha]] 
+*  [[Akros]] 
+*  [[Nexandros]] 
+*  [[Nararatros]] 
+*  [[Kysatis]] 
+*  [[Teracrakou]] 
+*  [[Scidnaion]] 
+*  [[Myraiontira]] 
+*  [[Ronia]] 
+*  [[Byretospon]] 
+*  [[Pithos]] 
+*  [[Petapa]] 
+*  [[Ricea]] 
+*  [[Bydontinia]] 
+*  [[Troniara]] 
+*  [[Imbros]] 
+*  [[Egeala]] 
+*  [[Vemil]] 
+*  [[Lutesk]] 
+*  [[Chalesant]] 
+*  [[Sypebai]] 
+*  [[Vruch]] 
+*  [[Harathumnos]] 
+*  [[Thaphidna]] 
+*  [[Pizizepha]] 
+*  [[Magra]] 
+*  [[Braukeracra]] 
+*  [[Leinona]] 
+*  [[Cronapolcis]] 
+*  [[Pylalia]] 
+*  [[Zakha]] 
+*  [[Straion]] 
+*  [[Rhamera]] 
+*  [[Thastias]] 
+*  [[Trida]] 
+*  [[Sparmaselo]] 
+*  [[Euros]] 
+*  [[Nympsos]] 
+*  [[Athon]] 
+*  [[Pylaca]] 
+*  [[Psychmolis]] 
+*  [[Arnegaloti]] 
+*  [[Hyera]] 
+*  [[Paphara]] 
+*  [[Muroreos]] 
+*  [[Nelailo]] 
+*  [[Athre]] 
+*  [[Orchoreos]] 
+*  [[Segidolis]] 
+*  [[Methotipat]] 
+*  [[Lektas]] 
+*  [[Cysos]] 
+*  [[Opemaion]] 
+*  [[Euron]] 
+*  [[Rhyzantido]] 
+*  [[Nymphi]] 
+*  [[Haion]] 
+*  [[Orcholis]] 
+*  [[Magnegica]] 
+*  [[Pemeamos]] 
+*  [[Kyrorintho]] 
+*  [[Omebemeatos]] 
+*  [[Zalydon]] 
+*  [[Pytion]] 
 
 
 Military Overview
@@ -183,11 +185,7 @@ Campaigns
 | Vilbatumian War | 123 | 126 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -196,7 +194,7 @@ Campaigns
     </div>
 </html>
 
-![[Kovam Principality.svg|250]]
+![[./Kovam Principality.svg|250]]
 
 <html>
     <div class="infobox">
@@ -219,7 +217,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Kovamstan</li>
+                    <li>Kovam Principality</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -334,9 +333,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

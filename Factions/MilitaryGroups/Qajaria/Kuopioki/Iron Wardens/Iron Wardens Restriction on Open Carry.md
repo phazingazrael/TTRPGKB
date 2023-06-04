@@ -1,7 +1,12 @@
 ---
-author: Cameren D
-creation date: 
+aliases: [Iron Wardens Restriction on Open Carry]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Iron Wardens Restriction on Open Carry
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: 
+title: Iron Wardens Restriction on Open Carry
 ---
+# Iron Wardens Restriction on Open Carry
 **Iron Wardens Restriction on Open Carry**
 
 The Iron Wardens, as the protectors of Kuopioki, have enacted a city-wide law restricting the open carry of any weaponry, whether melee or ranged. This law is implemented to maintain order and minimize the potential for violence within the community.

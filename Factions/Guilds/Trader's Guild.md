@@ -1,12 +1,18 @@
 ---
-author: Cameren D
+aliases: ["Trader's Guild"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: "Trader's Guild"
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: 
+title: "Trader's Guild"
 ---
+# Trader's Guild
 **Trader's Guild**
 
 
 The Trader's Guild of Kuopioki is a budding organization that has emerged in the capital city's post-apocalyptic landscape. Comprised of resourceful and enterprising individuals, the guild aims to facilitate trade, establish networks, and promote economic growth within the remnants of civilization. Despite the harsh conditions and scarcity of resources, the members of the guild are determined to rebuild a prosperous and interconnected community in Kuopioki.
 
-**Mission and Objectives**
+## Mission and Objectives
 The Trader's Guild's primary mission is to foster economic activity and promote the exchange of goods and services in Kuopioki. Its key objectives include:
 
 1. **Trade Facilitation**: The guild strives to create a supportive environment for trade by connecting merchants, suppliers, and customers. They establish marketplaces, trade routes, and mechanisms for fair transactions to stimulate economic growth.
@@ -21,7 +27,7 @@ The Trader's Guild's primary mission is to foster economic activity and promote 
    
 6. **Lower-Ranked Traders**: Lower-ranked traders constitute the wider membership of the guild. They are aspiring merchants, traders, or artisans who benefit from the resources, support, and networking opportunities provided by the guild. They actively participate in trade events, contribute to the guild's growth, and abide by the guild's rules and regulations.
 
-**Organizational Structure**
+## Organizational Structure
 As a fledgling organization, the Traders Guild is currently establishing its organizational structure. The following roles are envisioned within the guild:
 
 1. **Guildmaster**: The Guildmaster serves as the leader of the Traders Guild, responsible for setting the overall vision, goals, and policies. They oversee the guild's operations and represent its interests in negotiations and external relations.
@@ -34,13 +40,13 @@ As a fledgling organization, the Traders Guild is currently establishing its org
 
 5. **Security Liaison**: The Security Liaison collaborates with local security forces or factions to provide protection to traders and their goods during trade events and transportation. They coordinate security measures and implement strategies to minimize risks and safeguard the interests of the guild members.
 
-**Challenges and Opportunities**
+## Challenges and Opportunities
 The Trader's Guild faces numerous challenges in their pursuit of economic growth and trade expansion. Limited resources, unpredictable market conditions, and the presence of hostile factions pose significant obstacles. However, they also recognize the vast opportunities for collaboration, resource sharing, and knowledge exchange that arise from a united trading community.
 
 Through perseverance, adaptability, and the collective effort of its members, the Trader's Guild aims to establish itself as a vital economic entity in Kuopioki, fostering prosperity and stability in the post-apocalyptic world of Eatheria.
 
 
-**Notable Characters of the Fledgling Traders Guild**
+## Notable Characters of the Traders Guild
 
 1. **Isabella Stonebridge**
    - Role: Guildmaster of the Traders Guild
@@ -108,7 +114,7 @@ Through perseverance, adaptability, and the collective effort of its members, th
 
 17. **Liam Steelhart**
     - Role: Technology Advisor
-    - Background: Liam possesses a deep understanding of pre-war technology and its potential applications. He advises guild members on utilizing technological advancements to enhance trade operations, improve logistics, and streamline communication. Liam's expertise helps the guild adapt to the changing world and harness the power of pre-war tech.
+    - Background: Liam possesses a deep understanding of Pre-Decimation technology and its potential applications. He advises guild members on utilizing technological advancements to enhance trade operations, improve logistics, and streamline communication. Liam's expertise helps the guild adapt to the changing world and harness the power of Pre-Decimation tech.
 
 18. **Samantha Wildwood**
     - Role: Food Supply Coordinator

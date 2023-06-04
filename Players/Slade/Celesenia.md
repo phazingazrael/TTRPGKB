@@ -1,11 +1,16 @@
 ---
-title: "Celesenia"
-aliases: "Celesenia"
-tags: [infoBox, Person]
-type: [Player, Slade]
-creation date: 2023-05-30 01:08 
-modification date: Tuesday 30th May 2023 01:08:31
+aliases: [Celesenia, "Celesenia"]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+linter-yaml-title-alias: Celesenia
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+tags: [infoBox, Person, Celesenia, Player]
+title: Celesenia
+player: Slade
+type:
+  - Player
+  - Slade
 ---
+# Celesenia
 
 ```start-multi-column  
 ID: Person-Player-Celesenia
@@ -25,12 +30,8 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](Celesenia%20(Slade).pdf)
-
-
+![](./Celesenia.pdf)
 --- end-column ---
-
-
 <html>
 <div class="infobox">
     <div class="heading">
@@ -38,8 +39,8 @@ Work In Progress
     </div>
 </div>
 </html>
+![[./Celesenia.jpeg|250]]
 
-![[Celesenia (Slade).jpeg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">
@@ -110,140 +111,181 @@ Work In Progress
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">name</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">titles</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">aliases</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">homeland</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">alignment</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">race</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">traits</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">gender</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">level</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">class</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">deity</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">dob</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">death</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">destroyed</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">organization</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">animal</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">spiritanimal</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">familiar</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">eidolon</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">companions</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">cohort</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">imagesof</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">1e-source</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">1e-page</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">2e-source</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
-        </div><div class="infobox-datarow">
+        </div>
+        <div class="infobox-datarow">
           <p class="data-heading">2e-page</p>
           <ul class="data-content">
 	          <li>Royal House of Anhalt</li>
           </ul>
         </div>
+	    <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
             </div>
         </div>
     </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

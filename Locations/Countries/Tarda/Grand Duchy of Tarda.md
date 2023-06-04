@@ -1,10 +1,12 @@
 ---
-title: "Grand Duchy of Tarda"
-aliases: "Tarda"
-tags: [infoBox, Location, Country, Tarda, Grand Duchy of Tarda]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Grand Duchy of Tarda, "Tarda"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Grand Duchy of Tarda
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Tarda, Grand Duchy of Tarda, ff95be]
+title: Grand Duchy of Tarda
 ---
+# Grand Duchy of Tarda
 
 
 ```start-multi-column  
@@ -32,37 +34,37 @@ shadow: off
 
 Cities
 
-*  Shuryevya - ![[capitol.svg|25]]
-*  Ikubech 
-*  Veteya 
-*  Alsaz 
-*  Orodnilov 
-*  Sterzhyemi 
-*  Vyslarorec 
-*  Mezetsk 
-*  Goposla 
-*  Roblanona 
-*  Promiyvan 
-*  Gorochu 
-*  Yaropolch 
-*  Zverelecha 
-*  Valmendral 
-*  Yurov 
-*  Rylsk 
-*  Sernik 
-*  Kavin 
-*  Idychenets 
-*  Svilov 
-*  Mstishino 
-*  Galforriola 
-*  Glebolorod 
-*  Bulatsk 
-*  Vokov 
-*  Desovgo 
-*  Vruche 
-*  Gororovsk 
-*  Vereresk 
-*  Drozelsk 
+*  [[Shuryevya]] - ![[capitol.svg|20]]
+*  [[Ikubech]] 
+*  [[Veteya]] 
+*  [[Alsaz]] 
+*  [[Orodnilov]] 
+*  [[Sterzhyemi]] 
+*  [[Vyslarorec]] 
+*  [[Mezetsk]] 
+*  [[Goposla]] 
+*  [[Roblanona]] 
+*  [[Promiyvan]] 
+*  [[Gorochu]] 
+*  [[Yaropolch]] 
+*  [[Zverelecha]] 
+*  [[Valmendral]] 
+*  [[Yurov]] 
+*  [[Rylsk]] 
+*  [[Sernik]] 
+*  [[Kavin]] 
+*  [[Idychenets]] 
+*  [[Svilov]] 
+*  [[Mstishino]] 
+*  [[Galforriola]] 
+*  [[Glebolorod]] 
+*  [[Bulatsk]] 
+*  [[Vokov]] 
+*  [[Desovgo]] 
+*  [[Vruche]] 
+*  [[Gororovsk]] 
+*  [[Vereresk]] 
+*  [[Drozelsk]] 
 
 
 Military Overview
@@ -136,11 +138,7 @@ Campaigns
 | Conterinian Invasion | 120 | 125 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -149,7 +147,7 @@ Campaigns
     </div>
 </html>
 
-![[Grand Duchy of Tarda.svg|250]]
+![[./Grand Duchy of Tarda.svg|250]]
 
 <html>
     <div class="infobox">
@@ -172,7 +170,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Tarda</li>
+                    <li>Grand Duchy of Tarda</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -287,9 +286,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

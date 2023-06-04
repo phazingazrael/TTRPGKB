@@ -1,3 +1,12 @@
+---
+aliases: [House Rules]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
+linter-yaml-title-alias: House Rules
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+tags: 
+title: House Rules
+---
+# House Rules
 ## House Rule - Special Roll: Epic Destiny Die
 
 Description: In your campaign, there is a special d20 called the Epic Destiny Die. Once per gaming session, any player may choose to roll this d20 without applying any of their regular bonuses. The Epic Destiny Die brings forth the potential for extraordinary outcomes, both in favor of the player and against them.

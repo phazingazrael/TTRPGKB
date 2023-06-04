@@ -1,11 +1,21 @@
 ---
-title: "Kuopioki"
-aliases: "Kuopioki"
-tags: [infoBox, Location, City, Kuopioki, CapitalCity,]
-creation date: 05-30-2023 - 01:48:04 
-modification date: 05-30-2023 - 01:48:04
-type: [Small_Town, CapitalCity,]
+aliases: [Kuopioki, "Kuopioki"]
+capitalCity: CapitalCity
+cityFeatures:
+  - Citadel
+  - Plaza
+  - Walls
+cityType: Small Town 
+country: Qajaria
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+isCapital: Yes
+linter-yaml-title-alias: Kuopioki
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+population: 479
+tags: [infoBox, Location, City, Kuopioki, Capital]
+title: Kuopioki
 ---
+# Kuopioki
 
 
 ```start-multi-column  
@@ -16,7 +26,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[../../Countries/Qajaria/United Provinces of Qajaria]]
+#### Country: [[Qajaria]]
 
 #### Population: 479
 
@@ -24,7 +34,7 @@ shadow: off
 
 #### Capital City of United Provinces of Qajaria
 
-
+#### Description
 Kuopioki, the capital city of Qajaria, stands as a testament to the resilience and adaptability of the survivors in the post-apocalyptic world of Eatheria. Nestled within the hollowed-out ruins, sewers, and subway tunnels of a once bustling metropolis, Kuopioki has become a beacon of hope and community amidst the desolation.
 
 **Location and Setting:** Located in the heart of Qajaria, Kuopioki benefits from its strategic positioning, offering both defensive advantages and access to vital resources. The city is surrounded by the remnants of a once-thriving urban landscape, with towering skyscrapers and crumbling infrastructure serving as a reminder of the pre-war era. The twisted remnants of highways and overpasses connect the various districts, providing a labyrinthine network that has become the lifeblood of the city.
@@ -49,11 +59,7 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
 
 
 
-
-
 --- end-column ---
-
-
 <html>
     <div class="infobox">
         <div class="heading">
@@ -62,7 +68,7 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
     </div>
 </html>
 
-![[Kuopioki.svg|250]]
+![[./Kuopioki.svg|250]]
 
 <html>
     <div class="infobox">
@@ -85,7 +91,7 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2FQajaria/United Provinces of Qajaria.md">United Provinces of Qajaria</a></li>
+                    <li>United Provinces of Qajaria</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -199,9 +205,24 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

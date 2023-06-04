@@ -1,10 +1,12 @@
 ---
-title: "Federation of Pithudia"
-aliases: "Pithudia"
-tags: [infoBox, Location, Country, Pithudia, Federation of Pithudia]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Federation of Pithudia, "Pithudia"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Federation of Pithudia
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Pithudia, Federation of Pithudia, e0b2c4]
+title: Federation of Pithudia
 ---
+# Federation of Pithudia
 
 
 ```start-multi-column  
@@ -32,25 +34,25 @@ shadow: off
 
 Cities
 
-*  Allora - ![[capitol.svg|25]]
-*  Olori 
-*  Eatheria/Locations/Cities/Gande/Kursk 
-*  Lobyl 
-*  Tororobo 
-*  Bargos 
-*  Testololye 
-*  Pohogida 
-*  Mezutsk 
-*  Bratsk 
-*  Orechevsk 
-*  Rzhev 
-*  Berechev 
-*  Bererenets 
-*  Mesch 
-*  Rosla 
-*  Smenicha 
-*  Opylgogo 
-*  Rechi 
+*  [[Allora]] - ![[capitol.svg|20]]
+*  [[Olori]] 
+*  [[Kursk]] 
+*  [[Lobyl]] 
+*  [[Tororobo]] 
+*  [[Bargos]] 
+*  [[Testololye]] 
+*  [[Pohogida]] 
+*  [[Mezutsk]] 
+*  [[Bratsk]] 
+*  [[Orechevsk]] 
+*  [[Rzhev]] 
+*  [[Berechev]] 
+*  [[Bererenets]] 
+*  [[Mesch]] 
+*  [[Rosla]] 
+*  [[Smenicha]] 
+*  [[Opylgogo]] 
+*  [[Rechi]] 
 
 
 Military Overview
@@ -135,11 +137,7 @@ Campaigns
 | Marcistanian War | 123 | 126 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -148,7 +146,7 @@ Campaigns
     </div>
 </html>
 
-![[Federation of Pithudia.svg|250]]
+![[./Federation of Pithudia.svg|250]]
 
 <html>
     <div class="infobox">
@@ -171,7 +169,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Pithudia</li>
+                    <li>Federation of Pithudia</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -286,9 +285,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

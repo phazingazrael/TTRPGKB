@@ -1,11 +1,18 @@
 ---
-title: "Sanneaulivet"
-aliases: "Sanneaulivet"
-tags: [infoBox, Location, City, Sanneaulivet, ]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
-type: [Small Town, ]
+aliases: [Sanneaulivet, "Sanneaulivet"]
+cityFeatures:
+  - Walls
+cityType: Small Town 
+country: Qajaria
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+isCapital: No
+linter-yaml-title-alias: Sanneaulivet
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+population: 1,019
+tags: [infoBox, Location, City, Sanneaulivet]
+title: Sanneaulivet
 ---
+# Sanneaulivet
 
 
 ```start-multi-column  
@@ -16,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[../../Countries/Qajaria/United Provinces of Qajaria]]
+#### Country: [[Qajaria]]
 
 #### Population: 1,019
 
@@ -37,11 +44,7 @@ shadow: off
 
 
 
-
-
 --- end-column ---
-
-
 <html>
     <div class="infobox">
         <div class="heading">
@@ -50,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[Sanneaulivet.svg|250]]
+![[./Sanneaulivet.svg|250]]
 
 <html>
     <div class="infobox">
@@ -73,7 +76,7 @@ shadow: off
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2FQajaria/United Provinces of Qajaria.md">United Provinces of Qajaria</a></li>
+                    <li>United Provinces of Qajaria</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -187,9 +190,24 @@ shadow: off
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

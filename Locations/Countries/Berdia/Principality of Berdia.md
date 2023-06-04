@@ -1,10 +1,12 @@
 ---
-title: "Principality of Berdia"
-aliases: "Berdia"
-tags: [infoBox, Location, Country, Berdia, Principality of Berdia]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Principality of Berdia, "Berdia"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Principality of Berdia
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Berdia, Principality of Berdia, 8da0cb]
+title: Principality of Berdia
 ---
+# Principality of Berdia
 
 
 ```start-multi-column  
@@ -32,78 +34,78 @@ shadow: off
 
 Cities
 
-*  Bopeia - ![[capitol.svg|25]]
-*  Pithe 
-*  Thyros 
-*  Ampomiscu 
-*  Sicargiphid 
-*  Vatrea 
-*  Opozotipo 
-*  Goles 
-*  Braupaktos 
-*  Kyrelea 
-*  Eniagidamai 
-*  Gorgan 
-*  Histrea 
-*  Akleleamai 
-*  Delphaguri 
-*  Tholis 
-*  Rhamna 
-*  Smyrcyrekus 
-*  Enamos 
-*  Lintion 
-*  Zaraion 
-*  Hubla 
-*  Tyreumpo 
-*  Ablos 
-*  Stympha 
-*  Papha 
-*  Aicearat 
-*  Orina 
-*  Bhryrelea 
-*  Hyeleos 
-*  Onale 
-*  Rhithumna 
-*  Trolixt 
-*  Ninia 
-*  Pepoidea 
-*  Euroskan 
-*  Amphidna 
-*  Parnenena 
-*  Amphinontos 
-*  Kydontos 
-*  Zakroicea 
-*  Haris 
-*  Theolyme 
-*  Helion 
-*  Akroicos 
-*  Byreumnos 
-*  Chales 
-*  Phaponialia 
-*  Pyrma 
-*  Rhamnos 
-*  Orchopos 
-*  Gourgipsa 
-*  Aberl 
-*  Chios 
-*  Micyon 
-*  Pydria 
-*  Oncheleossa 
-*  Nymphidna 
-*  Naupha 
-*  Aphyrenes 
-*  Hyelos 
-*  Vathos 
-*  Siniamea 
-*  Pyrgamissos 
-*  Iolalaion 
-*  Lekroidea 
-*  Zakrorion 
-*  Myrtyndos 
-*  Amplios 
-*  Laopos 
-*  Mormenaida 
-*  Nileapo 
+*  [[Bopeia]] - ![[capitol.svg|20]]
+*  [[Pithe]] 
+*  [[Thyros]] 
+*  [[Ampomiscu]] 
+*  [[Sicargiphid]] 
+*  [[Vatrea]] 
+*  [[Opozotipo]] 
+*  [[Goles]] 
+*  [[Braupaktos]] 
+*  [[Kyrelea]] 
+*  [[Eniagidamai]] 
+*  [[Gorgan]] 
+*  [[Histrea]] 
+*  [[Akleleamai]] 
+*  [[Delphaguri]] 
+*  [[Tholis]] 
+*  [[Rhamna]] 
+*  [[Smyrcyrekus]] 
+*  [[Enamos]] 
+*  [[Lintion]] 
+*  [[Zaraion]] 
+*  [[Hubla]] 
+*  [[Tyreumpo]] 
+*  [[Ablos]] 
+*  [[Stympha]] 
+*  [[Papha]] 
+*  [[Aicearat]] 
+*  [[Orina]] 
+*  [[Bhryrelea]] 
+*  [[Hyeleos]] 
+*  [[Onale]] 
+*  [[Rhithumna]] 
+*  [[Trolixt]] 
+*  [[Ninia]] 
+*  [[Pepoidea]] 
+*  [[Euroskan]] 
+*  [[Amphidna]] 
+*  [[Parnenena]] 
+*  [[Amphinontos]] 
+*  [[Kydontos]] 
+*  [[Zakroicea]] 
+*  [[Haris]] 
+*  [[Theolyme]] 
+*  [[Helion]] 
+*  [[Akroicos]] 
+*  [[Byreumnos]] 
+*  [[Chales]] 
+*  [[Phaponialia]] 
+*  [[Pyrma]] 
+*  [[Rhamnos]] 
+*  [[Orchopos]] 
+*  [[Gourgipsa]] 
+*  [[Aberl]] 
+*  [[Chios]] 
+*  [[Micyon]] 
+*  [[Pydria]] 
+*  [[Oncheleossa]] 
+*  [[Nymphidna]] 
+*  [[Naupha]] 
+*  [[Aphyrenes]] 
+*  [[Hyelos]] 
+*  [[Vathos]] 
+*  [[Siniamea]] 
+*  [[Pyrgamissos]] 
+*  [[Iolalaion]] 
+*  [[Lekroidea]] 
+*  [[Zakrorion]] 
+*  [[Myrtyndos]] 
+*  [[Amplios]] 
+*  [[Laopos]] 
+*  [[Mormenaida]] 
+*  [[Nileapo]] 
 
 
 Military Overview
@@ -219,11 +221,7 @@ Campaigns
 | Conterinian War | 124 | 126 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -232,7 +230,7 @@ Campaigns
     </div>
 </html>
 
-![[Principality of Berdia.svg|250]]
+![[./Principality of Berdia.svg|250]]
 
 <html>
     <div class="infobox">
@@ -255,7 +253,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Berdia</li>
+                    <li>Principality of Berdia</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -370,9 +369,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

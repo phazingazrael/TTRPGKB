@@ -1,10 +1,12 @@
 ---
-title: "Chavian Divine Principality"
-aliases: "Chaves"
-tags: [infoBox, Location, Country, Chaves, Chavian Divine Principality]
-creation date: 05-30-2023 - 01:36:23 
-modification date: 05-30-2023 - 01:36:23
+aliases: [Chavian Divine Principality, "Chaves"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Chavian Divine Principality
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Location, Country, Chaves, Chavian Divine Principality, ffd92f]
+title: Chavian Divine Principality
 ---
+# Chavian Divine Principality
 
 
 ```start-multi-column  
@@ -32,98 +34,98 @@ shadow: off
 
 Cities
 
-*  Chadelazul - ![[capitol.svg|25]]
-*  Lagos 
-*  Apinquerga 
-*  Lourogavami 
-*  Chares 
-*  Maxias 
-*  Cavavendaga 
-*  Ponquerca 
-*  Seixezamal 
-*  Romarca 
-*  Balhalhal 
-*  Seigal 
-*  Sagos 
-*  Viala 
-*  Douziarel 
-*  Guirolis 
-*  Campiradou 
-*  Coimbrixopo 
-*  Seimao 
-*  Pedelo 
-*  Pontenana 
-*  Arviveitoli 
-*  Alcoruchelo 
-*  Chavo 
-*  Pamporgabe 
-*  Alveiranhal 
-*  Casboa 
-*  Retaguirao 
-*  Conha 
-*  Calegreta 
-*  Aranquerti 
-*  Sanholinde 
-*  Sintralhand 
-*  Raliro 
-*  Vibeima 
-*  Seinas 
-*  Corilgueira 
-*  Coentraburi 
-*  Flosais 
-*  Vacasboaran 
-*  Douleixas 
-*  Lompor 
-*  Guibeigabu 
-*  Vicao 
-*  Carvelaxo 
-*  Freira 
-*  Fangaldoar 
-*  Tranhaiace 
-*  Leiras 
-*  Peciveiros 
-*  Ranilhao 
-*  Formada 
-*  Alheus 
-*  Quarmalicei 
-*  Gradoeirao 
-*  Santalcanha 
-*  Lirinha 
-*  Telveiracol 
-*  Silmivalha 
-*  Avelo 
-*  Sinco 
-*  Felgurolis 
-*  Lorvelacas 
-*  Seixe 
-*  Ficaodixoei 
-*  Rimoso 
-*  Sanhaoril 
-*  Alelosoba 
-*  Penichelo 
-*  Macharetada 
-*  Portado 
-*  Baiaveixei 
-*  Viagantei 
-*  Fidel 
-*  Grainhoei 
-*  Olmiraorabe 
-*  Santinxa 
-*  Samintedin 
-*  Quetacela 
-*  Forta 
-*  Cartadouei 
-*  Leirastan 
-*  Relas 
-*  Carvebo 
-*  Trolis 
-*  Sobra 
-*  Abrical 
-*  Alhelasmo 
-*  Coimbrabua 
-*  Sagres 
-*  Oqurinhadou 
-*  Lombagoas 
+*  [[Chadelazul]] - ![[capitol.svg|20]]
+*  [[Lagos]] 
+*  [[Apinquerga]] 
+*  [[Lourogavami]] 
+*  [[Chares]] 
+*  [[Maxias]] 
+*  [[Cavavendaga]] 
+*  [[Ponquerca]] 
+*  [[Seixezamal]] 
+*  [[Romarca]] 
+*  [[Balhalhal]] 
+*  [[Seigal]] 
+*  [[Sagos]] 
+*  [[Viala]] 
+*  [[Douziarel]] 
+*  [[Guirolis]] 
+*  [[Campiradou]] 
+*  [[Coimbrixopo]] 
+*  [[Seimao]] 
+*  [[Pedelo]] 
+*  [[Pontenana]] 
+*  [[Arviveitoli]] 
+*  [[Alcoruchelo]] 
+*  [[Chavo]] 
+*  [[Pamporgabe]] 
+*  [[Alveiranhal]] 
+*  [[Casboa]] 
+*  [[Retaguirao]] 
+*  [[Conha]] 
+*  [[Calegreta]] 
+*  [[Aranquerti]] 
+*  [[Sanholinde]] 
+*  [[Sintralhand]] 
+*  [[Raliro]] 
+*  [[Vibeima]] 
+*  [[Seinas]] 
+*  [[Corilgueira]] 
+*  [[Coentraburi]] 
+*  [[Flosais]] 
+*  [[Vacasboaran]] 
+*  [[Douleixas]] 
+*  [[Lompor]] 
+*  [[Guibeigabu]] 
+*  [[Vicao]] 
+*  [[Carvelaxo]] 
+*  [[Freira]] 
+*  [[Fangaldoar]] 
+*  [[Tranhaiace]] 
+*  [[Leiras]] 
+*  [[Peciveiros]] 
+*  [[Ranilhao]] 
+*  [[Formada]] 
+*  [[Alheus]] 
+*  [[Quarmalicei]] 
+*  [[Gradoeirao]] 
+*  [[Santalcanha]] 
+*  [[Lirinha]] 
+*  [[Telveiracol]] 
+*  [[Silmivalha]] 
+*  [[Avelo]] 
+*  [[Sinco]] 
+*  [[Felgurolis]] 
+*  [[Lorvelacas]] 
+*  [[Seixe]] 
+*  [[Ficaodixoei]] 
+*  [[Rimoso]] 
+*  [[Sanhaoril]] 
+*  [[Alelosoba]] 
+*  [[Penichelo]] 
+*  [[Macharetada]] 
+*  [[Portado]] 
+*  [[Baiaveixei]] 
+*  [[Viagantei]] 
+*  [[Fidel]] 
+*  [[Grainhoei]] 
+*  [[Olmiraorabe]] 
+*  [[Santinxa]] 
+*  [[Samintedin]] 
+*  [[Quetacela]] 
+*  [[Forta]] 
+*  [[Cartadouei]] 
+*  [[Leirastan]] 
+*  [[Relas]] 
+*  [[Carvebo]] 
+*  [[Trolis]] 
+*  [[Sobra]] 
+*  [[Abrical]] 
+*  [[Alhelasmo]] 
+*  [[Coimbrabua]] 
+*  [[Sagres]] 
+*  [[Oqurinhadou]] 
+*  [[Lombagoas]] 
 
 
 Military Overview
@@ -187,11 +189,7 @@ Campaigns
 | Oeirarian Crusade | 64 | 75 |
 
 
-
-
---- end-column ---
-
-
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
@@ -200,7 +198,7 @@ Campaigns
     </div>
 </html>
 
-![[Chavian Divine Principality.svg|250]]
+![[./Chavian Divine Principality.svg|250]]
 
 <html>
     <div class="infobox">
@@ -223,7 +221,8 @@ Campaigns
             <div class="infobox-datarow">
                 <p class="data-heading">country</p>
                 <ul class="data-content">
-                    <li><a href="obsidian://open?vault=pf2eVault&file=zCampaign%2FEatheria%2FLocations%2FCountries%2F/.md"></a></li>
+                    <li>Chaves</li>
+                    <li>Chavian Divine Principality</li>
                 </ul>
             </div>
             <div class="infobox-datarow">
@@ -338,9 +337,24 @@ Campaigns
                     <li></li>
                 </ul>
             </div>
+                        <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column

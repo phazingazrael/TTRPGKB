@@ -1,13 +1,16 @@
 ---
-author: Cameren D
-title: "Old Turchian Faith"
-aliases: "Old Turchian Faith"
-tags: [infoBox, Religion, Old Turchian Faith, Faction]
-type: [ReligiousGroup, Religious Faction]
 affilliation: 
-creation date:  
-modification date: 
+aliases: [Old Turchian Faith, "Old Turchian Faith"]
+creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+linter-yaml-title-alias: Old Turchian Faith
+modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+tags: [infoBox, Religion, Old Turchian Faith, Faction, 7ea7d1]
+title: Old Turchian Faith
+type:
+  - ReligiousGroup
+  - Religious Faction
 ---
+# Old Turchian Faith
 
 
 ```start-multi-column  
@@ -28,13 +31,12 @@ shadow: off
 
 #### **Color:** #7ea7d1
 
---- end-multi-column
+---end-column ---
 <html>
     <div class="infobox">
         <div class="heading">
             <h2>Old Turchian Faith</h2>
         </div>
-
         <div class="infobox-group">
             <div class="heading">
                 <h3>Old Turchian Faith</h3>
@@ -71,9 +73,24 @@ shadow: off
                     <li></li>
                 </ul>
             </div>
+            <div class="heading">
+				<h3>File Information</h3>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
+			<div class="infobox-datarow">
+				<p class="data-heading">File Created</p>
+				<ul class="data-content">
+					<li><%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %></li>
+				</ul>
+			</div>
         </div>
     </div>
 </div>
 </html>
 
---- end-multi-column
+=== end-multi-column
