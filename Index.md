@@ -34,9 +34,3 @@ As the inhabitants of Eatheria strive to rebuild, survive, and carve out their p
 
 ## World Map
 ![[./Eatheria_Map.svg]]
-## Players
-```dataview
-table player as "Player"
-from #Player and !"Obsidian"
-sort player 
-```

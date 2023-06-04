@@ -9,8 +9,10 @@ title: The Party
 # The Party
 
 
-```dataview
-table player as "Player"
-from #Player and !"Obsidian"
-sort player 
-```
+[[Hut-Hut]]
+[[Broonsbane]]
+[[Moss]]
+[[Cor Tacetoffa]]
+[[Austallica Torvi]]
+[[Celesenia]]
+[[Null]]

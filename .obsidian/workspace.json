@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ce4bdf51b70e6f6",
+        "id": "c3c0a69911559acb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a760928719e9fcc",
+            "id": "02e6499564210fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__templates/Session Template.md",
+                "file": "Factions/AdventuringGroups/The Party.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,50 +147,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "b6f244682fa8bfc0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "48517de8bbb1681b",
-        "type": "window",
-        "children": [
-          {
-            "id": "0ffc24cf9f33a309",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ed17661f600a6d18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factions/AdventuringGroups/The Party.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1169,
-        "y": 531,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ed17661f600a6d18",
+  "active": "02e6499564210fab",
   "lastOpenFiles": [
+    "Eatheria_Map.svg",
+    "Lore/The Alliance of Sentinels.md",
+    "Index.md",
+    "Locations/Cities/Qajaria/Harvijarvi.md",
+    "__templates/Session Template.md",
+    "Factions/AdventuringGroups/The Party.md",
     "Factions/Guilds/Trader's Guild.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
@@ -211,12 +180,6 @@
     "Factions/ReligiousGroups/Old Astellian Deities.md",
     "Factions/ReligiousGroups/Old Turchian Faith.md",
     "Factions/ReligiousGroups/Portuzian Beliefs.md",
-    "Factions/ReligiousGroups/Romian Beliefs.md",
-    "Factions/ReligiousGroups/Schism of the Three.md",
-    "Factions/ReligiousGroups/Shwazen Beliefs.md",
-    "Factions/ReligiousGroups/Slovan Pantheon.md",
-    "Factions/ReligiousGroups/Tallian Forefathers.md",
-    "Factions/ReligiousGroups/Soumi Beliefs.md",
     "docs/locations/cities/tarda/zverelecha.svg",
     "docs/locations/cities/tarda/zverelecha.html",
     "docs/locations/cities/tarda/vyslarorec.html",
@@ -235,7 +198,6 @@
     "docs/locations/cities/tarda/vereresk.html",
     "docs/locations/cities/tarda/valmendral.svg",
     "docs/locations/cities/tarda/valmendral.html",
-    "docs/locations/cities/tarda/svilov.svg",
     "docs/locations/cities/tarda/svilov.html"
   ]
 }
