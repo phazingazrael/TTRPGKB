@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b54d61ceb917fe0c",
+        "id": "7ce4bdf51b70e6f6",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc7ed5ce0869957",
+            "id": "4a760928719e9fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+                "file": "Factions/AdventuringGroups/The Party.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "625a9f4eeed02604",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__attachments/DefaultPicture.svg"
-              }
-            }
-          },
-          {
-            "id": "73082a2115140367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+                "file": "Locations/Cities/Topoco/Tavel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
+                "file": "Locations/Cities/Topoco/Tavel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Countries/Qajaria/United Provinces of Qajaria.md"
+                "file": "Locations/Cities/Topoco/Tavel.md"
               }
             }
           }
@@ -174,53 +152,90 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cc7ed5ce0869957",
+  "floating": {
+    "id": "b6f244682fa8bfc0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d9e32acb0fa53015",
+        "type": "window",
+        "children": [
+          {
+            "id": "b7de3f31eaf8b8cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18703f53eab5844f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Cities/Topoco/Tavel.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1014,
+        "y": 508,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "18703f53eab5844f",
   "lastOpenFiles": [
+    "Locations/Cities/Topoco/Tiormu.md",
+    "Locations/Cities/Topoco/Tottalisuo.md",
+    "Locations/Cities/Topoco/Tulpuren.md",
+    "Locations/Cities/Topoco/Turan.md",
+    "Locations/Cities/Topoco/Tuukka.md",
+    "Locations/Cities/Topoco/Tuusjarja.md",
+    "Locations/Cities/Topoco/Valvaku.md",
+    "Locations/Cities/Topoco/Vences.md",
+    "Locations/Cities/Topoco/Vieilleroy.md",
+    "Locations/Cities/Topoco/Vildiski.md",
+    "Locations/Cities/Topoco/Ylapirttala.md",
+    "Locations/Cities/Topoco/Yvaskogsund.md",
+    "Locations/Countries/Berdia/Principality of Berdia.md",
     "Locations/Countries/Chaves/Chavian Divine Principality.md",
-    "Locations/Countries/Qajaria/United Provinces of Qajaria.md",
-    "Locations/Cities/Qajaria/Kuopioki.md",
-    "docs/recordings/recordings.html",
-    "docs/players/todd/null.html",
-    "docs/players/slade/celesenia.html",
-    "docs/players/chad/moss.html",
-    "docs/players/armin/broonsbane.html",
-    "docs/players/anna/hut-hut.html",
-    "docs/lore/resurgence.html",
-    "docs/locations/cities/qajaria/kuhlaivies.html",
-    "docs/locations/cities/qajaria/koksylota.html",
-    "docs/locations/cities/qajaria/klovspovii.html",
-    "Players/Armin/Broonsbane.md",
-    "docs/__attachments/game-icons.net/quoting/field-gun.svg",
-    "docs/__attachments/game-icons.net/quoting/trench-assault.svg",
-    "docs/__attachments/game-icons.net/quoting/lost-limb.svg",
-    "docs/__attachments/game-icons.net/quoting/military-ambulance.svg",
-    "docs/__attachments/game-icons.net/quoting/poppy.svg",
-    "docs/__attachments/game-icons.net/quoting/damaged-house.svg",
-    "docs/__attachments/game-icons.net/quoting/card-play.svg",
-    "docs/__attachments/game-icons.net/quoting/card-pickup.svg",
-    "docs/__attachments/game-icons.net/quoting/bunker.svg",
-    "docs/__attachments/game-icons.net/quoting/biplane.svg",
-    "input/Index.md",
-    "input/Recordings/Session2/Session 2.md",
-    "input/Recordings/Session1/Session 1.md",
-    "input/Recordings/Recordings.md",
-    "input/Players/Todd/Null.md",
-    "input/Players/Slade/Celesenia.md",
-    "input/Players/Sam/Austallica Torvi.md",
-    "input/Players/Deniz/Cor Tacetoffa.md",
-    "input/Players/Armin/Broonsbane.md",
-    "input/Players/Chad/Moss.md",
-    "input/Players/Anna/Hut-Hut.md",
-    "input/Other/House Rules.md",
-    "input/Lore/Resurgence.md",
-    "input/Lore/Decimation.md",
-    "input/Locations/Countries/Qajaria/United Provinces of Qajaria.md",
-    "input/Locations/Countries/Topoco/Topocan Kingdom.md",
-    "input/Locations/Countries/Tarda/Grand Duchy of Tarda.md",
-    "input/Locations/Countries/Pithudia/Federation of Pithudia.md",
-    "input/Locations/Countries/Neutrals/undefined.md",
-    "input/Locations/Countries/Menut/Menut Most Serene Republic.md",
-    "input/Locations/Countries/Kovamstan/Kovam Principality.md",
-    "input/Locations/Countries/Garland/Duchy of Garland.md"
+    "Locations/Countries/Gande/Gandean Tsardom.md",
+    "Locations/Countries/Garland/Duchy of Garland.md",
+    "Players/Slade/Celesenia StatblockBase.md",
+    "Players/Slade/Celesenia.md",
+    "Players/Todd/Null StatBlockBase.md",
+    "Players/Todd/NULL.md",
+    "Session Notes & Recordings/Session1/Session 1.md",
+    "Session Notes & Recordings/Session2/Session 2.md",
+    "__templates/Session Template.md",
+    "Factions/AdventuringGroups/The Party.md",
+    "docs",
+    "Locations/Cities/Qajaria/Latille.md",
+    "Locations/Cities/Qajaria/Laula.md",
+    "Lore/Radiant Legion",
+    "Lore/Alliance of Sentinels",
+    "Locations/Cities/Topoco/Yvaskogsund.svg",
+    "Locations/Cities/Topoco/Ylapirttala.svg",
+    "Locations/Cities/Topoco/Vildiski.svg",
+    "Locations/Cities/Topoco/Vieilleroy.svg",
+    "Locations/Cities/Topoco/Vences.svg",
+    "Locations/Cities/Topoco/Valvaku.svg",
+    "Locations/Cities/Topoco/Tuusjarja.svg",
+    "Locations/Cities/Topoco/Tuukka.svg",
+    "Locations/Cities/Topoco/Turan.svg",
+    "Locations/Cities/Topoco/Tulpuren.svg",
+    "Locations/Cities/Topoco",
+    "Locations/Cities/Tarda",
+    "Locations/Cities/Pithudia",
+    "Locations/Cities/Menut",
+    "Locations/Cities/Kovamstan",
+    "Locations/Cities/Garland",
+    "Locations/Cities/Gande"
   ]
 }

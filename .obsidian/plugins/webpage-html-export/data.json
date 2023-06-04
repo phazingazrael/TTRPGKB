@@ -1,8 +1,8 @@
 {
-  "inlineCSS": false,
-  "inlineJS": false,
+  "inlineCSS": true,
+  "inlineJS": true,
   "inlineImages": false,
-  "includePluginCSS": "obsidian-5e-statblocks\nvarious-complements\nobsidian-admonition\nmulti-column-markdown\nobsidian-link-embed\nfantasy-calendar",
+  "includePluginCSS": "obsidian-5e-statblocks\nvarious-complements\nobsidian-admonition\nmulti-column-markdown\nobsidian-link-embed\nfantasy-calendar\ndataview\noz-image-plugin",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": false,
@@ -27,5 +27,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "C:\\Users\\desse\\Documents\\GitHub\\TTRPGKB\\docs\\broonsbane.html"
+  "lastExportPath": "C:\\Users\\desse\\Documents\\GitHub\\TTRPGKB\\docs"
 }
