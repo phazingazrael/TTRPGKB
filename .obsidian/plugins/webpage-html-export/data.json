@@ -12,7 +12,7 @@
   "contentWidth": "",
   "sidebarWidth": "",
   "startOutlineCollapsed": true,
-  "dataviewBlockWaitTime": 700,
+  "dataviewBlockWaitTime": 70000,
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": false,
