@@ -8,6 +8,6 @@
   "showFrontmatter": false,
   "livePreview": false,
   "foldHeading": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "autoConvertHtml": true
 }

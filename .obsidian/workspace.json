@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c0a69911559acb",
+        "id": "7dc7438581460c11",
         "type": "tabs",
         "children": [
           {
-            "id": "02e6499564210fab",
+            "id": "c3a1c61a01a074c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/AdventuringGroups/The Party.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/AdventuringGroups/The Party.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/AdventuringGroups/The Party.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/AdventuringGroups/The Party.md"
+                "file": "Index.md"
               }
             }
           }
@@ -152,52 +152,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02e6499564210fab",
+  "active": "c3a1c61a01a074c7",
   "lastOpenFiles": [
-    "Eatheria_Map.svg",
-    "Lore/The Alliance of Sentinels.md",
-    "Index.md",
-    "Locations/Cities/Qajaria/Harvijarvi.md",
-    "__templates/Session Template.md",
+    "docs/factions/adventuringgroups/the-party.html",
     "Factions/AdventuringGroups/The Party.md",
+    "docs/factions/adventuringgroups",
+    "docs/factions/guilds/trader's-guild.html",
+    "docs/factions/guilds",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.svg",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
+    "docs/factions/militarygroups/qajaria/kuopioki",
+    "docs/factions/militarygroups/qajaria",
+    "docs/factions/militarygroups",
+    "docs/factions",
+    "docs/locations/cities/qajaria/aasaredakka.svg",
+    "docs/locations/cities/qajaria/aschevillevan.svg",
+    "docs/locations/cities/qajaria/aschevoy.svg",
+    "docs/locations/cities/qajaria/aucourtevil.svg",
+    "docs/locations/cities/qajaria/austrandra.svg",
+    "docs/locations/cities/qajaria/bacray.svg",
+    "docs/locations/cities/qajaria/bauvy.svg",
+    "docs/locations/cities/qajaria/benkama.svg",
+    "docs/locations/cities/qajaria/bentama.svg",
     "Factions/Guilds/Trader's Guild.md",
-    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-    "Factions/PoliticalGroups/Untitled.md",
-    "Factions/ReligiousGroups/Angshire Faith.md",
-    "Factions/ReligiousGroups/Astellianism.md",
-    "Factions/ReligiousGroups/Elladan Deities.md",
-    "Factions/ReligiousGroups/Euskati Shamanism.md",
-    "Factions/ReligiousGroups/Iconoclasm of the Disturbing Guardian.md",
-    "Factions/ReligiousGroups/Iurorumian Circle.md",
-    "Factions/ReligiousGroups/Keltan Forefathers.md",
-    "Factions/ReligiousGroups/Luari Beliefs.md",
-    "Factions/ReligiousGroups/Minetesmo Deities.md",
-    "Factions/ReligiousGroups/No religion.md",
-    "Factions/ReligiousGroups/Nagymamoszomian Cult.md",
-    "Factions/ReligiousGroups/Norse Ancestors.md",
-    "Factions/ReligiousGroups/Old Astellian Deities.md",
-    "Factions/ReligiousGroups/Old Turchian Faith.md",
-    "Factions/ReligiousGroups/Portuzian Beliefs.md",
-    "docs/locations/cities/tarda/zverelecha.svg",
-    "docs/locations/cities/tarda/zverelecha.html",
-    "docs/locations/cities/tarda/vyslarorec.html",
-    "docs/locations/cities/tarda/yurov.svg",
-    "docs/locations/cities/tarda/yurov.html",
-    "docs/locations/cities/tarda/yaropolch.svg",
-    "docs/locations/cities/tarda/yaropolch.html",
-    "docs/locations/cities/tarda/vyslarorec.svg",
-    "docs/locations/cities/tarda/vruche.svg",
-    "docs/locations/cities/tarda/veteya.html",
-    "docs/locations/cities/tarda/vruche.html",
-    "docs/locations/cities/tarda/vokov.svg",
-    "docs/locations/cities/tarda/vokov.html",
-    "docs/locations/cities/tarda/veteya.svg",
-    "docs/locations/cities/tarda/vereresk.svg",
-    "docs/locations/cities/tarda/vereresk.html",
-    "docs/locations/cities/tarda/valmendral.svg",
-    "docs/locations/cities/tarda/valmendral.html",
-    "docs/locations/cities/tarda/svilov.html"
+    "Index.md",
+    "Locations/Cities/Qajaria/Aasaredakka.md",
+    "Locations/Cities/Qajaria/Aschevillevan.md",
+    "Locations/Cities/Qajaria/Aschevoy.md",
+    "Locations/Cities/Qajaria/Aucourtevil.md",
+    "Locations/Cities/Qajaria/Austrandra.md",
+    "Locations/Cities/Qajaria/Bacray.md",
+    "Locations/Cities/Qajaria/Bauvy.md",
+    "Locations/Cities/Qajaria/Benkama.md",
+    "Locations/Cities/Qajaria/Bentama.md",
+    "Locations/Cities/Qajaria/Berham.md",
+    "Locations/Cities/Qajaria/Bevandillevoy.md",
+    "Locations/Cities/Qajaria/Bjorvi.md",
+    "Locations/Cities/Qajaria/Bonte.md",
+    "Locations/Cities/Qajaria/Bosting.md",
+    "Locations/Cities/Qajaria/Brerevillevil.md",
+    "Locations/Cities/Qajaria/Briarieuilles.md",
+    "Locations/Cities/Qajaria/Briatelleurs.md",
+    "Locations/Cities/Qajaria/Brory.md",
+    "Locations/Cities/Qajaria/Brotierreau.md",
+    "Locations/Cities/Qajaria/Burmouth.md"
   ]
 }

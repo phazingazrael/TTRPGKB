@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#cd4c9d",
   "cssTheme": "Atom",
-  "theme": "system",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "InfoBox",
     "ITS-Theme-All-Alternate-Themes",
