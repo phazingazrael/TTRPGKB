@@ -1,19 +1,18 @@
 ---
-aliases: [Pohti, "Pohti"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Pohti"
+aliases: "Pohti"
+tags: [infoBox, Location, City, Pohti, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Pohti
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Small Town 
 population: 662
-tags: [infoBox, Location, City, Pohti]
-title: Pohti
+country: Qajaria
+
 ---
-# Pohti
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 662
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Pohti.svg|250]]
+![[Locations/Cities/Qajaria/Pohti.svg|250]]
 
 <html>
     <div class="infobox">

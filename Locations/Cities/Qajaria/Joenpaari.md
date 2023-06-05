@@ -1,20 +1,19 @@
 ---
-aliases: [Joenpaari, "Joenpaari"]
-cityFeatures:
-  - Citadel
-  - Port
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Joenpaari"
+aliases: "Joenpaari"
+tags: [infoBox, Location, City, Joenpaari, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Joenpaari
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Port
+ - Walls
+cityType: Small Town 
 population: 1,862
-tags: [infoBox, Location, City, Joenpaari]
-title: Joenpaari
+country: Qajaria
+
 ---
-# Joenpaari
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,862
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Joenpaari.svg|250]]
+![[Locations/Cities/Qajaria/Joenpaari.svg|250]]
 
 <html>
     <div class="infobox">

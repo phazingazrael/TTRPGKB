@@ -1,18 +1,17 @@
 ---
-aliases: [Tuuskuepaa, "Tuuskuepaa"]
-cityFeatures:
-  - Port
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Tuuskuepaa"
+aliases: "Tuuskuepaa"
+tags: [infoBox, Location, City, Tuuskuepaa, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Tuuskuepaa
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Port
+cityType: Large Town 
 population: 2,316
-tags: [infoBox, Location, City, Tuuskuepaa]
-title: Tuuskuepaa
+country: Qajaria
+
 ---
-# Tuuskuepaa
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,316
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Tuuskuepaa.svg|250]]
+![[Locations/Cities/Qajaria/Tuuskuepaa.svg|250]]
 
 <html>
     <div class="infobox">

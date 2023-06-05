@@ -1,18 +1,17 @@
 ---
-aliases: [Hogarten, "Hogarten"]
-cityFeatures:
-  - Citadel
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Hogarten"
+aliases: "Hogarten"
+tags: [infoBox, Location, City, Hogarten, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Hogarten
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Large Town 
 population: 2,650
-tags: [infoBox, Location, City, Hogarten]
-title: Hogarten
+country: Qajaria
+
 ---
-# Hogarten
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,650
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Hogarten.svg|250]]
+![[Locations/Cities/Qajaria/Hogarten.svg|250]]
 
 <html>
     <div class="infobox">

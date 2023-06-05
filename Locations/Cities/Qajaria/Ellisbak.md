@@ -1,19 +1,18 @@
 ---
-aliases: [Ellisbak, "Ellisbak"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Ellisbak"
+aliases: "Ellisbak"
+tags: [infoBox, Location, City, Ellisbak, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Ellisbak
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Small Town 
 population: 1,264
-tags: [infoBox, Location, City, Ellisbak]
-title: Ellisbak
+country: Qajaria
+
 ---
-# Ellisbak
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,264
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Ellisbak.svg|250]]
+![[Locations/Cities/Qajaria/Ellisbak.svg|250]]
 
 <html>
     <div class="infobox">

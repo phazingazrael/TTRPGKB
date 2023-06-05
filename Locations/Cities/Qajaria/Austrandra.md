@@ -1,17 +1,16 @@
 ---
-aliases: [Austrandra, "Austrandra"]
+title: "Austrandra"
+aliases: "Austrandra"
+tags: [infoBox, Location, City, Austrandra, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Austrandra
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 3,435
-tags: [infoBox, Location, City, Austrandra]
-title: Austrandra
+country: Qajaria
+
 ---
-# Austrandra
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,435
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Austrandra.svg|250]]
+![[Locations/Cities/Qajaria/Austrandra.svg|250]]
 
 <html>
     <div class="infobox">

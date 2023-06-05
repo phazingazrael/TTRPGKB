@@ -1,20 +1,19 @@
 ---
-aliases: [Muurikmori, "Muurikmori"]
-cityFeatures:
-  - Citadel
-  - Port
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Muurikmori"
+aliases: "Muurikmori"
+tags: [infoBox, Location, City, Muurikmori, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Muurikmori
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Port
+ - Walls
+cityType: Small Town 
 population: 366
-tags: [infoBox, Location, City, Muurikmori]
-title: Muurikmori
+country: Qajaria
+
 ---
-# Muurikmori
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 366
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Muurikmori.svg|250]]
+![[Locations/Cities/Qajaria/Muurikmori.svg|250]]
 
 <html>
     <div class="infobox">

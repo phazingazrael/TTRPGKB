@@ -1,18 +1,17 @@
 ---
-aliases: [Aucourtevil, "Aucourtevil"]
-cityFeatures:
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Aucourtevil"
+aliases: "Aucourtevil"
+tags: [infoBox, Location, City, Aucourtevil, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Aucourtevil
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+cityType: Small Town 
 population: 1,865
-tags: [infoBox, Location, City, Aucourtevil]
-title: Aucourtevil
+country: Qajaria
+
 ---
-# Aucourtevil
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,865
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Aucourtevil.svg|250]]
+![[Locations/Cities/Qajaria/Aucourtevil.svg|250]]
 
 <html>
     <div class="infobox">

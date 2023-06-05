@@ -1,17 +1,16 @@
 ---
-aliases: [Jouernoicy, "Jouernoicy"]
+title: "Jouernoicy"
+aliases: "Jouernoicy"
+tags: [infoBox, Location, City, Jouernoicy, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Jouernoicy
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 251
-tags: [infoBox, Location, City, Jouernoicy]
-title: Jouernoicy
+country: Qajaria
+
 ---
-# Jouernoicy
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 251
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Jouernoicy.svg|250]]
+![[Locations/Cities/Qajaria/Jouernoicy.svg|250]]
 
 <html>
     <div class="infobox">

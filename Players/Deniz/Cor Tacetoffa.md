@@ -30,7 +30,7 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](./Cor%20Tacetoffa.pdf)
+![](Players/Deniz/Cor%20Tacetoffa.pdf)
 --- end-column ---
 <html>
 <div class="infobox">

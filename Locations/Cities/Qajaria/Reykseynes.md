@@ -1,20 +1,19 @@
 ---
-aliases: [Reykseynes, "Reykseynes"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Reykseynes"
+aliases: "Reykseynes"
+tags: [infoBox, Location, City, Reykseynes, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Reykseynes
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 1,103
-tags: [infoBox, Location, City, Reykseynes]
-title: Reykseynes
+country: Qajaria
+
 ---
-# Reykseynes
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,103
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Reykseynes.svg|250]]
+![[Locations/Cities/Qajaria/Reykseynes.svg|250]]
 
 <html>
     <div class="infobox">

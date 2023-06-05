@@ -1,19 +1,18 @@
 ---
-aliases: [Lajarhokia, "Lajarhokia"]
-cityFeatures:
-  - Plaza
-  - Port
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Lajarhokia"
+aliases: "Lajarhokia"
+tags: [infoBox, Location, City, Lajarhokia, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Lajarhokia
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Port
+cityType: Large Town 
 population: 2,676
-tags: [infoBox, Location, City, Lajarhokia]
-title: Lajarhokia
+country: Qajaria
+
 ---
-# Lajarhokia
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,676
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Lajarhokia.svg|250]]
+![[Locations/Cities/Qajaria/Lajarhokia.svg|250]]
 
 <html>
     <div class="infobox">

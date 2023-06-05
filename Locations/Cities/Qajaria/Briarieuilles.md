@@ -1,18 +1,17 @@
 ---
-aliases: [Briarieuilles, "Briarieuilles"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Briarieuilles"
+aliases: "Briarieuilles"
+tags: [infoBox, Location, City, Briarieuilles, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Briarieuilles
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 641
-tags: [infoBox, Location, City, Briarieuilles]
-title: Briarieuilles
+country: Qajaria
+
 ---
-# Briarieuilles
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 641
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Briarieuilles.svg|250]]
+![[Locations/Cities/Qajaria/Briarieuilles.svg|250]]
 
 <html>
     <div class="infobox">

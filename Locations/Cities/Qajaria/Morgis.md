@@ -1,19 +1,18 @@
 ---
-aliases: [Morgis, "Morgis"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Morgis"
+aliases: "Morgis"
+tags: [infoBox, Location, City, Morgis, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Morgis
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Small Town 
 population: 1,144
-tags: [infoBox, Location, City, Morgis]
-title: Morgis
+country: Qajaria
+
 ---
-# Morgis
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,144
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Morgis.svg|250]]
+![[Locations/Cities/Qajaria/Morgis.svg|250]]
 
 <html>
     <div class="infobox">

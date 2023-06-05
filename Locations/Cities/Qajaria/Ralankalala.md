@@ -1,20 +1,19 @@
 ---
-aliases: [Ralankalala, "Ralankalala"]
-cityFeatures:
-  - Plaza
-  - Port
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Ralankalala"
+aliases: "Ralankalala"
+tags: [infoBox, Location, City, Ralankalala, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Ralankalala
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Port
+ - Walls
+cityType: Small Town 
 population: 915
-tags: [infoBox, Location, City, Ralankalala]
-title: Ralankalala
+country: Qajaria
+
 ---
-# Ralankalala
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 915
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Ralankalala.svg|250]]
+![[Locations/Cities/Qajaria/Ralankalala.svg|250]]
 
 <html>
     <div class="infobox">

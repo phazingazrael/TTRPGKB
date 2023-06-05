@@ -1,21 +1,20 @@
 ---
-aliases: [Marde, "Marde"]
-cityFeatures:
-  - Plaza
-  - Port
-  - Temple
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Marde"
+aliases: "Marde"
+tags: [infoBox, Location, City, Marde, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Marde
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Port
+ - Temple
+ - Walls
+cityType: Large Town 
 population: 3,116
-tags: [infoBox, Location, City, Marde]
-title: Marde
+country: Qajaria
+
 ---
-# Marde
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,116
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Marde.svg|250]]
+![[Locations/Cities/Qajaria/Marde.svg|250]]
 
 <html>
     <div class="infobox">

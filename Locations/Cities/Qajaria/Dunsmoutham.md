@@ -1,19 +1,18 @@
 ---
-aliases: [Dunsmoutham, "Dunsmoutham"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Dunsmoutham"
+aliases: "Dunsmoutham"
+tags: [infoBox, Location, City, Dunsmoutham, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Dunsmoutham
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Large Town 
 population: 3,404
-tags: [infoBox, Location, City, Dunsmoutham]
-title: Dunsmoutham
+country: Qajaria
+
 ---
-# Dunsmoutham
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,404
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Dunsmoutham.svg|250]]
+![[Locations/Cities/Qajaria/Dunsmoutham.svg|250]]
 
 <html>
     <div class="infobox">

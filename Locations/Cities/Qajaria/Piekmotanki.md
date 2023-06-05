@@ -1,19 +1,18 @@
 ---
-aliases: [Piekmotanki, "Piekmotanki"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Piekmotanki"
+aliases: "Piekmotanki"
+tags: [infoBox, Location, City, Piekmotanki, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Piekmotanki
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Large Town 
 population: 2,559
-tags: [infoBox, Location, City, Piekmotanki]
-title: Piekmotanki
+country: Qajaria
+
 ---
-# Piekmotanki
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,559
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Piekmotanki.svg|250]]
+![[Locations/Cities/Qajaria/Piekmotanki.svg|250]]
 
 <html>
     <div class="infobox">

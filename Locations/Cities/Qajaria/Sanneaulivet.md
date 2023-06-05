@@ -1,18 +1,17 @@
 ---
-aliases: [Sanneaulivet, "Sanneaulivet"]
-cityFeatures:
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Sanneaulivet"
+aliases: "Sanneaulivet"
+tags: [infoBox, Location, City, Sanneaulivet, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Sanneaulivet
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Walls
+cityType: Small Town 
 population: 1,019
-tags: [infoBox, Location, City, Sanneaulivet]
-title: Sanneaulivet
+country: Qajaria
+
 ---
-# Sanneaulivet
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,019
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Sanneaulivet.svg|250]]
+![[Locations/Cities/Qajaria/Sanneaulivet.svg|250]]
 
 <html>
     <div class="infobox">

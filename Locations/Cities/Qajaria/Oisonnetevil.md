@@ -1,20 +1,19 @@
 ---
-aliases: [Oisonnetevil, "Oisonnetevil"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Oisonnetevil"
+aliases: "Oisonnetevil"
+tags: [infoBox, Location, City, Oisonnetevil, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Oisonnetevil
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Large Town 
 population: 2,468
-tags: [infoBox, Location, City, Oisonnetevil]
-title: Oisonnetevil
+country: Qajaria
+
 ---
-# Oisonnetevil
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,468
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Oisonnetevil.svg|250]]
+![[Locations/Cities/Qajaria/Oisonnetevil.svg|250]]
 
 <html>
     <div class="infobox">

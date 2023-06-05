@@ -1,18 +1,17 @@
 ---
-aliases: [Hyvina, "Hyvina"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Hyvina"
+aliases: "Hyvina"
+tags: [infoBox, Location, City, Hyvina, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Hyvina
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 276
-tags: [infoBox, Location, City, Hyvina]
-title: Hyvina
+country: Qajaria
+
 ---
-# Hyvina
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 276
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Hyvina.svg|250]]
+![[Locations/Cities/Qajaria/Hyvina.svg|250]]
 
 <html>
     <div class="infobox">

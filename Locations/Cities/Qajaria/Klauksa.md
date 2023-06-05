@@ -1,21 +1,20 @@
 ---
-aliases: [Klauksa, "Klauksa"]
-cityFeatures:
-  - Plaza
-  - Port
-  - Temple
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Klauksa"
+aliases: "Klauksa"
+tags: [infoBox, Location, City, Klauksa, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Klauksa
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Port
+ - Temple
+ - Walls
+cityType: Small Town 
 population: 368
-tags: [infoBox, Location, City, Klauksa]
-title: Klauksa
+country: Qajaria
+
 ---
-# Klauksa
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 368
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Klauksa.svg|250]]
+![[Locations/Cities/Qajaria/Klauksa.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,21 +1,19 @@
 ---
-aliases: [Kuopioki, "Kuopioki"]
-capitalCity: CapitalCity
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: Yes
-linter-yaml-title-alias: Kuopioki
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
-population: 479
+title: "Kuopioki"
+aliases: "Kuopioki"
 tags: [infoBox, Location, City, Kuopioki, Capital]
-title: Kuopioki
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: Yes
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
+population: 479
+country: Qajaria
+capitalCity: CapitalCity
 ---
-# Kuopioki
 
 
 ```start-multi-column  
@@ -26,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 479
 
@@ -54,11 +52,6 @@ Kuopioki, the capital city of Qajaria, stands as a testament to the resilience a
 Kuopioki stands as a symbol of hope and unity, a place where survivors have come together to rebuild and forge a new future. In this post-apocalyptic world, the city remains a beacon of civilization, offering safety, trade, and a sense of community to those who call it home.
 
 
-
-
-
-
-
 --- end-column ---
 <html>
     <div class="infobox">
@@ -68,7 +61,7 @@ Kuopioki stands as a symbol of hope and unity, a place where survivors have come
     </div>
 </html>
 
-![[./Kuopioki.svg|250]]
+![[Locations/Cities/Qajaria/Kuopioki.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,18 +1,17 @@
 ---
-aliases: [Kaski, "Kaski"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Kaski"
+aliases: "Kaski"
+tags: [infoBox, Location, City, Kaski, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Kaski
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 576
-tags: [infoBox, Location, City, Kaski]
-title: Kaski
+country: Qajaria
+
 ---
-# Kaski
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 576
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Kaski.svg|250]]
+![[Locations/Cities/Qajaria/Kaski.svg|250]]
 
 <html>
     <div class="infobox">

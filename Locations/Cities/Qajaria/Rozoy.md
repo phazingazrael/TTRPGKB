@@ -1,19 +1,18 @@
 ---
-aliases: [Rozoy, "Rozoy"]
-cityFeatures:
-  - Citadel
-  - Port
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Rozoy"
+aliases: "Rozoy"
+tags: [infoBox, Location, City, Rozoy, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Rozoy
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Port
+cityType: Small Town 
 population: 1,992
-tags: [infoBox, Location, City, Rozoy]
-title: Rozoy
+country: Qajaria
+
 ---
-# Rozoy
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,992
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Rozoy.svg|250]]
+![[Locations/Cities/Qajaria/Rozoy.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,21 +1,20 @@
 ---
-aliases: [Parai, "Parai"]
-cityFeatures:
-  - Plaza
-  - Port
-  - Temple
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Parai"
+aliases: "Parai"
+tags: [infoBox, Location, City, Parai, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Parai
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Port
+ - Temple
+ - Walls
+cityType: Large Town 
 population: 3,008
-tags: [infoBox, Location, City, Parai]
-title: Parai
+country: Qajaria
+
 ---
-# Parai
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,008
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Parai.svg|250]]
+![[Locations/Cities/Qajaria/Parai.svg|250]]
 
 <html>
     <div class="infobox">

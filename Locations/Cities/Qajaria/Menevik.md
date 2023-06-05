@@ -1,18 +1,17 @@
 ---
-aliases: [Menevik, "Menevik"]
-cityFeatures:
-  - Citadel
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Menevik"
+aliases: "Menevik"
+tags: [infoBox, Location, City, Menevik, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Menevik
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Large Town 
 population: 2,525
-tags: [infoBox, Location, City, Menevik]
-title: Menevik
+country: Qajaria
+
 ---
-# Menevik
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,525
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Menevik.svg|250]]
+![[Locations/Cities/Qajaria/Menevik.svg|250]]
 
 <html>
     <div class="infobox">

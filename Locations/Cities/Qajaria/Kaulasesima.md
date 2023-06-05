@@ -1,18 +1,17 @@
 ---
-aliases: [Kaulasesima, "Kaulasesima"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Kaulasesima"
+aliases: "Kaulasesima"
+tags: [infoBox, Location, City, Kaulasesima, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Kaulasesima
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 943
-tags: [infoBox, Location, City, Kaulasesima]
-title: Kaulasesima
+country: Qajaria
+
 ---
-# Kaulasesima
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 943
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Kaulasesima.svg|250]]
+![[Locations/Cities/Qajaria/Kaulasesima.svg|250]]
 
 <html>
     <div class="infobox">

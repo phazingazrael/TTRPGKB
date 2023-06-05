@@ -1,19 +1,18 @@
 ---
-aliases: [Kausu, "Kausu"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Kausu"
+aliases: "Kausu"
+tags: [infoBox, Location, City, Kausu, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Kausu
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Small Town 
 population: 1,523
-tags: [infoBox, Location, City, Kausu]
-title: Kausu
+country: Qajaria
+
 ---
-# Kausu
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,523
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Kausu.svg|250]]
+![[Locations/Cities/Qajaria/Kausu.svg|250]]
 
 <html>
     <div class="infobox">

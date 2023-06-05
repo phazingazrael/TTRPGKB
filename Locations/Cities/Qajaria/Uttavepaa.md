@@ -1,20 +1,19 @@
 ---
-aliases: [Uttavepaa, "Uttavepaa"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Uttavepaa"
+aliases: "Uttavepaa"
+tags: [infoBox, Location, City, Uttavepaa, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Uttavepaa
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 624
-tags: [infoBox, Location, City, Uttavepaa]
-title: Uttavepaa
+country: Qajaria
+
 ---
-# Uttavepaa
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 624
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Uttavepaa.svg|250]]
+![[Locations/Cities/Qajaria/Uttavepaa.svg|250]]
 
 <html>
     <div class="infobox">

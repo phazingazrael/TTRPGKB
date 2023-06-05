@@ -1,19 +1,18 @@
 ---
-aliases: [Chevraimouy, "Chevraimouy"]
-cityFeatures:
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Chevraimouy"
+aliases: "Chevraimouy"
+tags: [infoBox, Location, City, Chevraimouy, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Chevraimouy
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 1,151
-tags: [infoBox, Location, City, Chevraimouy]
-title: Chevraimouy
+country: Qajaria
+
 ---
-# Chevraimouy
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,151
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Chevraimouy.svg|250]]
+![[Locations/Cities/Qajaria/Chevraimouy.svg|250]]
 
 <html>
     <div class="infobox">

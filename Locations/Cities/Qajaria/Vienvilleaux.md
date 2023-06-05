@@ -1,18 +1,17 @@
 ---
-aliases: [Vienvilleaux, "Vienvilleaux"]
-cityFeatures:
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Vienvilleaux"
+aliases: "Vienvilleaux"
+tags: [infoBox, Location, City, Vienvilleaux, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Vienvilleaux
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Walls
+cityType: Small Town 
 population: 785
-tags: [infoBox, Location, City, Vienvilleaux]
-title: Vienvilleaux
+country: Qajaria
+
 ---
-# Vienvilleaux
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 785
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Vienvilleaux.svg|250]]
+![[Locations/Cities/Qajaria/Vienvilleaux.svg|250]]
 
 <html>
     <div class="infobox">

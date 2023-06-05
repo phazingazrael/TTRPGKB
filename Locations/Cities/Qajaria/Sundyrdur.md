@@ -1,20 +1,19 @@
 ---
-aliases: [Sundyrdur, "Sundyrdur"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Port
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Sundyrdur"
+aliases: "Sundyrdur"
+tags: [infoBox, Location, City, Sundyrdur, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Sundyrdur
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Port
+cityType: Large Town 
 population: 3,482
-tags: [infoBox, Location, City, Sundyrdur]
-title: Sundyrdur
+country: Qajaria
+
 ---
-# Sundyrdur
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,482
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Sundyrdur.svg|250]]
+![[Locations/Cities/Qajaria/Sundyrdur.svg|250]]
 
 <html>
     <div class="infobox">

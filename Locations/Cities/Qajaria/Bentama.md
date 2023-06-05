@@ -1,21 +1,20 @@
 ---
-aliases: [Bentama, "Bentama"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Shanty Town
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Bentama"
+aliases: "Bentama"
+tags: [infoBox, Location, City, Bentama, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Bentama
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Shanty Town
+ - Walls
+cityType: Small Town 
 population: 1,179
-tags: [infoBox, Location, City, Bentama]
-title: Bentama
+country: Qajaria
+
 ---
-# Bentama
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,179
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Bentama.svg|250]]
+![[Locations/Cities/Qajaria/Bentama.svg|250]]
 
 <html>
     <div class="infobox">

@@ -90,7 +90,7 @@ attacks:
 Notes: Peach, asparagus, sleep tincture, mania potion
 
 ## Character Sheet
-![](./Hut-Hut.pdf)
+![](Players/Anna/Hut-Hut.pdf)
 --- end-column ---
 <html>
 <div class="infobox">
@@ -100,7 +100,7 @@ Notes: Peach, asparagus, sleep tincture, mania potion
 </div>
 </html>
 
-![[./Hut-Hut.jpg|250]]
+![[Players/Anna/Hut-Hut.jpg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">

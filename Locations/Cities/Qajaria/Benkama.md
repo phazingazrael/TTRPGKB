@@ -1,18 +1,17 @@
 ---
-aliases: [Benkama, "Benkama"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Benkama"
+aliases: "Benkama"
+tags: [infoBox, Location, City, Benkama, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Benkama
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 1,268
-tags: [infoBox, Location, City, Benkama]
-title: Benkama
+country: Qajaria
+
 ---
-# Benkama
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,268
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Benkama.svg|250]]
+![[Locations/Cities/Qajaria/Benkama.svg|250]]
 
 <html>
     <div class="infobox">

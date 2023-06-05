@@ -30,7 +30,7 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](./Celesenia.pdf)
+![](Players/Slade/Celesenia.pdf)
 --- end-column ---
 <html>
 <div class="infobox">

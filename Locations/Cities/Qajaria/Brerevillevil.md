@@ -1,18 +1,17 @@
 ---
-aliases: [Brerevillevil, "Brerevillevil"]
-cityFeatures:
-  - Port
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Brerevillevil"
+aliases: "Brerevillevil"
+tags: [infoBox, Location, City, Brerevillevil, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Brerevillevil
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Port
+cityType: Small Town 
 population: 401
-tags: [infoBox, Location, City, Brerevillevil]
-title: Brerevillevil
+country: Qajaria
+
 ---
-# Brerevillevil
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 401
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Brerevillevil.svg|250]]
+![[Locations/Cities/Qajaria/Brerevillevil.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,17 +1,16 @@
 ---
-aliases: [Greres, "Greres"]
+title: "Greres"
+aliases: "Greres"
+tags: [infoBox, Location, City, Greres, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Greres
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 1,279
-tags: [infoBox, Location, City, Greres]
-title: Greres
+country: Qajaria
+
 ---
-# Greres
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,279
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Greres.svg|250]]
+![[Locations/Cities/Qajaria/Greres.svg|250]]
 
 <html>
     <div class="infobox">

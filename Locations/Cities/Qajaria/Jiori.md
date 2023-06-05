@@ -1,18 +1,17 @@
 ---
-aliases: [Jiori, "Jiori"]
-cityFeatures:
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Jiori"
+aliases: "Jiori"
+tags: [infoBox, Location, City, Jiori, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Jiori
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+cityType: Small Town 
 population: 263
-tags: [infoBox, Location, City, Jiori]
-title: Jiori
+country: Qajaria
+
 ---
-# Jiori
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 263
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Jiori.svg|250]]
+![[Locations/Cities/Qajaria/Jiori.svg|250]]
 
 <html>
     <div class="infobox">

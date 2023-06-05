@@ -1,19 +1,18 @@
 ---
-aliases: [Harvijarvi, "Harvijarvi"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Harvijarvi"
+aliases: "Harvijarvi"
+tags: [infoBox, Location, City, Harvijarvi, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Harvijarvi
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Large Town 
 population: 3,890
-tags: [infoBox, Location, City, Harvijarvi]
-title: Harvijarvi
+country: Qajaria
+
 ---
-# Harvijarvi
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,890
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Harvijarvi.svg|250]]
+![[Locations/Cities/Qajaria/Harvijarvi.svg|250]]
 
 <html>
     <div class="infobox">

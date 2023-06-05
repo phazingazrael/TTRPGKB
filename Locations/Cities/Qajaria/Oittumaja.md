@@ -1,20 +1,19 @@
 ---
-aliases: [Oittumaja, "Oittumaja"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Oittumaja"
+aliases: "Oittumaja"
+tags: [infoBox, Location, City, Oittumaja, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Oittumaja
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 1,337
-tags: [infoBox, Location, City, Oittumaja]
-title: Oittumaja
+country: Qajaria
+
 ---
-# Oittumaja
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,337
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Oittumaja.svg|250]]
+![[Locations/Cities/Qajaria/Oittumaja.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,18 +1,17 @@
 ---
-aliases: [Laisa, "Laisa"]
-cityFeatures:
-  - Citadel
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Laisa"
+aliases: "Laisa"
+tags: [infoBox, Location, City, Laisa, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Laisa
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Large Town 
 population: 2,408
-tags: [infoBox, Location, City, Laisa]
-title: Laisa
+country: Qajaria
+
 ---
-# Laisa
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,408
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Laisa.svg|250]]
+![[Locations/Cities/Qajaria/Laisa.svg|250]]
 
 <html>
     <div class="infobox">

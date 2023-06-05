@@ -1,19 +1,18 @@
 ---
-aliases: [Yvasajola, "Yvasajola"]
-cityFeatures:
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Yvasajola"
+aliases: "Yvasajola"
+tags: [infoBox, Location, City, Yvasajola, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Yvasajola
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 237
-tags: [infoBox, Location, City, Yvasajola]
-title: Yvasajola
+country: Qajaria
+
 ---
-# Yvasajola
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 237
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Yvasajola.svg|250]]
+![[Locations/Cities/Qajaria/Yvasajola.svg|250]]
 
 <html>
     <div class="infobox">

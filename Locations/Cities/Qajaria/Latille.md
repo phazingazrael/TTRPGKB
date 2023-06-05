@@ -1,19 +1,18 @@
 ---
-aliases: [Latille, "Latille"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Latille"
+aliases: "Latille"
+tags: [infoBox, Location, City, Latille, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Latille
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Small Town 
 population: 242
-tags: [infoBox, Location, City, Latille]
-title: Latille
+country: Qajaria
+
 ---
-# Latille
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 242
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Latille.svg|250]]
+![[Locations/Cities/Qajaria/Latille.svg|250]]
 
 <html>
     <div class="infobox">

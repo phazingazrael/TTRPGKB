@@ -1,17 +1,16 @@
 ---
-aliases: [Rakka, "Rakka"]
+title: "Rakka"
+aliases: "Rakka"
+tags: [infoBox, Location, City, Rakka, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Rakka
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 2,699
-tags: [infoBox, Location, City, Rakka]
-title: Rakka
+country: Qajaria
+
 ---
-# Rakka
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,699
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Rakka.svg|250]]
+![[Locations/Cities/Qajaria/Rakka.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,17 +1,16 @@
 ---
-aliases: [Ogstad, "Ogstad"]
+title: "Ogstad"
+aliases: "Ogstad"
+tags: [infoBox, Location, City, Ogstad, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Ogstad
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 244
-tags: [infoBox, Location, City, Ogstad]
-title: Ogstad
+country: Qajaria
+
 ---
-# Ogstad
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 244
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Ogstad.svg|250]]
+![[Locations/Cities/Qajaria/Ogstad.svg|250]]
 
 <html>
     <div class="infobox">

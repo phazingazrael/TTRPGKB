@@ -9,10 +9,10 @@ title: The Party
 # The Party
 
 
-[[Hut-Hut]]
-[[Broonsbane]]
-[[Moss]]
-[[Cor Tacetoffa]]
-[[Austallica Torvi]]
-[[Celesenia]]
-[[Null]]
+[[Players/Anna/Hut-Hut|Hut-Hut]]
+[[Players/Armin/Broonsbane|Broonsbane]]
+[[Players/Chad/Moss|Moss]]
+[[Players/Deniz/Cor Tacetoffa|Cor Tacetoffa]]
+[[Players/Sam/Austallica Torvi|Austallica Torvi]]
+[[Players/Slade/Celesenia|Celesenia]]
+[[Players/Todd/Null|NULL]]

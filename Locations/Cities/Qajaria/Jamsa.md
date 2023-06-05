@@ -1,21 +1,20 @@
 ---
-aliases: [Jamsa, "Jamsa"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Port
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Jamsa"
+aliases: "Jamsa"
+tags: [infoBox, Location, City, Jamsa, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Jamsa
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Port
+ - Walls
+cityType: Small Town 
 population: 390
-tags: [infoBox, Location, City, Jamsa]
-title: Jamsa
+country: Qajaria
+
 ---
-# Jamsa
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 390
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Jamsa.svg|250]]
+![[Locations/Cities/Qajaria/Jamsa.svg|250]]
 
 <html>
     <div class="infobox">

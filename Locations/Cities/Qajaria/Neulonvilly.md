@@ -1,18 +1,17 @@
 ---
-aliases: [Neulonvilly, "Neulonvilly"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Neulonvilly"
+aliases: "Neulonvilly"
+tags: [infoBox, Location, City, Neulonvilly, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Neulonvilly
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 1,775
-tags: [infoBox, Location, City, Neulonvilly]
-title: Neulonvilly
+country: Qajaria
+
 ---
-# Neulonvilly
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,775
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Neulonvilly.svg|250]]
+![[Locations/Cities/Qajaria/Neulonvilly.svg|250]]
 
 <html>
     <div class="infobox">

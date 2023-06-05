@@ -1,18 +1,17 @@
 ---
-aliases: [Fjellvikho, "Fjellvikho"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Fjellvikho"
+aliases: "Fjellvikho"
+tags: [infoBox, Location, City, Fjellvikho, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Fjellvikho
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 259
-tags: [infoBox, Location, City, Fjellvikho]
-title: Fjellvikho
+country: Qajaria
+
 ---
-# Fjellvikho
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 259
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Fjellvikho.svg|250]]
+![[Locations/Cities/Qajaria/Fjellvikho.svg|250]]
 
 <html>
     <div class="infobox">

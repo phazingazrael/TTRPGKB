@@ -1,19 +1,18 @@
 ---
-aliases: [Shifton, "Shifton"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Shifton"
+aliases: "Shifton"
+tags: [infoBox, Location, City, Shifton, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Shifton
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Large Town 
 population: 2,918
-tags: [infoBox, Location, City, Shifton]
-title: Shifton
+country: Qajaria
+
 ---
-# Shifton
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,918
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Shifton.svg|250]]
+![[Locations/Cities/Qajaria/Shifton.svg|250]]
 
 <html>
     <div class="infobox">

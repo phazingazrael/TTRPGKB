@@ -1,20 +1,19 @@
 ---
-aliases: [Paarai, "Paarai"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Paarai"
+aliases: "Paarai"
+tags: [infoBox, Location, City, Paarai, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Paarai
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 1,423
-tags: [infoBox, Location, City, Paarai]
-title: Paarai
+country: Qajaria
+
 ---
-# Paarai
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,423
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Paarai.svg|250]]
+![[Locations/Cities/Qajaria/Paarai.svg|250]]
 
 <html>
     <div class="infobox">

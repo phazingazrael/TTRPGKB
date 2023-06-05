@@ -1,17 +1,16 @@
 ---
-aliases: [Kylosaajo, "Kylosaajo"]
+title: "Kylosaajo"
+aliases: "Kylosaajo"
+tags: [infoBox, Location, City, Kylosaajo, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Kylosaajo
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 252
-tags: [infoBox, Location, City, Kylosaajo]
-title: Kylosaajo
+country: Qajaria
+
 ---
-# Kylosaajo
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 252
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Kylosaajo.svg|250]]
+![[Locations/Cities/Qajaria/Kylosaajo.svg|250]]
 
 <html>
     <div class="infobox">

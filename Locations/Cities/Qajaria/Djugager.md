@@ -1,19 +1,18 @@
 ---
-aliases: [Djugager, "Djugager"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Djugager"
+aliases: "Djugager"
+tags: [infoBox, Location, City, Djugager, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Djugager
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Large Town 
 population: 2,975
-tags: [infoBox, Location, City, Djugager]
-title: Djugager
+country: Qajaria
+
 ---
-# Djugager
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,975
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Djugager.svg|250]]
+![[Locations/Cities/Qajaria/Djugager.svg|250]]
 
 <html>
     <div class="infobox">

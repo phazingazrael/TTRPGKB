@@ -1,18 +1,17 @@
 ---
-aliases: [Rozotska, "Rozotska"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Rozotska"
+aliases: "Rozotska"
+tags: [infoBox, Location, City, Rozotska, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Rozotska
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 456
-tags: [infoBox, Location, City, Rozotska]
-title: Rozotska
+country: Qajaria
+
 ---
-# Rozotska
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 456
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Rozotska.svg|250]]
+![[Locations/Cities/Qajaria/Rozotska.svg|250]]
 
 <html>
     <div class="infobox">

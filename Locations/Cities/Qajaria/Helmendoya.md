@@ -1,18 +1,17 @@
 ---
-aliases: [Helmendoya, "Helmendoya"]
-cityFeatures:
-  - Citadel
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Helmendoya"
+aliases: "Helmendoya"
+tags: [infoBox, Location, City, Helmendoya, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Helmendoya
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Large Town 
 population: 2,500
-tags: [infoBox, Location, City, Helmendoya]
-title: Helmendoya
+country: Qajaria
+
 ---
-# Helmendoya
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,500
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Helmendoya.svg|250]]
+![[Locations/Cities/Qajaria/Helmendoya.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,19 +1,18 @@
 ---
-aliases: [Meungnes, "Meungnes"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Meungnes"
+aliases: "Meungnes"
+tags: [infoBox, Location, City, Meungnes, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Meungnes
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Small Town 
 population: 256
-tags: [infoBox, Location, City, Meungnes]
-title: Meungnes
+country: Qajaria
+
 ---
-# Meungnes
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 256
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Meungnes.svg|250]]
+![[Locations/Cities/Qajaria/Meungnes.svg|250]]
 
 <html>
     <div class="infobox">

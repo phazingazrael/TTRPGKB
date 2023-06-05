@@ -1,19 +1,18 @@
 ---
-aliases: [Vrigny, "Vrigny"]
-cityFeatures:
-  - Citadel
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Vrigny"
+aliases: "Vrigny"
+tags: [infoBox, Location, City, Vrigny, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Vrigny
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+cityType: Small Town 
 population: 1,312
-tags: [infoBox, Location, City, Vrigny]
-title: Vrigny
+country: Qajaria
+
 ---
-# Vrigny
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,312
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Vrigny.svg|250]]
+![[Locations/Cities/Qajaria/Vrigny.svg|250]]
 
 <html>
     <div class="infobox">

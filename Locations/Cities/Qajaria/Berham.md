@@ -1,19 +1,18 @@
 ---
-aliases: [Berham, "Berham"]
-cityFeatures:
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Berham"
+aliases: "Berham"
+tags: [infoBox, Location, City, Berham, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Berham
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 273
-tags: [infoBox, Location, City, Berham]
-title: Berham
+country: Qajaria
+
 ---
-# Berham
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 273
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Berham.svg|250]]
+![[Locations/Cities/Qajaria/Berham.svg|250]]
 
 <html>
     <div class="infobox">

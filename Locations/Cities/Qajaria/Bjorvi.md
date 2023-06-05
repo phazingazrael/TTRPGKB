@@ -1,20 +1,19 @@
 ---
-aliases: [Bjorvi, "Bjorvi"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Port
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Bjorvi"
+aliases: "Bjorvi"
+tags: [infoBox, Location, City, Bjorvi, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Bjorvi
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Port
+cityType: Small Town 
 population: 973
-tags: [infoBox, Location, City, Bjorvi]
-title: Bjorvi
+country: Qajaria
+
 ---
-# Bjorvi
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 973
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Bjorvi.svg|250]]
+![[Locations/Cities/Qajaria/Bjorvi.svg|250]]
 
 <html>
     <div class="infobox">

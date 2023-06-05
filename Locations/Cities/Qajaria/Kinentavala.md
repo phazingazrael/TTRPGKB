@@ -1,17 +1,16 @@
 ---
-aliases: [Kinentavala, "Kinentavala"]
+title: "Kinentavala"
+aliases: "Kinentavala"
+tags: [infoBox, Location, City, Kinentavala, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Kinentavala
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 857
-tags: [infoBox, Location, City, Kinentavala]
-title: Kinentavala
+country: Qajaria
+
 ---
-# Kinentavala
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 857
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Kinentavala.svg|250]]
+![[Locations/Cities/Qajaria/Kinentavala.svg|250]]
 
 <html>
     <div class="infobox">

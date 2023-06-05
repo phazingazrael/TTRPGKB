@@ -1,18 +1,17 @@
 ---
-aliases: [Cheres, "Cheres"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Cheres"
+aliases: "Cheres"
+tags: [infoBox, Location, City, Cheres, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Cheres
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 649
-tags: [infoBox, Location, City, Cheres]
-title: Cheres
+country: Qajaria
+
 ---
-# Cheres
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 649
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Cheres.svg|250]]
+![[Locations/Cities/Qajaria/Cheres.svg|250]]
 
 <html>
     <div class="infobox">

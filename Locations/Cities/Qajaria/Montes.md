@@ -1,22 +1,21 @@
 ---
-aliases: [Montes, "Montes"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Port
-  - Temple
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Montes"
+aliases: "Montes"
+tags: [infoBox, Location, City, Montes, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Montes
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Port
+ - Temple
+ - Walls
+cityType: Small Town 
 population: 412
-tags: [infoBox, Location, City, Montes]
-title: Montes
+country: Qajaria
+
 ---
-# Montes
 
 
 ```start-multi-column  
@@ -27,7 +26,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 412
 
@@ -57,7 +56,7 @@ shadow: off
     </div>
 </html>
 
-![[./Montes.svg|250]]
+![[Locations/Cities/Qajaria/Montes.svg|250]]
 
 <html>
     <div class="infobox">

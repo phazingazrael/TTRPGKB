@@ -1,19 +1,18 @@
 ---
-aliases: [Huistouy, "Huistouy"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Huistouy"
+aliases: "Huistouy"
+tags: [infoBox, Location, City, Huistouy, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Huistouy
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Small Town 
 population: 1,403
-tags: [infoBox, Location, City, Huistouy]
-title: Huistouy
+country: Qajaria
+
 ---
-# Huistouy
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,403
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Huistouy.svg|250]]
+![[Locations/Cities/Qajaria/Huistouy.svg|250]]
 
 <html>
     <div class="infobox">

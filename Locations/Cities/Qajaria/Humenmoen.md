@@ -1,18 +1,17 @@
 ---
-aliases: [Humenmoen, "Humenmoen"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Humenmoen"
+aliases: "Humenmoen"
+tags: [infoBox, Location, City, Humenmoen, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Humenmoen
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 991
-tags: [infoBox, Location, City, Humenmoen]
-title: Humenmoen
+country: Qajaria
+
 ---
-# Humenmoen
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 991
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Humenmoen.svg|250]]
+![[Locations/Cities/Qajaria/Humenmoen.svg|250]]
 
 <html>
     <div class="infobox">

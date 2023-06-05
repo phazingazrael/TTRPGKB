@@ -1,17 +1,16 @@
 ---
-aliases: [Brory, "Brory"]
+title: "Brory"
+aliases: "Brory"
+tags: [infoBox, Location, City, Brory, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Brory
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 1,135
-tags: [infoBox, Location, City, Brory]
-title: Brory
+country: Qajaria
+
 ---
-# Brory
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,135
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Brory.svg|250]]
+![[Locations/Cities/Qajaria/Brory.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,22 +1,21 @@
 ---
-aliases: [Puinouve, "Puinouve"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Shanty Town
-  - Temple
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Puinouve"
+aliases: "Puinouve"
+tags: [infoBox, Location, City, Puinouve, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Puinouve
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Shanty Town
+ - Temple
+ - Walls
+cityType: Large Town 
 population: 2,537
-tags: [infoBox, Location, City, Puinouve]
-title: Puinouve
+country: Qajaria
+
 ---
-# Puinouve
 
 
 ```start-multi-column  
@@ -27,7 +26,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,537
 
@@ -57,7 +56,7 @@ shadow: off
     </div>
 </html>
 
-![[./Puinouve.svg|250]]
+![[Locations/Cities/Qajaria/Puinouve.svg|250]]
 
 <html>
     <div class="infobox">

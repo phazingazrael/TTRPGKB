@@ -1,18 +1,17 @@
 ---
-aliases: [Nines, "Nines"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Nines"
+aliases: "Nines"
+tags: [infoBox, Location, City, Nines, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Nines
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 285
-tags: [infoBox, Location, City, Nines]
-title: Nines
+country: Qajaria
+
 ---
-# Nines
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 285
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Nines.svg|250]]
+![[Locations/Cities/Qajaria/Nines.svg|250]]
 
 <html>
     <div class="infobox">

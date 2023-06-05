@@ -1,19 +1,18 @@
 ---
-aliases: [Djufargar, "Djufargar"]
-cityFeatures:
-  - Citadel
-  - Port
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Djufargar"
+aliases: "Djufargar"
+tags: [infoBox, Location, City, Djufargar, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Djufargar
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Port
+cityType: Large Town 
 population: 3,006
-tags: [infoBox, Location, City, Djufargar]
-title: Djufargar
+country: Qajaria
+
 ---
-# Djufargar
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 3,006
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Djufargar.svg|250]]
+![[Locations/Cities/Qajaria/Djufargar.svg|250]]
 
 <html>
     <div class="infobox">

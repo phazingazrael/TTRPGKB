@@ -1,18 +1,17 @@
 ---
-aliases: [Onstad, "Onstad"]
-cityFeatures:
-  - Plaza
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Onstad"
+aliases: "Onstad"
+tags: [infoBox, Location, City, Onstad, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Onstad
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+cityType: Small Town 
 population: 269
-tags: [infoBox, Location, City, Onstad]
-title: Onstad
+country: Qajaria
+
 ---
-# Onstad
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 269
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Onstad.svg|250]]
+![[Locations/Cities/Qajaria/Onstad.svg|250]]
 
 <html>
     <div class="infobox">

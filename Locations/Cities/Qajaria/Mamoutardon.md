@@ -1,20 +1,19 @@
 ---
-aliases: [Mamoutardon, "Mamoutardon"]
-cityFeatures:
-  - Citadel
-  - Plaza
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Mamoutardon"
+aliases: "Mamoutardon"
+tags: [infoBox, Location, City, Mamoutardon, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Mamoutardon
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Plaza
+ - Walls
+cityType: Small Town 
 population: 987
-tags: [infoBox, Location, City, Mamoutardon]
-title: Mamoutardon
+country: Qajaria
+
 ---
-# Mamoutardon
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 987
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Mamoutardon.svg|250]]
+![[Locations/Cities/Qajaria/Mamoutardon.svg|250]]
 
 <html>
     <div class="infobox">

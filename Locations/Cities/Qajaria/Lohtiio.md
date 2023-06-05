@@ -1,21 +1,20 @@
 ---
-aliases: [Lohtiio, "Lohtiio"]
-cityFeatures:
-  - Plaza
-  - Shanty Town
-  - Temple
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Lohtiio"
+aliases: "Lohtiio"
+tags: [infoBox, Location, City, Lohtiio, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Lohtiio
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Plaza
+ - Shanty Town
+ - Temple
+ - Walls
+cityType: Small Town 
 population: 264
-tags: [infoBox, Location, City, Lohtiio]
-title: Lohtiio
+country: Qajaria
+
 ---
-# Lohtiio
 
 
 ```start-multi-column  
@@ -26,7 +25,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 264
 
@@ -56,7 +55,7 @@ shadow: off
     </div>
 </html>
 
-![[./Lohtiio.svg|250]]
+![[Locations/Cities/Qajaria/Lohtiio.svg|250]]
 
 <html>
     <div class="infobox">

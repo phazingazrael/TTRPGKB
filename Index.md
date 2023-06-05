@@ -33,4 +33,4 @@ Eatheria is a world in the process of rediscovery. The remnants of the past hold
 As the inhabitants of Eatheria strive to rebuild, survive, and carve out their place in this new world, they face the challenges of a shattered civilization and the promise of hope amidst the ruins. The fate of Eatheria rests in the hands of its inhabitants, who must navigate the complexities of their new reality while confronting the shadows of their past.
 
 ## World Map
-![[./Eatheria_Map.svg]]
+![[docs/eatheria_map.svg]]

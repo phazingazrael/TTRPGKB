@@ -1,20 +1,19 @@
 ---
-aliases: [Soulise, "Soulise"]
-cityFeatures:
-  - Citadel
-  - Port
-  - Walls
-cityType: Large Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Soulise"
+aliases: "Soulise"
+tags: [infoBox, Location, City, Soulise, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Soulise
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Port
+ - Walls
+cityType: Large Town 
 population: 2,309
-tags: [infoBox, Location, City, Soulise]
-title: Soulise
+country: Qajaria
+
 ---
-# Soulise
 
 
 ```start-multi-column  
@@ -25,7 +24,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 2,309
 
@@ -55,7 +54,7 @@ shadow: off
     </div>
 </html>
 
-![[./Soulise.svg|250]]
+![[Locations/Cities/Qajaria/Soulise.svg|250]]
 
 <html>
     <div class="infobox">

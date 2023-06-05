@@ -1,17 +1,16 @@
 ---
-aliases: [Felvik, "Felvik"]
+title: "Felvik"
+aliases: "Felvik"
+tags: [infoBox, Location, City, Felvik, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Felvik
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 1,201
-tags: [infoBox, Location, City, Felvik]
-title: Felvik
+country: Qajaria
+
 ---
-# Felvik
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,201
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Felvik.svg|250]]
+![[Locations/Cities/Qajaria/Felvik.svg|250]]
 
 <html>
     <div class="infobox">

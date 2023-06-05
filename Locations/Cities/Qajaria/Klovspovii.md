@@ -1,17 +1,16 @@
 ---
-aliases: [Klovspovii, "Klovspovii"]
+title: "Klovspovii"
+aliases: "Klovspovii"
+tags: [infoBox, Location, City, Klovspovii, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Klovspovii
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 248
-tags: [infoBox, Location, City, Klovspovii]
-title: Klovspovii
+country: Qajaria
+
 ---
-# Klovspovii
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 248
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Klovspovii.svg|250]]
+![[Locations/Cities/Qajaria/Klovspovii.svg|250]]
 
 <html>
     <div class="infobox">

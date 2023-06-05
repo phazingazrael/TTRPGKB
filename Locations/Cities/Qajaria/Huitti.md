@@ -1,18 +1,17 @@
 ---
-aliases: [Huitti, "Huitti"]
-cityFeatures:
-  - Port
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Huitti"
+aliases: "Huitti"
+tags: [infoBox, Location, City, Huitti, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Huitti
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Port
+cityType: Small Town 
 population: 1,165
-tags: [infoBox, Location, City, Huitti]
-title: Huitti
+country: Qajaria
+
 ---
-# Huitti
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,165
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Huitti.svg|250]]
+![[Locations/Cities/Qajaria/Huitti.svg|250]]
 
 <html>
     <div class="infobox">

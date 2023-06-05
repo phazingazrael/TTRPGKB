@@ -1,18 +1,17 @@
 ---
-aliases: [Lokmokioi, "Lokmokioi"]
-cityFeatures:
-  - Port
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Lokmokioi"
+aliases: "Lokmokioi"
+tags: [infoBox, Location, City, Lokmokioi, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Lokmokioi
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Port
+cityType: Small Town 
 population: 1,322
-tags: [infoBox, Location, City, Lokmokioi]
-title: Lokmokioi
+country: Qajaria
+
 ---
-# Lokmokioi
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,322
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Lokmokioi.svg|250]]
+![[Locations/Cities/Qajaria/Lokmokioi.svg|250]]
 
 <html>
     <div class="infobox">

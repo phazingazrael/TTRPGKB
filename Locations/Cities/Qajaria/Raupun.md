@@ -1,17 +1,16 @@
 ---
-aliases: [Raupun, "Raupun"]
+title: "Raupun"
+aliases: "Raupun"
+tags: [infoBox, Location, City, Raupun, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Raupun
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 1,294
-tags: [infoBox, Location, City, Raupun]
-title: Raupun
+country: Qajaria
+
 ---
-# Raupun
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,294
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Raupun.svg|250]]
+![[Locations/Cities/Qajaria/Raupun.svg|250]]
 
 <html>
     <div class="infobox">

@@ -1,17 +1,16 @@
 ---
-aliases: [Leighton, "Leighton"]
+title: "Leighton"
+aliases: "Leighton"
+tags: [infoBox, Location, City, Leighton, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+isCapital: No
 cityFeatures: 
 cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
-isCapital: No
-linter-yaml-title-alias: Leighton
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
 population: 1,260
-tags: [infoBox, Location, City, Leighton]
-title: Leighton
+country: Qajaria
+
 ---
-# Leighton
 
 
 ```start-multi-column  
@@ -22,7 +21,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 1,260
 
@@ -52,7 +51,7 @@ shadow: off
     </div>
 </html>
 
-![[./Leighton.svg|250]]
+![[Locations/Cities/Qajaria/Leighton.svg|250]]
 
 <html>
     <div class="infobox">

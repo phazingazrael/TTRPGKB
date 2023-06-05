@@ -1,19 +1,18 @@
 ---
-aliases: [Cherin, "Cherin"]
-cityFeatures:
-  - Citadel
-  - Walls
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Cherin"
+aliases: "Cherin"
+tags: [infoBox, Location, City, Cherin, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Cherin
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+ - Walls
+cityType: Small Town 
 population: 308
-tags: [infoBox, Location, City, Cherin]
-title: Cherin
+country: Qajaria
+
 ---
-# Cherin
 
 
 ```start-multi-column  
@@ -24,7 +23,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 308
 
@@ -54,7 +53,7 @@ shadow: off
     </div>
 </html>
 
-![[./Cherin.svg|250]]
+![[Locations/Cities/Qajaria/Cherin.svg|250]]
 
 <html>
     <div class="infobox">

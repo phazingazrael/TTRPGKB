@@ -30,7 +30,7 @@ Work In Progress
 Work In Progress
 
 ### Character Sheet
-![](./Austallica%20Torvi.pdf)
+![](Players/Sam/Austallica%20Torvi.pdf)
 --- end-column ---
 <html>
 <div class="infobox">

@@ -1,18 +1,17 @@
 ---
-aliases: [Bonte, "Bonte"]
-cityFeatures:
-  - Citadel
-cityType: Small Town 
-country: Qajaria
-creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
+title: "Bonte"
+aliases: "Bonte"
+tags: [infoBox, Location, City, Bonte, ]
+creation_date: <%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %> 
+modification_date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 isCapital: No
-linter-yaml-title-alias: Bonte
-modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
+cityFeatures: 
+ - Citadel
+cityType: Small Town 
 population: 276
-tags: [infoBox, Location, City, Bonte]
-title: Bonte
+country: Qajaria
+
 ---
-# Bonte
 
 
 ```start-multi-column  
@@ -23,7 +22,7 @@ border: off
 shadow: off
 ```
 
-#### Country: [[Qajaria]]
+#### Country: [[Locations/Countries/Qajaria/United Provinces of Qajaria|United Provinces of Qajaria]]
 
 #### Population: 276
 
@@ -53,7 +52,7 @@ shadow: off
     </div>
 </html>
 
-![[./Bonte.svg|250]]
+![[Locations/Cities/Qajaria/Bonte.svg|250]]
 
 <html>
     <div class="infobox">
