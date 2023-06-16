@@ -84,7 +84,7 @@ attacks:
 ```
 
 ## Character Sheet
-![](Players/Armin/Broonsbane.pdf)
+![](./Broonsbane.pdf)
 
 --- end-column ---
 <html>
@@ -95,7 +95,7 @@ attacks:
 </div>
 </html>
 
-![[Players/Armin/DefaultPicture.svg|250]]
+![[./Broonsbane.jpg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">

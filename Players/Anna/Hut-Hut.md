@@ -27,6 +27,7 @@ Waiting for additional Player Information before Finalizing this page, If this i
 Work In Progress
 
 ## Stat Block
+
 ```statblock
 layout: Path2eBlock
 statblock: true
@@ -90,7 +91,7 @@ attacks:
 Notes: Peach, asparagus, sleep tincture, mania potion
 
 ## Character Sheet
-![](Players/Anna/Hut-Hut.pdf)
+![](./Hut-Hut.pdf)
 --- end-column ---
 <html>
 <div class="infobox">
@@ -100,7 +101,7 @@ Notes: Peach, asparagus, sleep tincture, mania potion
 </div>
 </html>
 
-![[Players/Anna/Hut-Hut.jpg|250]]
+![[./Hut-Hut.jpg|250]]
 <html>
     <div class="infobox">
         <div class="infobox-group">

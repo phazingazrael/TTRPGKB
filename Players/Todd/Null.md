@@ -30,7 +30,7 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](Players/Todd/NULL.pdf)
+![](./NULL.pdf)
 --- end-column ---
 <html>
 <div class="infobox">
@@ -39,7 +39,7 @@ Work In Progress
     </div>
 </div>
 </html>
-![[./DefaultPicture.svg|250]]
+![[./NULL.png|250]]
 
 <html>
     <div class="infobox">

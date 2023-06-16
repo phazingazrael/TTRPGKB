@@ -30,7 +30,7 @@ Work In Progress
 Work In Progress
 
 ## Character Sheet
-![](Players/Chad/Moss.pdf)
+![](./Moss.pdf)
 --- end-column ---
 <html>
 <div class="infobox">

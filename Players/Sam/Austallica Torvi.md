@@ -10,7 +10,7 @@ type:
   - Player
   - Sam
 ---
-## Austallica Torvi
+# Austallica Torvi
 
 ```start-multi-column  
 ID: Person-Player-AustallicaTorvi
@@ -20,17 +20,17 @@ border: off
 shadow: off
 ```
 
-### PLEASE NOTE ALL DATA HERE IS INACCURATE.
+## PLEASE NOTE ALL DATA HERE IS INACCURATE.
 Waiting for additional Player Information before Finalizing this page, If this is your character please copy the details on the right side to a document editor of choice (notepad, microsoft word, etc) and fill out details to send to GM.
 
-### Background
+## Background
 Work In Progress
 
-### Stat Block
+## Stat Block
 Work In Progress
 
-### Character Sheet
-![](Players/Sam/Austallica%20Torvi.pdf)
+## Character Sheet
+![](./Austallica%20Torvi.pdf)
 --- end-column ---
 <html>
 <div class="infobox">
@@ -39,8 +39,7 @@ Work In Progress
     </div>
 </div>
 </html>
-![[./DefaultPicture.svg|250]]
-
+![[./Austallica_Torvi.jpg|250]]
 
 <html>
     <div class="infobox">
