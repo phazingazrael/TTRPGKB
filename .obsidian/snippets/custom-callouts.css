@@ -1,0 +1,41 @@
+.callout[data-callout="statblock"] {
+  --callout-color: none;
+  --callout-icon: file-bar-chart;
+  margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: none;
+  max-width: 70%;
+  padding: 0px; 
+}
+
+.callout[data-callout="charactersheet"]{
+  --callout-color: none;
+  /*--callout-icon: file-spreadsheet;*/
+  --callout-icon: none !important;
+  margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: none;
+  max-width: 70%;
+  padding: 0px; 
+}
+
+/* Remove border and padding for embedded files */
+.callout[data-callout="statblock"] .markdown-embed,
+.callout[data-callout="charactersheet"] .markdown-embed,
+.callout[data-callout="statblock"] .file-embed,
+.callout[data-callout="charactersheet"] .file-embed{
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+/* Remove title and the table from the "Metatable" plugin */
+.callout[data-callout="statblock"] .markdown-embed-link,
+.callout[data-callout="charactersheet"] .markdown-embed-link,
+.callout[data-callout="statblock"] .file-embed-link,
+.callout[data-callout="charactersheet"] .file-embed-link,
+.callout[data-callout="statblock"] .markdown-embed-title,
+.callout[data-callout="charactersheet"] .markdown-embed-title,
+.callout[data-callout="statblock"] .obsidian-metatable,
+.callout[data-callout="charactersheet"] .obsidian-metatable {
+  display: none;
+}

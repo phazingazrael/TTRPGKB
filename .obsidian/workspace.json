@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc7438581460c11",
+        "id": "8bfa74e7d38ab400",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a1c61a01a074c7",
+            "id": "76419d136b025b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes & Recordings/Session4/Session 4.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes & Recordings/Session4/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes & Recordings/Session4/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Session Notes & Recordings/Session4/Session 4.md"
               }
             }
           }
@@ -149,56 +149,58 @@
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c3a1c61a01a074c7",
+  "active": "76419d136b025b4b",
   "lastOpenFiles": [
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
+    "docs/__attachments/eatheria_map.svg",
+    "docs/__attachments",
+    "docs/eatheria.html",
+    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/radiant-legion.svg",
+    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/radiant-legion.html",
+    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/emblem-edit-link.html",
     "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.svg",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
     "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
+    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion",
     "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/factions/militarygroups/qajaria/kuopioki",
-    "docs/factions/militarygroups/qajaria",
-    "docs/factions/guilds/trader's-guild.html",
-    "docs/factions/adventuringgroups/the-party.html",
-    "docs/factions/militarygroups",
-    "docs/factions/guilds",
-    "docs/factions/adventuringgroups",
-    "docs/factions",
+    "docs/factions/militarygroups/topoco/esmukkoria",
+    "docs/factions/guilds/trader's-guild/traders_guild.svg",
+    "docs/factions/guilds/arcanist-consortium/arcanist_consortium.svg",
     "docs/locations/cities/qajaria/aasaredakka.svg",
     "docs/locations/cities/qajaria/aschevillevan.svg",
     "docs/locations/cities/qajaria/aschevoy.svg",
     "docs/locations/cities/qajaria/aucourtevil.svg",
     "docs/locations/cities/qajaria/austrandra.svg",
     "docs/locations/cities/qajaria/bacray.svg",
-    "docs/locations/cities/qajaria/bauvy.svg",
-    "docs/locations/cities/qajaria/benkama.svg",
-    "docs/locations/cities/qajaria/bentama.svg",
+    "Eatheria.md",
     "Factions/AdventuringGroups/The Party.md",
-    "Factions/Guilds/Trader's Guild.md",
+    "Factions/Guilds/Arcanist Consortium/The Arcanist Consortium.md",
+    "Factions/Guilds/Trader's Guild/Trader's Guild.md",
+    "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-    "Index.md",
-    "Locations/Cities/Qajaria/Aasaredakka.md",
-    "Locations/Cities/Qajaria/Aschevillevan.md",
-    "Locations/Cities/Qajaria/Aschevoy.md",
-    "Locations/Cities/Qajaria/Aucourtevil.md",
-    "Locations/Cities/Qajaria/Austrandra.md",
-    "Locations/Cities/Qajaria/Bacray.md",
-    "Locations/Cities/Qajaria/Bauvy.md",
-    "Locations/Cities/Qajaria/Benkama.md",
-    "Locations/Cities/Qajaria/Bentama.md",
-    "Locations/Cities/Qajaria/Berham.md",
-    "Locations/Cities/Qajaria/Bevandillevoy.md",
-    "Locations/Cities/Qajaria/Bjorvi.md",
-    "Locations/Cities/Qajaria/Bonte.md",
-    "Locations/Cities/Qajaria/Bosting.md",
-    "Locations/Cities/Qajaria/Brerevillevil.md",
-    "Locations/Cities/Qajaria/Briarieuilles.md",
-    "Locations/Cities/Qajaria/Briatelleurs.md",
-    "Locations/Cities/Qajaria/Brory.md",
-    "Locations/Cities/Qajaria/Brotierreau.md",
-    "Locations/Cities/Qajaria/Burmouth.md"
+    "Factions/MilitaryGroups/Topoco/Esmukkoria/Radiant Legion/Emblem Edit Link.md",
+    "Factions/MilitaryGroups/Topoco/Esmukkoria/Radiant Legion/Radiant Legion.md",
+    "Factions/ReligiousGroups/Angshire Faith.md",
+    "Factions/ReligiousGroups/Astellianism.md",
+    "Factions/ReligiousGroups/Elladan Deities.md",
+    "Factions/ReligiousGroups/Euskati Shamanism.md",
+    "Factions/ReligiousGroups/Iconoclasm of the Disturbing Guardian.md",
+    "Factions/ReligiousGroups/Iurorumian Circle.md",
+    "Factions/ReligiousGroups/Keltan Forefathers.md",
+    "Factions/ReligiousGroups/Luari Beliefs.md",
+    "Factions/ReligiousGroups/Minetesmo Deities.md",
+    "Factions/ReligiousGroups/Nagymamoszomian Cult.md",
+    "Factions/ReligiousGroups/Norse Ancestors.md",
+    "Factions/ReligiousGroups/Old Astellian Deities.md",
+    "Factions/ReligiousGroups/Old Turchian Faith.md",
+    "Factions/ReligiousGroups/Portuzian Beliefs.md",
+    "Factions/ReligiousGroups/Romian Beliefs.md",
+    "Factions/ReligiousGroups/Schism of the Three.md"
   ]
 }

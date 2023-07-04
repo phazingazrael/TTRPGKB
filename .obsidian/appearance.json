@@ -1,12 +1,14 @@
 {
   "accentColor": "#cd4c9d",
-  "cssTheme": "Atom",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "InfoBox",
     "ITS-Theme-All-Alternate-Themes",
     "Pathfinder2E-TTRPG-Statblock-v1.3",
-    "PF2e-Actions-Font"
+    "PF2e-Actions-Font",
+    "custom-callouts",
+    "clean-embeds-all",
+    "ProStashio_Callouts"
   ],
   "nativeMenus": false,
   "translucency": false

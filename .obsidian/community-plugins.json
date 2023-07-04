@@ -16,5 +16,7 @@
   "obsidian-timelines",
   "obsidian-pandoc",
   "find-unlinked-files",
-  "obsidian-linter"
+  "obsidian-linter",
+  "dbfolder",
+  "obsidian-enhancing-export"
 ]

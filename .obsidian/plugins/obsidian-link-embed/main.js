@@ -843,10 +843,10 @@ var parsers = {
 
 // constants.ts
 var MarkdownTemplate = `\`\`\`embed
-title: '{{{title}}}'
-image: '{{{image}}}'
-description: '{{{description}}}'
-url: '{{{url}}}'
+title: "{{{title}}}"
+image: "{{{image}}}"
+description: "{{{description}}}"
+url: "{{{url}}}"
 \`\`\``;
 var HTMLTemplate = `<div
   style="
@@ -1346,7 +1346,13 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
           if (this.settings.debug) {
             console.log("Link Embed: meta data", data);
           }
-          const embed = mustache_default.render(template, data) + "\n";
+          const escapedData = {
+            title: data.title.replace(/"/g, '\\"'),
+            image: data.image,
+            description: data.description.replace(/"/g, '\\"'),
+            url: data.url
+          };
+          const embed = mustache_default.render(template, escapedData) + "\n";
           if (this.settings.delay > 0) {
             yield new Promise((f) => setTimeout(f, this.settings.delay));
           }
