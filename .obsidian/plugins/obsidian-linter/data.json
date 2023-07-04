@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "dg-publish: true"
+      "text-to-insert": ""
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -31,7 +31,7 @@
     },
     "remove-yaml-keys": {
       "enabled": false,
-      "yaml-keys-to-remove": ""
+      "yaml-keys-to-remove": "dg-publish: true"
     },
     "yaml-key-sort": {
       "enabled": true,

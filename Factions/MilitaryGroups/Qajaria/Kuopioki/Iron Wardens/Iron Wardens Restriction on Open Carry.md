@@ -3,7 +3,7 @@ aliases: [Iron Wardens Restriction on Open Carry]
 creation_date: '<%+ tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>' 
 linter-yaml-title-alias: Iron Wardens Restriction on Open Carry
 modification_date: '<%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>'
-tags: 
+tags: []
 title: Iron Wardens Restriction on Open Carry
 ---
 # Iron Wardens Restriction on Open Carry

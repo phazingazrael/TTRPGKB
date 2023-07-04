@@ -1,114 +1,4 @@
 
-/* --- InfoBox.css --- */  
- /* Infobox */
-
-.infobox {
-  margin: 0;
-  border: 0;
-  box-sizing: border-box;
-
-  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-    "Microsoft YaHei Light", sans-serif;
-
-  max-width: 250px;
-  color: #dcddde;
-
-  border: 2px solid rgba(255, 255, 255, 0.1);
-  border-radius: 4px;
-
-  background-color: rgba(255, 255, 255, 0);
-  padding: 6px;
-}
-
-/* Margin between blocks */
-.infobox > *:not(:last-child) {
-  margin-bottom: 6px;
-}
-
-/* Defines header container */
-.infobox .heading {
-  border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.1);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 12px;
-}
-
-
-/* Infobox main header */
-.infobox .heading h2 {
-  margin: 0;
-  line-height: 1;
-  font-size: 20px;
-}
-
-/* Infobox block header */
-.infobox .heading h3 {
-  margin: 0;
-  line-height: 1;
-  font-size: 16px;
-}
-
-.infobox-img {
-  display: block;
-  width: 100%;
-}
-
-/* Row inside a block*/
-.infobox-datarow {
-  font-size: 12px;
-}
-
-/* Block heading margin */
-.infobox-group .heading {
-  margin-bottom: 8px;
-}
-
-/* Defines data display */
-.infobox-datarow .data-heading,
-.infobox-datarow .data-content {
-  display: inline-block;
-  margin: 2px;
-  vertical-align: top;
-}
-
-.infobox-datarow .data-heading {
-  width: 72px;
-  font-weight: 500;
-  text-transform: capitalize;
-}
-
-.infobox-datarow .data-content {
-  list-style-type: none !important;
-  padding-left: 0;
-}
-
-.infobox-datarow .data-content * {
-  white-space: pre-wrap;
-}
-
-/* Removing bullets that obsidian renders from code blocks */
-.infobox .infobox-datarow .list-bullet::before,
-.infobox .infobox-datarow .list-bullet,
-.infobox .infobox-datarow .list-bullet::after {
-  all: unset !important;
-  display: none !important;
-}
-
-/* Removing padding of first column of multi-column markdown */
-.mcm-column-div:is(:first-child) {
-  padding-inline-start: 0px;
-}
-
-
-/* Increasing page width */
-body {
-  --file-line-width: 900px;
-}  
-
-
 /* --- ITS-Theme-All-Alternate-Themes.css --- */  
  @charset "UTF-8";
 /* @settings
@@ -4542,5 +4432,266 @@ body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_07 {
 .Pathfinder {
 font-family: "Pathfinder";
 }  
+
+
+/* --- custom-callouts.css --- */  
+ .callout[data-callout="statblock"] {
+  --callout-color: none;
+  --callout-icon: file-bar-chart;
+  margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: none;
+  max-width: 70%;
+  padding: 0px; 
+}
+
+.callout[data-callout="charactersheet"]{
+  --callout-color: none;
+  /*--callout-icon: file-spreadsheet;*/
+  --callout-icon: none !important;
+  margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: none;
+  max-width: 70%;
+  padding: 0px; 
+}
+
+/* Remove border and padding for embedded files */
+.callout[data-callout="statblock"] .markdown-embed,
+.callout[data-callout="charactersheet"] .markdown-embed,
+.callout[data-callout="statblock"] .file-embed,
+.callout[data-callout="charactersheet"] .file-embed{
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+/* Remove title and the table from the "Metatable" plugin */
+.callout[data-callout="statblock"] .markdown-embed-link,
+.callout[data-callout="charactersheet"] .markdown-embed-link,
+.callout[data-callout="statblock"] .file-embed-link,
+.callout[data-callout="charactersheet"] .file-embed-link,
+.callout[data-callout="statblock"] .markdown-embed-title,
+.callout[data-callout="charactersheet"] .markdown-embed-title,
+.callout[data-callout="statblock"] .obsidian-metatable,
+.callout[data-callout="charactersheet"] .obsidian-metatable {
+  display: none;
+}
+  
+
+
+/* --- clean-embeds-all.css --- */  
+ /*
+    clean-embeds-all.css snippet
+
+    Removes title, link, padding, margins from embeds,
+    so they really look like the same note.
+
+    This will not require a `cssclass` to be set but work for _all_ notes.
+    Derived from the `clean-embeds.css` snippet.
+
+    2021-08-24 Matthias C. Hormann (Moonbase59)
+
+    TODO: Find out how to correct PDF export. L/R margins & vspace too large on embeds.
+*/
+
+/* remove title and the table from the "Metatable" plugin */
+.markdown-preview-view .markdown-embed-title,
+.markdown-preview-view .obsidian-metatable {
+  display: none;
+}
+
+/*
+  For links to embeds NOT to be shown, uncomment the following
+  and comment out the other section below.
+*/
+
+/*
+.markdown-preview-view .markdown-embed-link,
+.markdown-preview-view .file-embed-link {
+  display: none;
+}
+*/
+
+/*
+  For links to embeds to BE shown, uncomment the following
+  until the "End link show/hide stuff" comment
+  and comment out the section above.
+*/
+
+/* Link icon */
+.markdown-preview-view .markdown-embed-link,
+.markdown-preview-view .file-embed-link {
+  top: 0;
+  right: 0;
+  left: unset;
+  text-align: right;
+  border: none;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+/* for Ars Magna theme and others that change ::before */
+.markdown-preview-view .markdown-embed-link::before,
+.markdown-preview-view .file-embed-link::before {
+  display: none;
+}
+
+/* Link icon size & hide */
+.markdown-preview-view .file-embed-link svg,
+.markdown-preview-view .markdown-embed-link svg {
+  height: 24px;
+  width: 24px;
+  opacity: 0;
+  display: unset;
+}
+
+/* show on hover */
+.markdown-preview-view .markdown-embed:hover .file-embed-link svg,
+.markdown-preview-view .markdown-embed:hover .markdown-embed-link svg {
+  opacity: 1;
+}
+
+/* change background on hover, to exactly see what’s embedded */
+.markdown-preview-view .markdown-embed:hover,
+.markdown-preview-view .file-embed:hover {
+  background-color: var(--background-secondary) !important;
+}
+
+/* End link show/hide stuff */
+
+
+
+/* remove border and scroll */
+/* unfortunately needs !important for some themes */
+.markdown-preview-view .markdown-embed,
+.markdown-preview-view .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-preview-view .markdown-embed-content,
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view { 
+  max-height: unset;
+  padding: 0 !important; /* !important for "Pisum" theme */
+  margin: 0;
+  border: 0;
+}
+
+/* remove <br> between internal embeds */
+.markdown-preview-section div > br {
+  display: none;
+}
+
+
+/* remove vertical space added by markdown-preview-sizer */
+ div.markdown-preview-sizer.markdown-preview-section {
+  min-height: unset !important;
+  padding-bottom: 0 !important;
+}
+
+/* special considerations for printing (PDF export) */
+@media print {
+
+  /* remove frontmatter box if "Show frontmatter" was enabled */
+  /* Also remove metadata table from "Metatable" plugin */
+  pre.frontmatter,
+  .obsidian-metatable {
+    display: none;
+  }
+}  
+
+
+/* --- ProStashio_Callouts.css --- */  
+ .callout.callout.callout[data-callout-metadata="npcs"] {
+   --callout-icon: users;
+   --callout-color: 173, 121, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="pois"] {
+   --callout-icon: map-pin;
+   --callout-color: 225, 225, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="shops"] {
+   --callout-icon: shopping-cart;
+   --callout-color: 90, 225, 120;
+}
+
+.callout.callout.callout[data-callout-metadata="map"] {
+   --callout-icon: map;
+   --callout-color: 102, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="districts"] {
+   --callout-icon: locate;
+   --callout-color: 255, 102, 192;
+}
+
+.callout.callout.callout[data-callout-metadata="overview"] {
+   --callout-icon: search;
+   --callout-color: 255, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="landmarks"] {
+   --callout-icon: landmark;
+   --callout-color: 225, 225, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="settlements"] {
+   --callout-icon: building-2;
+   --callout-color: 90, 225, 120;
+}
+
+.callout.callout.callout[data-callout-metadata="sessionlogs"] {
+   --callout-icon: album;
+   --callout-color: 255, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="quests"] {
+   --callout-icon: alert-circle;
+   --callout-color: 225, 225, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="sidequests"] {
+   --callout-icon: help-circle;
+   --callout-color: 225, 178, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="servicerequests"] {
+   --callout-icon: tag;
+   --callout-color: 102, 255, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="letters"] {
+   --callout-icon: mail;
+   --callout-color: 255, 102, 192;
+}
+
+.callout.callout.callout[data-callout-metadata="party"] {
+   --callout-icon: users;
+   --callout-color: 102, 178, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="friend"] {
+   --callout-icon: thumbs-up;
+   --callout-color: 80, 250, 57;
+}
+
+.callout.callout.callout[data-callout-metadata="foe"] {
+   --callout-icon: thumbs-down;
+   --callout-color: 250, 42, 42;
+}
+
+.callout.callout.callout[data-callout-metadata="holdings"] {
+   --callout-icon: warehouse;
+   --callout-color: 45, 260, 255;
+}
+
+
+/* https://lucide.dev */  
 
 

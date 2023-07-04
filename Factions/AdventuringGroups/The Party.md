@@ -9,10 +9,8 @@ title: The Party
 # The Party
 
 
-[[Players/Anna/Hut-Hut|Hut-Hut]]
-[[Players/Armin/Broonsbane|Broonsbane]]
-[[Players/Chad/Moss|Moss]]
-[[Players/Deniz/Cor Tacetoffa|Cor Tacetoffa]]
-[[Players/Sam/Austallica Torvi|Austallica Torvi]]
-[[Players/Slade/Celesenia|Celesenia]]
-[[Players/Todd/Null|NULL]]
+```dataview
+table player as "Player"
+from #Player and !"Obsidian"
+sort player 
+```

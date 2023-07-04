@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes & Recordings/Session4/Session 4.md",
+                "file": "Factions/ReligiousGroups/Angshire Faith.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes & Recordings/Session4/Session 4.md",
+                "file": "Factions/ReligiousGroups/Angshire Faith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes & Recordings/Session4/Session 4.md",
+                "file": "Factions/ReligiousGroups/Angshire Faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes & Recordings/Session4/Session 4.md"
+                "file": "Factions/ReligiousGroups/Angshire Faith.md"
               }
             }
           }
@@ -150,42 +150,37 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "webpage-html-export:Export Vault to HTML": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "76419d136b025b4b",
   "lastOpenFiles": [
-    "docs/__attachments/eatheria_map.svg",
-    "docs/__attachments",
-    "docs/eatheria.html",
-    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/radiant-legion.svg",
-    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/radiant-legion.html",
-    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion/emblem-edit-link.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.svg",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/iron-wardens-restriction-on-open-carry.html",
-    "docs/factions/militarygroups/topoco/esmukkoria/radiant-legion",
-    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens",
-    "docs/factions/militarygroups/topoco/esmukkoria",
     "docs/factions/guilds/trader's-guild/traders_guild.svg",
-    "docs/factions/guilds/arcanist-consortium/arcanist_consortium.svg",
-    "docs/locations/cities/qajaria/aasaredakka.svg",
-    "docs/locations/cities/qajaria/aschevillevan.svg",
-    "docs/locations/cities/qajaria/aschevoy.svg",
-    "docs/locations/cities/qajaria/aucourtevil.svg",
-    "docs/locations/cities/qajaria/austrandra.svg",
-    "docs/locations/cities/qajaria/bacray.svg",
-    "Eatheria.md",
+    "docs/factions/guilds/trader's-guild/trader's-guild.html",
+    "docs/factions/guilds/trader's-guild",
+    "docs/factions/militarygroups/qajaria/kuopioki/iron-wardens/emblem-edit-link.html",
+    "docs/factions/religiousgroups/vengrian-forefathers.html",
+    "docs/factions/religiousgroups/turchian-deities.html",
+    "docs/factions/religiousgroups/tallian-forefathers.html",
+    "docs/factions/religiousgroups/soumi-beliefs.html",
+    "docs/factions/religiousgroups/slovan-pantheon.html",
+    "docs/factions/religiousgroups/shwazen-beliefs.html",
+    "docs/factions/religiousgroups/schism-of-the-three.html",
     "Factions/AdventuringGroups/The Party.md",
-    "Factions/Guilds/Arcanist Consortium/The Arcanist Consortium.md",
+    "docs/locations/cities/berdia/zaraion.svg",
+    "docs/locations/cities/berdia/zakrorion.svg",
+    "docs/locations/cities/berdia/zakroicea.svg",
+    "docs/locations/cities/berdia/vatrea.svg",
+    "docs/locations/cities/berdia/vathos.svg",
+    "docs/locations/cities/berdia/tyreumpo.svg",
+    "docs/locations/cities/berdia/trolixt.svg",
+    "docs/locations/cities/berdia/thyros.svg",
+    "docs/locations/cities/berdia/tholis.svg",
+    "docs/locations/cities/berdia/theolyme.svg",
     "Factions/Guilds/Trader's Guild/Trader's Guild.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Emblem Edit Link.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens Restriction on Open Carry.md",
     "Factions/MilitaryGroups/Qajaria/Kuopioki/Iron Wardens/Iron Wardens.md",
-    "Factions/MilitaryGroups/Topoco/Esmukkoria/Radiant Legion/Emblem Edit Link.md",
-    "Factions/MilitaryGroups/Topoco/Esmukkoria/Radiant Legion/Radiant Legion.md",
     "Factions/ReligiousGroups/Angshire Faith.md",
     "Factions/ReligiousGroups/Astellianism.md",
     "Factions/ReligiousGroups/Elladan Deities.md",
@@ -201,6 +196,10 @@
     "Factions/ReligiousGroups/Old Turchian Faith.md",
     "Factions/ReligiousGroups/Portuzian Beliefs.md",
     "Factions/ReligiousGroups/Romian Beliefs.md",
-    "Factions/ReligiousGroups/Schism of the Three.md"
+    "Factions/ReligiousGroups/Schism of the Three.md",
+    "Factions/ReligiousGroups/Shwazen Beliefs.md",
+    "Factions/ReligiousGroups/Slovan Pantheon.md",
+    "Factions/ReligiousGroups/Soumi Beliefs.md",
+    "Factions/ReligiousGroups/Tallian Forefathers.md"
   ]
 }
